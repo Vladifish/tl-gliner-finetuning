@@ -46,7 +46,7 @@ def main(
         if ds is None:
             msg.fail(f"Dataset :: {local_dataset} not found! Exiting", exits=1)
     else:
-        ds = load_dataset(dataset)
+        ds = load_dataset(dataset, trust_remote_code=True)
 
     # Retrieve the NER labels
     label_map = srsly.read_json("assets/mapped_labels.json")
@@ -58,6 +58,7 @@ def main(
     # label wizardy to be used in format_to_gliner
     labels = label_map["labels"]
     iob_mapping = label_map["iob_mapping"]
+    
     def convert_iobIndex_to_baseEntity(iob_idx : int) -> str | None:
         """
         Converts the iob index (the keys of the iob_mapping) 
