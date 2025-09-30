@@ -6,6 +6,7 @@ import torch
 import typer
 from datasets import load_dataset
 from gliner import GLiNER
+from transformers.pytorch_utils import ALL_LAYERNORM_LAYERS
 from gliner.data_processing.collator import DataCollator
 from gliner.training import Trainer, TrainingArguments
 from wasabi import msg
@@ -19,9 +20,15 @@ def main(
     push_to_hub: Optional[str] = typer.Option(None, help="If set, will upload the trained model to the provided Huggingface model namespace."),
     num_steps: int = typer.Option(500, help="Number of steps to run training."),
     batch_size: int = typer.Option(8, help="Batch size used for training."),
-    dataset: str = typer.Option("ljvmiranda/tlunified-ner", help="Path to the TLUnified-NER dataset."),
+    dataset: str = typer.Option("ljvmiranda921/tlunified-ner", help="Path to the TLUnified-NER dataset."),
+    size: str = typer.Option("large", help="Size of the GLiNER model to use."),
     # fmt: on
 ):
+    
+    # workaround I did
+    import os; 
+    os.makedirs(f'models/gliner_{size}', exist_ok=True); 
+    os.makedirs(f'checkpoints/ckpt_gliner_gliner_{size}', exist_ok=True);
 
     if push_to_hub:
         api_token = os.getenv("HF_TOKEN")
@@ -103,6 +110,7 @@ def main(
         per_device_eval_batch_size=batch_size,
         num_train_epochs=num_epochs,
         evaluation_strategy="steps",
+        # eval_strategy="steps",
         save_steps=num_steps * 2,
         save_total_limit=10,
         dataloader_num_workers=0,

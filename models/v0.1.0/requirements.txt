@@ -1,6 +1,0 @@
-pathy[gcs]
-spacy>=3.5.0
-spacy-huggingface-hub>=0.0.9
-spacy-transformers>=1.2.5,<1.3.0
-typer
-wasabi

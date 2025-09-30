@@ -1,7 +1,0 @@
-calamancy==0.1.0
-pathy[gcs]
-scipy
-spacy>=3.5.0
-spacy-transformers
-typer
-wasabi
