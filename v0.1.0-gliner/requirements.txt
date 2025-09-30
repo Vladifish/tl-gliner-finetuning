@@ -1,0 +1,10 @@
+accelerate
+conllu
+datasets
+gliner==0.2.8
+--extra-index-url https://download.pytorch.org/whl/cu129 # edit this based on your cuda version mine is 12.9
+# torch==2.8.0+cu129
+transformers<=4.45.2 # important for gliner version compatibility
+gliner-spacy
+huggingface_hub
+spacy

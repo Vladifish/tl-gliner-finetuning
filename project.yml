@@ -27,7 +27,7 @@ description: |
 
   ```sh
   # Available options: 'small', 'medium', 'large'
-  python -m spacy project run eval-gliner . --vars.size small
+  python -m spacy project run eval-gliner . --vars.size small --local-
   ```
 
   This will evaluate on TLUnified-NER's test set ([Miranda, 2023](https://aclanthology.org/2023.sealp-1.2.pdf)) and the Tagalog subsets of
@@ -114,39 +114,43 @@ env:
   TOKENIZERS_PARALLELISM: TOKENIZERS_PARALLELISM
 
 commands:
+  - name: "generate-labels"
+    help: "Generate the label mapping file"
+    script:
+      - python generate_iob.py --output-path ../assets/
+    outputs:
+      - assets/mapped_labels.json
+
   - name: "finetune-gliner"
     help: "Finetune the GliNER model using TLUnified-NER"
     script:
-      # - mkdir -p models/gliner_${vars.size}
-      # - mkdir -p checkpoints/ckpt_gliner_${vars.size}
-      # - python -c "import os; os.makedirs('models/gliner_small', exist_ok=True);"
-      # - python -c "import os; os.makedirs('checkpoints/ckpt_gliner_gliner_small', exist_ok=True);"
       - >-
-        python train.py
+        python v0.1.0-gliner/train.py
           gliner-community/gliner_${vars.size}-v2.5
           models/gliner_${vars.size}
           --checkpoint-dir checkpoints/ckpt_gliner_${vars.size}
-          --push-to-hub ljvmiranda921/tl_gliner_${vars.size}
+          --push-to-hub etdvprg/tl_gliner_${vars.size}
           --num-steps ${vars.num_steps}
           --batch-size ${vars.batch_size}
-          --dataset ljvmiranda921/tlunified-ner
+          --dataset etdvprg/gold-ml-batch1
+          --local-dataset batch_1
     outputs:
-      - models/gliner_${vars.size}
-      - checkpoints/ckpt_gliner_${vars.size}
+      - v0.1.0-gliner/models/gliner_${vars.size}
+      - v0.1.0-gliner/checkpoints/ckpt_gliner_${vars.size}
 
   - name: "eval-gliner"
     help: "Evaluate trained GliNER models on the TLUnified-NER and Universal NER test sets"
     script:
       # TLUnified-NER
       - >-
-        python evaluate.py
+        python v0.1.0-gliner/evaluate.py
           metrics/model___tl_gliner_${vars.size}_dataset___ljvmiranda921-tlunified-ner.json
           --model-name ljvmiranda921/tl_gliner_${vars.size}
           --dataset ljvmiranda921/tlunified-ner
           --label-map person::PER,location::LOC,organization::ORG
       # Universal NER (tl_trg)
       - >-
-        python evaluate.py
+        python v0.1.0-gliner/evaluate.py
           metrics/model___tl_gliner_${vars.size}_dataset___universalner-universal_ner.json
           --model-name ljvmiranda921/tl_gliner_${vars.size}
           --dataset universalner/universal_ner
@@ -154,7 +158,7 @@ commands:
           --label-map person::PER,location::LOC,organization::ORG
       # Universal NER (tl_ugnayan)
       - >-
-        python evaluate.py
+        python v0.1.0-gliner/evaluate.py
           metrics/model___tl_gliner_${vars.size}_dataset___universalner-universal_ner.json
           --model-name ljvmiranda921/tl_gliner_${vars.size}
           --dataset universalner/universal_ner

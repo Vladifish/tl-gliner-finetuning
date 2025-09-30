@@ -4,13 +4,15 @@ from typing import Optional
 
 import torch
 import typer
-from datasets import load_dataset
+from datasets import load_dataset, load_from_disk
 from gliner import GLiNER
 from transformers.pytorch_utils import ALL_LAYERNORM_LAYERS
 from gliner.data_processing.collator import DataCollator
 from gliner.training import Trainer, TrainingArguments
 from wasabi import msg
+import srsly
 
+import math
 
 def main(
     # fmt: off
@@ -20,16 +22,16 @@ def main(
     push_to_hub: Optional[str] = typer.Option(None, help="If set, will upload the trained model to the provided Huggingface model namespace."),
     num_steps: int = typer.Option(500, help="Number of steps to run training."),
     batch_size: int = typer.Option(8, help="Batch size used for training."),
-    dataset: str = typer.Option("ljvmiranda921/tlunified-ner", help="Path to the TLUnified-NER dataset."),
-    size: str = typer.Option("large", help="Size of the GLiNER model to use."),
+    dataset: str = typer.Option("etdvprg/gold-ml-batch1", help="Path to the PHMartialLawNER dataset."),
+    local_dataset: str = typer.Option(None, help="The name of the local dataset. Leave blank if the dataset would be retrieved remotely."),
+    size: str = typer.Option("small", help="Size of the GLiNER model to use."),
     # fmt: on
-):
-    
-    # workaround I did
-    import os; 
-    os.makedirs(f'models/gliner_{size}', exist_ok=True); 
-    os.makedirs(f'checkpoints/ckpt_gliner_gliner_{size}', exist_ok=True);
+):  
+    # set up model storage in the proper directory
+    os.makedirs(f'v0.1.0-gliner/models/gliner_{size}', exist_ok=True); 
+    os.makedirs(f'v0.1.0-gliner/checkpoints/ckpt_gliner_gliner_{size}', exist_ok=True);
 
+    # setting to decide if dataset should be pushed
     if push_to_hub:
         api_token = os.getenv("HF_TOKEN")
         if not api_token:
@@ -37,17 +39,47 @@ def main(
 
     # Load and Format the dataset
     msg.info(f"Formatting the {dataset} dataset")
-    ds = load_dataset(dataset)
+    
+    if local_dataset:
+        corpus_path = Path(f"experiments/corpus/{str(local_dataset)}")
+        ds = load_from_disk(corpus_path)
+        if ds is None:
+            msg.fail(f"Dataset :: {local_dataset} not found! Exiting", exits=1)
+    else:
+        ds = load_dataset(dataset)
 
+    # Retrieve the NER labels
+    label_map = srsly.read_json("assets/mapped_labels.json")
+
+    if label_map is None:
+            msg.fail("mapped_labels.json not found! Cannot convert entity type", exits=1)
+            return # to ease the compiler
+    
+    # label wizardy to be used in format_to_gliner
+    labels = label_map["labels"]
+    iob_mapping = label_map["iob_mapping"]
+    def convert_iobIndex_to_baseEntity(iob_idx : int) -> str | None:
+        """
+        Converts the iob index (the keys of the iob_mapping) 
+        into their original labels (without -I or -B)
+        """
+        # edge case, this shouldn't be reached
+        if iob_idx == 0:
+            return None
+        
+        # wizardry
+        label_idx = math.floor((iob_idx-1) / 2)
+        return labels[label_idx]
+    
+    # the iob ids and their respective labels
+    id2label = {}
+    for i in range(1, len(iob_mapping)):
+        id2label.update({i : convert_iobIndex_to_baseEntity(i)})
+    
     def format_to_gliner(example):
-        id2label = {
-            1: "person",
-            2: "person",
-            3: "organization",
-            4: "organization",
-            5: "location",
-            6: "location",
-        }
+        """
+        Formats the dataset into a format that can be processed by gliner
+        """
 
         tokens = example["tokens"]
         ner_tags = example["ner_tags"]
@@ -109,8 +141,8 @@ def main(
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=batch_size,
         num_train_epochs=num_epochs,
-        evaluation_strategy="steps",
-        # eval_strategy="steps",
+        # evaluation_strategy="steps", # deprecated
+        eval_strategy="steps",
         save_steps=num_steps * 2,
         save_total_limit=10,
         dataloader_num_workers=0,
