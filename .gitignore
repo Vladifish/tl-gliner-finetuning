@@ -163,16 +163,22 @@ cython_debug/
 #.idea/
 
 # spaCy related
-assets/
+# assets/
 training/
 package/
 metrics/
+models/
+checkpoints/
 pretraining/
 vectors/
-corpus/
+# corpus/
 notebooks/
 summarized_metrics/
 project.lock
 wandb/
 .vscode/
 gcs_creds.json
+
+# code tester notebooks
+scratch.ipynb
+tester.ipynb

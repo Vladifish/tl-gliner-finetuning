@@ -8,3 +8,7 @@ transformers<=4.45.2 # important for gliner version compatibility
 gliner-spacy
 huggingface_hub
 spacy
+
+evaluate
+scikit-learn
+seqeval

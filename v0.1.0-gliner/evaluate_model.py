@@ -6,29 +6,43 @@ import spacy
 import srsly
 import torch
 import typer
-from datasets import Dataset, load_dataset
+from datasets import Dataset, load_dataset, load_from_disk
 from spacy.scorer import Scorer
 from spacy.tokens import Doc, Span
 from spacy.training import Example
 from wasabi import msg
 
+import math
+
+label_map = srsly.read_json("assets/mapped_labels.json")
+
+if label_map is None:
+        msg.fail("mapped_labels.json not found! Cannot convert entity type", exits=1)
+
+labels = label_map["labels"]
+msg.info(labels)
 
 def main(
     # fmt: off
     output_path: Path = typer.Argument(..., help="Path to store the metrics in JSON format."),
     model_name: str = typer.Option("ljvmiranda921/tl_gliner_small", show_default=True, help="GliNER model to use for evaluation."),
-    dataset: str = typer.Option("ljvmiranda921/tlunified-ner", help="Dataset to evaluate upon."),
+    dataset: str = typer.Option("./model/gliner_small", help="Dataset to evaluate upon."),
     threshold: float = typer.Option(0.5, help="The threshold of the GliNER model (controls the degree to which a hit is considered an entity)."),
     dataset_config: Optional[str] = typer.Option(None, help="Configuration for loading the dataset."),
     chunk_size: int = typer.Option(250, help="Size of the text chunk to be processed at once."),
-    label_map: str = typer.Option("person::PER,organization::ORG,location::LOC", help="Mapping between GliNER labels and the dataset's actual labels (separated by a double-colon '::')."),
+    local_dataset: str = typer.Option(None, help="The name of the local dataset. Leave blank if the dataset would be retrieved remotely."),
     # fmt: on
 ):
-    label_map: Dict[str, str] = process_labels(label_map)
-    msg.text(f"Using label map: {label_map}")
 
+    # Process the test data first
     msg.info("Processing test dataset")
-    ds = load_dataset(dataset, dataset_config, split="test", trust_remote_code=True)
+
+    if local_dataset is None:
+        ds = load_dataset(dataset, dataset_config, split="test")
+    else:
+        corpus_path = Path(f"assets/corpus/{str(local_dataset)}/dataset_full")
+        ds = load_from_disk(corpus_path)["test"] # this is a dataset dictionary anyways
+    
     ref_docs = convert_hf_to_spacy_docs(ds)
 
     msg.info("Loading GliNER model")
@@ -38,7 +52,7 @@ def main(
         config={
             "gliner_model": model_name,
             "chunk_size": chunk_size,
-            "labels": list(label_map.keys()),
+            "labels": labels,
             "threshold": threshold,
             "style": "ent",
             "map_location": "cuda" if torch.cuda.is_available() else "cpu",
@@ -47,7 +61,7 @@ def main(
     msg.text("Getting predictions")
     docs = deepcopy(ref_docs)
     pred_docs = list(nlp.pipe(docs))
-    pred_docs = [update_entity_labels(doc, label_map) for doc in pred_docs]
+    pred_docs = [update_entity_labels(doc) for doc in pred_docs]
 
     # Get the scores
     examples = [
@@ -60,18 +74,27 @@ def main(
     srsly.write_json(output_path, data=scores, indent=2)
     msg.good(f"Saving outputs to {output_path}")
 
-
-def process_labels(label_map: str) -> Dict[str, str]:
-    return {m.split("::")[0]: m.split("::")[1] for m in label_map.split(",")}
+def convert_iobIndex_to_baseEntity(iob_idx : int) -> str | None:
+    """
+    Converts the iob index (the keys of the iob_mapping) 
+    into their original labels (without -I or -B)
+    """
+    # edge case, this shouldn't be reached
+    if iob_idx == 0:
+        return None
+    
+    # wizardry
+    label_idx = math.floor((iob_idx-1) / 2)
+    return labels[label_idx]
 
 
 def convert_hf_to_spacy_docs(dataset: "Dataset") -> Iterable[Doc]:
     nlp = spacy.blank("tl")
     examples = dataset.to_list()
     entity_types = {
-        idx: feature.split("-")[1]
-        for idx, feature in enumerate(dataset.features["ner_tags"].feature.names)
-        if feature != "O"  # don't include empty
+        int(idx): convert_iobIndex_to_baseEntity(int(idx))
+        for idx in label_map["iob_mapping"].keys()
+        if idx != "0"
     }
     msg.text(f"Using entity types: {entity_types}")
 
@@ -106,11 +129,10 @@ def convert_hf_to_spacy_docs(dataset: "Dataset") -> Iterable[Doc]:
 
     return docs
 
-
-def update_entity_labels(doc: Doc, label_mapping: Dict[str, str]) -> Doc:
+def update_entity_labels(doc: Doc) -> Doc:
     updated_ents = []
     for ent in doc.ents:
-        new_label = label_mapping.get(ent.label_.lower(), ent.label_)
+        new_label = ent.label_
         updated_span = Span(doc, ent.start, ent.end, label=new_label)
         updated_ents.append(updated_span)
 

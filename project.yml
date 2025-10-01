@@ -27,7 +27,7 @@ description: |
 
   ```sh
   # Available options: 'small', 'medium', 'large'
-  python -m spacy project run eval-gliner . --vars.size small --local-
+  python -m spacy project run eval-gliner . --vars.size small
   ```
 
   This will evaluate on TLUnified-NER's test set ([Miranda, 2023](https://aclanthology.org/2023.sealp-1.2.pdf)) and the Tagalog subsets of
@@ -102,7 +102,11 @@ vars:
   # Training
   size: small
   num_steps: 10000
-  batch_size: 8
+  batch_size: 6
+  lang: tl
+  test_batch: batch_1_2
+  owner: etdvprg
+  dataset: PHMartialLaw-NER_b12
 
 directories:
   - "checkpoints"
@@ -117,9 +121,15 @@ commands:
   - name: "generate-labels"
     help: "Generate the label mapping file"
     script:
-      - python generate_iob.py --output-path ../assets/
+      - python scripts/generate_iob.py --output-path ../assets/
     outputs:
       - assets/mapped_labels.json
+
+  # - name: "create-config"
+  #   help: "Create baseline and transformer configs with an NER pipeline component"
+  #   script:
+  #     # Baseline (tok2vec)
+  #     - "python -m spacy init config --lang ${vars.lang} --pipeline ner configs/config.cfg --optimize accuracy --force"
 
   - name: "finetune-gliner"
     help: "Finetune the GliNER model using TLUnified-NER"
@@ -127,40 +137,25 @@ commands:
       - >-
         python v0.1.0-gliner/train.py
           gliner-community/gliner_${vars.size}-v2.5
-          models/gliner_${vars.size}
-          --checkpoint-dir checkpoints/ckpt_gliner_${vars.size}
-          --push-to-hub etdvprg/tl_gliner_${vars.size}
+          models/${vars.test_batch}/gliner_${vars.size}
+          --checkpoint-dir checkpoints/${vars.test_batch}/ckpt_gliner_${vars.size}
           --num-steps ${vars.num_steps}
           --batch-size ${vars.batch_size}
-          --dataset etdvprg/gold-ml-batch1
-          --local-dataset batch_1
+          --dataset ${vars.owner}/${vars.dataset}
+          --local-dataset ${vars.test_batch}
+      # --push-to-hub etdvprg/tl_gliner_${vars.size}
     outputs:
       - v0.1.0-gliner/models/gliner_${vars.size}
       - v0.1.0-gliner/checkpoints/ckpt_gliner_${vars.size}
 
   - name: "eval-gliner"
-    help: "Evaluate trained GliNER models on the TLUnified-NER and Universal NER test sets"
+    help: "Evaluate trained GliNER models on the PHMartialLaw-NER dataset"
     script:
       # TLUnified-NER
       - >-
-        python v0.1.0-gliner/evaluate.py
-          metrics/model___tl_gliner_${vars.size}_dataset___ljvmiranda921-tlunified-ner.json
-          --model-name ljvmiranda921/tl_gliner_${vars.size}
-          --dataset ljvmiranda921/tlunified-ner
-          --label-map person::PER,location::LOC,organization::ORG
-      # Universal NER (tl_trg)
-      - >-
-        python v0.1.0-gliner/evaluate.py
-          metrics/model___tl_gliner_${vars.size}_dataset___universalner-universal_ner.json
-          --model-name ljvmiranda921/tl_gliner_${vars.size}
-          --dataset universalner/universal_ner
-          --dataset-config tl_trg
-          --label-map person::PER,location::LOC,organization::ORG
-      # Universal NER (tl_ugnayan)
-      - >-
-        python v0.1.0-gliner/evaluate.py
-          metrics/model___tl_gliner_${vars.size}_dataset___universalner-universal_ner.json
-          --model-name ljvmiranda921/tl_gliner_${vars.size}
-          --dataset universalner/universal_ner
-          --dataset-config tl_ugnayan
-          --label-map person::PER,location::LOC,organization::ORG
+        python v0.1.0-gliner/evaluate_model.py
+          metrics/model___tl_gliner_${vars.size}_dataset___${vars.dataset}.json
+          --model-name ./models/gliner_${vars.size}
+          --dataset ${vars.owner}/${vars.dataset}
+          --local-dataset ${vars.test_batch}
+      # label to actual not currently used
