@@ -31,6 +31,7 @@ def main(
     dataset_config: Optional[str] = typer.Option(None, help="Configuration for loading the dataset."),
     chunk_size: int = typer.Option(250, help="Size of the text chunk to be processed at once."),
     local_dataset: str = typer.Option(None, help="The name of the local dataset. Leave blank if the dataset would be retrieved remotely."),
+    random_seed: int = typer.Option(42, help="Random seed for reproducibility."),
     # fmt: on
 ):
 

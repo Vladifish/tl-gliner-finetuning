@@ -99,14 +99,16 @@ description: |
 
 vars:
   version: 0.1.0
-  # Training
+  # Tweakable Training Parameters, these could usually be overriden by the user
   size: small
-  num_steps: 10000
-  batch_size: 6
+  num_steps: 500
+  batch_size: 4
   lang: tl
   test_batch: batch_1_2
   owner: etdvprg
   dataset: PHMartialLaw-NER_b12
+  random_seed: 42
+  gradient_accumulation_steps: 4
 
 directories:
   - "checkpoints"
@@ -136,13 +138,15 @@ commands:
     script:
       - >-
         python v0.1.0-gliner/train.py
-          gliner-community/gliner_${vars.size}-v2.5
+          ljvmiranda921/tl_gliner_${vars.size}
           models/${vars.test_batch}/gliner_${vars.size}
           --checkpoint-dir checkpoints/${vars.test_batch}/ckpt_gliner_${vars.size}
           --num-steps ${vars.num_steps}
           --batch-size ${vars.batch_size}
           --dataset ${vars.owner}/${vars.dataset}
           --local-dataset ${vars.test_batch}
+          --random-seed ${vars.random_seed}
+          --gradient-accumulation-steps ${vars.gradient_accumulation_steps}
       # --push-to-hub etdvprg/tl_gliner_${vars.size}
     outputs:
       - v0.1.0-gliner/models/gliner_${vars.size}
@@ -155,7 +159,8 @@ commands:
       - >-
         python v0.1.0-gliner/evaluate_model.py
           metrics/model___tl_gliner_${vars.size}_dataset___${vars.dataset}.json
-          --model-name ./models/gliner_${vars.size}
+          --model-name ./models/${vars.test_batch}/gliner_${vars.size}
           --dataset ${vars.owner}/${vars.dataset}
           --local-dataset ${vars.test_batch}
+          --random-seed ${vars.random_seed}
       # label to actual not currently used
