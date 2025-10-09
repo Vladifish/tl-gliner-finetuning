@@ -182,3 +182,6 @@ gcs_creds.json
 # code tester notebooks
 scratch.ipynb
 tester.ipynb
+
+# vscode garbage
+.vscode
