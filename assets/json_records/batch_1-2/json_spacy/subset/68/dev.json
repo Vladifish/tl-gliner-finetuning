@@ -1,5 +1,166 @@
 [
   {
+    "text": "At bilang pagpapalawak ng Proyect Mercury, muling naglunsad si Postmaster General J. Roilo Golez ng isang programa na ang mga sulat mula at patungo sa Metro Manila ay ihahatid sa araw ding yaon ay ihulog. Kasama sa progamang ito ang mga sulat mula sa mga piling lugar sa Kamaynilaan patungo sa Hongkong, Tokyo, at Singapore.",
+    "entities": [
+      [
+        151,
+        163,
+        "Location"
+      ],
+      [
+        294,
+        302,
+        "Location"
+      ],
+      [
+        304,
+        309,
+        "Location"
+      ],
+      [
+        314,
+        323,
+        "Location"
+      ],
+      [
+        63,
+        96,
+        "Person-Individual"
+      ],
+      [
+        26,
+        41,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2339"
+  },
+  {
+    "text": "Sa ilang bansang Asyano tulad ng Thailand, Pilipinas at Malaysia, pinakamataas ang pertilidad kapag ang lalaki ay hanggang primarya lamang ang naabot na pag-aaral.",
+    "entities": [
+      [
+        33,
+        41,
+        "Location"
+      ],
+      [
+        43,
+        52,
+        "Location"
+      ],
+      [
+        56,
+        64,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1306"
+  },
+  {
+    "text": "Ipininid ng Bagong Hukbong Bayan sa hanggahang Quezon-Bikol ang huling kuwarto ng 1977 sa pamamagitan ng sunod-sunod na pananalakay sa mga tropa ng kaaway.",
+    "entities": [
+      [
+        12,
+        32,
+        "Organization-Military"
+      ],
+      [
+        47,
+        59,
+        "Location"
+      ],
+      [
+        82,
+        86,
+        "Time"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7617"
+  },
+  {
+    "text": "Totoo, marami ang naniniwala na ang eleksiyon ay parsyal at walang kabuluhan. Naging dahilan ito upang ilunsad at palaganapin ang kilusang boycott.",
+    "entities": [
+      [
+        36,
+        45,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1912"
+  },
+  {
+    "text": "Ang patakaran ng BHB at CPDF\n\nInuulit ng Bagong Hukbong Bayan sa Kordilyera ang tungkulin nitong itaguyod ang batayang interes ng mamamayan ng Kordilyera at ang rebolusyonaryong programa at mga patakaran ng Cordillera People's Democratic Front -- laluna sa harap ng kasalukuyang armadong pananalasa ng rehimeng US-Aquino at mga alipures nito.",
+    "entities": [
+      [
+        17,
+        20,
+        "Organization-Military"
+      ],
+      [
+        24,
+        28,
+        "Organization-Military"
+      ],
+      [
+        41,
+        61,
+        "Organization-Military"
+      ],
+      [
+        207,
+        243,
+        "Organization-Political"
+      ],
+      [
+        143,
+        153,
+        "Location"
+      ],
+      [
+        311,
+        320,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1987",
+    "Row_Index": "4598"
+  },
+  {
+    "text": "Habang parami nang paraming mamamayan sa mga kalunsuran ang napapanday sa ganitong mga kolektibong pakikibaka at habang naitataas ang antas ng kanilang kamalayang pampulitika, parami rin nang parami sa kanila ang nagbibigay ng tuwirang suporta sa armadong pakikibaka. Mas maraming militanteng aksyong masa ang naidadaos, mas napupukaw at nahihikayat lumahok ang mga seksyon ng populasyon na kimi at di aktibo sa pulitika. Epektibo ring napabubulaanan ng mga aksyong masa ang pambobola ng rehimeng Marcos na tinatamasa raw nito ang suporta ng mamamayan at hawak raw nito ang kanilang basbas para manatili sa poder.",
+    "entities": [
+      [
+        497,
+        503,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4799"
+  },
+  {
+    "text": "Karamihan sa iba pang pangunahing pahayagan ay maaaring magsimula na rin ng kanilang publikasyon simula Miyerkoles.",
+    "entities": [
+      [
+        104,
+        114,
+        "Time"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "548"
+  },
+  {
     "text": "Mula sa ₱8 bilyong planta nuklear sa Bataan at ₱3.5 bilyong sintering plant sa Mindanaw, hanggang sa tig-dyes sentimos na juicy fruit, sila ang may gawa niyan.",
     "entities": [
       [
@@ -54,107 +215,5 @@
     "Publication": "Ang Tinig ng Masa",
     "Year": "1984",
     "Row_Index": "115"
-  },
-  {
-    "text": "Karamihan sa iba pang pangunahing pahayagan ay maaaring magsimula na rin ng kanilang publikasyon simula Miyerkoles.",
-    "entities": [
-      [
-        104,
-        114,
-        "Time"
-      ]
-    ],
-    "Publication": "Ang Tinig ng Masa",
-    "Year": "1984",
-    "Row_Index": "548"
-  },
-  {
-    "text": "At bilang pagpapalawak ng Proyect Mercury, muling naglunsad si Postmaster General J. Roilo Golez ng isang programa na ang mga sulat mula at patungo sa Metro Manila ay ihahatid sa araw ding yaon ay ihulog. Kasama sa progamang ito ang mga sulat mula sa mga piling lugar sa Kamaynilaan patungo sa Hongkong, Tokyo, at Singapore.",
-    "entities": [
-      [
-        151,
-        163,
-        "Location"
-      ],
-      [
-        294,
-        302,
-        "Location"
-      ],
-      [
-        304,
-        309,
-        "Location"
-      ],
-      [
-        314,
-        323,
-        "Location"
-      ],
-      [
-        63,
-        96,
-        "Person-Individual"
-      ],
-      [
-        26,
-        41,
-        "Production-Government"
-      ]
-    ],
-    "Publication": "Ang Tinig ng Masa",
-    "Year": "1984",
-    "Row_Index": "2339"
-  },
-  {
-    "text": "Ang patakaran ng BHB at CPDF\n\nInuulit ng Bagong Hukbong Bayan sa Kordilyera ang tungkulin nitong itaguyod ang batayang interes ng mamamayan ng Kordilyera at ang rebolusyonaryong programa at mga patakaran ng Cordillera People's Democratic Front -- laluna sa harap ng kasalukuyang armadong pananalasa ng rehimeng US-Aquino at mga alipures nito.",
-    "entities": [
-      [
-        17,
-        20,
-        "Organization-Military"
-      ],
-      [
-        24,
-        28,
-        "Organization-Military"
-      ],
-      [
-        41,
-        61,
-        "Organization-Military"
-      ],
-      [
-        207,
-        243,
-        "Organization-Political"
-      ],
-      [
-        143,
-        153,
-        "Location"
-      ],
-      [
-        311,
-        320,
-        "Production-Doctrine"
-      ]
-    ],
-    "Publication": "Ang Bayan",
-    "Year": "1987",
-    "Row_Index": "4598"
-  },
-  {
-    "text": "Totoo, marami ang naniniwala na ang eleksiyon ay parsyal at walang kabuluhan. Naging dahilan ito upang ilunsad at palaganapin ang kilusang boycott.",
-    "entities": [
-      [
-        36,
-        45,
-        "Event-Local"
-      ]
-    ],
-    "Publication": "Ang Tinig ng Masa",
-    "Year": "1984",
-    "Row_Index": "1912"
   }
 ]

@@ -102,9 +102,9 @@ vars:
   # Tweakable Training Parameters, these could usually be overriden by the user
   size: small
   num_steps: 500
-  batch_size: 4
+  batch_size: 8
   lang: tl
-  test_batch: batch_1_2
+  test_batch: batch_1-2
   owner: etdvprg
   dataset: PHMartialLaw-NER_b12
   random_seed: 42
