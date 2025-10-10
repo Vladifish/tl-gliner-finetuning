@@ -174,7 +174,7 @@ def main(
                 # 'proj_type': 'continuous' # For subspace descent (faster but kinda worse performance)
                 # 'names': [None] * len(galore_params)
             }
-        ],
+        ], # type: ignore
         lr= learning_rate,
         weight_decay=0.01
         

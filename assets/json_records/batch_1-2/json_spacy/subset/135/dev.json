@@ -1,0 +1,369 @@
+[
+  {
+    "text": "KUALA LUMPUR (AFP) — Ipinagbawal kahapon ng pulisya ang lahat ng pagtitipong pulitikal sa hilagang estado ng Keda at Perlis ma ang mayorya’y Muslim.",
+    "entities": [
+      [
+        0,
+        12,
+        "Location"
+      ],
+      [
+        14,
+        17,
+        "Production-Media"
+      ],
+      [
+        109,
+        113,
+        "Location"
+      ],
+      [
+        117,
+        123,
+        "Location"
+      ],
+      [
+        141,
+        147,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "555"
+  },
+  {
+    "text": "Ngayon, sa lahat ng mga lumalaban sa pasistang diktadurang US-Marcos, ang Partido at ang pversang pinamumunuan nito ang may pinakamatatag at pinakamasiglang armadong lakas, at may pinakamalawak at pinakamatibay na organisasyon.",
+    "entities": [
+      [
+        59,
+        68,
+        "Production-Doctrine"
+      ],
+      [
+        37,
+        46,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4966"
+  },
+  {
+    "text": "Sinabi ni Francisco ‘Kit’ Tatad, nagsilbi kay Marcos ng 10 taon at tumayong tagapagsalita niya sa loob ng 8 taon ng batas militar, na nararapat na ihabla ng graft at corruption ang maraming kandidato ng Kilusang Bagong Lipunan (KBL) sa Batasang Pambansa at ang kalahati ng gabinete ni Marcos.",
+    "entities": [
+      [
+        10,
+        31,
+        "Person-Individual"
+      ],
+      [
+        46,
+        52,
+        "Person-Individual"
+      ],
+      [
+        203,
+        226,
+        "Organization-Political"
+      ],
+      [
+        228,
+        231,
+        "Organization-Political"
+      ],
+      [
+        285,
+        291,
+        "Person-Individual"
+      ],
+      [
+        236,
+        253,
+        "Location"
+      ],
+      [
+        116,
+        129,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2613"
+  },
+  {
+    "text": "• RALLY NG KMU SA NEGROS",
+    "entities": [
+      [
+        18,
+        24,
+        "Location"
+      ],
+      [
+        11,
+        14,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2634"
+  },
+  {
+    "text": "Libu-libo pa ang ispontanyong dumalo sa mga programa sa barikada at humilera sa kalsada sa pagdaan ng martsa, taimtim ana nagpapakita ng simpatya. Sa mga dinadaanan ng martsa, marami ang naluluha sa natatanaw na eksena, nagpapainom ng tubig at kape, nagbibigay ng tuyong damit, pagkain at kendi, nag-iimbitang sumilong sa kanilang tahanan... Anong dakila ng masa!",
+    "entities": [],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3645"
+  },
+  {
+    "text": "₱200 milyon ang ipinamamahagi ngayon ni Marcos sa libu-libong baranggay sa buong kapuluan; tig-₱5,000 bawat baranggay. Kasabay nito'y lumalaganap ang mga ulat, na ang bagong pondong ito ay dinidispalko lang ng mga bulok na lider-baranggay, kasabwat ang mga opisyal ng munisipyo.",
+    "entities": [
+      [
+        40,
+        46,
+        "Person-Individual"
+      ],
+      [
+        0,
+        11,
+        "Numerical Statistics"
+      ],
+      [
+        95,
+        101,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7985"
+  },
+  {
+    "text": "Sa naipamalas na tagumpay ng Oposisyon sa nakaraang halalan para sa Batasang Pambansa, hindi iilan ang nagsabi na may panghihinayang, na kung ang mga nagboycott daw ay sumali sa eleksiyon, marahil, higit na malakas ang panalo, higit na malawak ang magiging saklaw ng tagumpay.",
+    "entities": [
+      [
+        68,
+        85,
+        "Organization-Government"
+      ],
+      [
+        29,
+        38,
+        "Organization-Political"
+      ],
+      [
+        178,
+        187,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1891"
+  },
+  {
+    "text": "Totoo, marami ang naniniwala na ang eleksiyon ay parsyal at walang kabuluhan. Naging dahilan ito upang ilunsad at palaganapin ang kilusang boycott.",
+    "entities": [
+      [
+        36,
+        45,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1912"
+  },
+  {
+    "text": "Ang naghayag ng pangyayari sa Malaya/Masa ay si Rodolfo Soriano, isang tagapamahalang pansangay ng Rural Bank of Olongapo.",
+    "entities": [
+      [
+        48,
+        63,
+        "Person-Individual"
+      ],
+      [
+        99,
+        121,
+        "Organization-Other"
+      ],
+      [
+        30,
+        36,
+        "Production-Media"
+      ],
+      [
+        37,
+        41,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "651"
+  },
+  {
+    "text": "Nakataas ang mga kamao at mataginting ang mga tinig nang madiing bigkasin ng mga militanteng mag-aaral ang mga pangwakas na taludtod: \"Aming ligaya na pag may mang-aapi... ang mamatay nang dahil sa iyo!\"",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1972",
+    "Row_Index": "6509"
+  },
+  {
+    "text": "HUNYO 18, LUNES \"Kapag kausap niya ang mga reporter, ang sinasabi niya ay handi siya tumistigo kahit kailan pero ayaw diumano siyang anyayahan ni Justice (Corazaon) Agrava. Alam 'niyo ang totoo niyan, tatlong subpoena na ang ipinadala namin sa bahay niya pero pinagtaguan niya kami.\" Ganito ang hinanakit ng mga tauhan ng Agrava Fact-Finding Board kay Sen. Ernesto Maceda, dating abogado ni Sen. Benigno S. Aquino, Jr. Nakatakdang tumestigo si Macedo subalit iniulat ng mga pahayagan na siya ay lumipad patungong Los Angeles upang makipag-usap sa mga lider-Oposisyon na nasa Amerika. Ayon sa ulat, nag-utos si Immigration Commisioner Edmundo Reyes na huwag payagang makalabas ng bansa si Maceda. Ang aksiyon umano ni Reyes ay naaayon sa kahilingan ni Agrva, ang pinuno ng lupong nag-iimbestiga sa pagkapaslang kay Senador Aquino. Lubhang nahula ang aksiyon ni Reyes sapagkat nakaalist na si Maceda. Samantala, sinabi ni Mario Ongkiko, deputy counsel ng Agrava Board, na maaring anyayahan muli upang tumestigo ang ilang sundalo na nagbigay ng salaysay na hindi naaayon sa mga ebidensyang hawak ng Board.",
+    "entities": [
+      [
+        444,
+        450,
+        "Person-Individual"
+      ],
+      [
+        513,
+        524,
+        "Location"
+      ],
+      [
+        575,
+        582,
+        "Location"
+      ],
+      [
+        688,
+        694,
+        "Person-Individual"
+      ],
+      [
+        717,
+        722,
+        "Person-Individual"
+      ],
+      [
+        860,
+        865,
+        "Person-Individual"
+      ],
+      [
+        891,
+        897,
+        "Person-Individual"
+      ],
+      [
+        920,
+        933,
+        "Person-Individual"
+      ],
+      [
+        352,
+        371,
+        "Person-Individual"
+      ],
+      [
+        953,
+        965,
+        "Organization-Government"
+      ],
+      [
+        322,
+        347,
+        "Organization-Government"
+      ],
+      [
+        146,
+        171,
+        "Person-Individual"
+      ],
+      [
+        814,
+        828,
+        "Person-Individual"
+      ],
+      [
+        391,
+        418,
+        "Person-Individual"
+      ],
+      [
+        610,
+        621,
+        "Organization-Government"
+      ],
+      [
+        622,
+        647,
+        "Person-Individual"
+      ],
+      [
+        0,
+        15,
+        "Time"
+      ],
+      [
+        1096,
+        1101,
+        "Organization-Government"
+      ],
+      [
+        751,
+        756,
+        "Organization-Government"
+      ],
+      [
+        551,
+        566,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1430"
+  },
+  {
+    "text": "Itinanong ni Dadap kung talagang si Kasilag ay para sa interes, kagalingan at kaunlarang pang-artistiko ng mga artistang Pilipino, ng mga musician sa partikular.",
+    "entities": [
+      [
+        13,
+        18,
+        "Person-Individual"
+      ],
+      [
+        36,
+        43,
+        "Person-Individual"
+      ],
+      [
+        121,
+        129,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "115"
+  },
+  {
+    "text": "Batid nina Marcos na ang ganitong tipo ng mga isyu ay may \"sapat na dramang\" taglay, upang mapaniwala ang taumbayan, na itong sina Marcos ay tunay ngang \"makabayan at anti-imperyalista\".",
+    "entities": [
+      [
+        11,
+        17,
+        "Person-Individual"
+      ],
+      [
+        131,
+        137,
+        "Person-Individual"
+      ],
+      [
+        167,
+        184,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7841"
+  }
+]

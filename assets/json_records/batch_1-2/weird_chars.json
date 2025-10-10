@@ -1,0 +1,206 @@
+[
+  {
+    "char": "’ | U+2019 | RIGHT SINGLE QUOTATION MARK",
+    "count": 320,
+    "examples": [
+      {
+        "record_id": "74241ce3-0c49-4b46-abad-92d6ecb03c89",
+        "sample": "Tama ito. Ang totoo’y hindi nga dapat inalis ang mga praktikal na araling ito. Nag-gardening, halimb"
+      },
+      {
+        "record_id": "74241ce3-0c49-4b46-abad-92d6ecb03c89",
+        "sample": "Tama ito. Ang totoo’y hindi nga dapat inalis ang mga praktikal na araling ito. Nag-gardening, halimb"
+      }
+    ]
+  },
+  {
+    "char": "— | U+2014 | EM DASH",
+    "count": 297,
+    "examples": [
+      {
+        "record_id": "48d8df03-69e3-4f8c-8bd9-57b583ae9d9c",
+        "sample": "Halimbawa, may pitak na tayo ngayon para sa ekonomya. — Ito’y aming inilagay upang higit na maunawaa"
+      },
+      {
+        "record_id": "48d8df03-69e3-4f8c-8bd9-57b583ae9d9c",
+        "sample": "Halimbawa, may pitak na tayo ngayon para sa ekonomya. — Ito’y aming inilagay upang higit na maunawaa"
+      }
+    ]
+  },
+  {
+    "char": "“ | U+201C | LEFT DOUBLE QUOTATION MARK",
+    "count": 190,
+    "examples": [
+      {
+        "record_id": "b2f4ed8f-226f-467a-bc47-a4c977d0f306",
+        "sample": "Sa Lovingly, Yours, Helen ay may apat na hiwalay na kasaysayan. Una ang “Sa Akin Ang Walang Diyos,” "
+      },
+      {
+        "record_id": "2e483a1d-faa6-4654-8c97-6d43579a3bd5",
+        "sample": "Ang huling kasaysayan sa Lovingly Yours, Helen ay “Nang Maupos Ang Kandila,” isang comedy drama na p"
+      }
+    ]
+  },
+  {
+    "char": "” | U+201D | RIGHT DOUBLE QUOTATION MARK",
+    "count": 186,
+    "examples": [
+      {
+        "record_id": "d27aea36-cf31-4b13-9841-973ce410d72b",
+        "sample": "Ipinahayag ng CAP, sa pamumuno ng kilalang direktor na si Lino Brocka, na sakali mang mahalal ang il"
+      },
+      {
+        "record_id": "b2f4ed8f-226f-467a-bc47-a4c977d0f306",
+        "sample": "Sa Lovingly, Yours, Helen ay may apat na hiwalay na kasaysayan. Una ang “Sa Akin Ang Walang Diyos,” "
+      }
+    ]
+  },
+  {
+    "char": "‘ | U+2018 | LEFT SINGLE QUOTATION MARK",
+    "count": 58,
+    "examples": [
+      {
+        "record_id": "e9354542-97b9-4dd7-ac17-99f25cbd32aa",
+        "sample": "Iniulat ng awtor na ang mga Iraya ay pinagsasamantalahan ng mga usurero at oportunistang komersyante"
+      },
+      {
+        "record_id": "e9354542-97b9-4dd7-ac17-99f25cbd32aa",
+        "sample": "Iniulat ng awtor na ang mga Iraya ay pinagsasamantalahan ng mga usurero at oportunistang komersyante"
+      }
+    ]
+  },
+  {
+    "char": "₱ | U+20B1 | PESO SIGN",
+    "count": 55,
+    "examples": [
+      {
+        "record_id": "70b645f7-48af-4b23-a985-e6d7842a9e91",
+        "sample": "Ang arawng minimong sahod na ₱13 para sa manggagawang industrial sa Metro Manila at ₱12 para sa mga "
+      },
+      {
+        "record_id": "70b645f7-48af-4b23-a985-e6d7842a9e91",
+        "sample": "Ang arawng minimong sahod na ₱13 para sa manggagawang industrial sa Metro Manila at ₱12 para sa mga "
+      }
+    ]
+  },
+  {
+    "char": "• | U+2022 | BULLET",
+    "count": 19,
+    "examples": [
+      {
+        "record_id": "f65738a8-6a18-40da-b7df-f8101f50abb6",
+        "sample": "• PULIS NG LUNSOD QUEZON, BINARIL"
+      },
+      {
+        "record_id": "941de7e0-c9c6-47d8-aee0-05e96b447baf",
+        "sample": "• PULIS NA AYAW MANGURAKOT, INILIPAT"
+      }
+    ]
+  },
+  {
+    "char": "ñ | U+00F1 | LATIN SMALL LETTER N WITH TILDE",
+    "count": 11,
+    "examples": [
+      {
+        "record_id": "f2d5673c-fb2b-4260-bc6d-d0e0307f5125",
+        "sample": "Ilan sa mga lumagda sa liham-petisyon kay Marcos: Rev. Cirilo Rigos ng Cosmopolitan Church sa Maynil"
+      },
+      {
+        "record_id": "06f93e45-e374-49d2-a219-3d030250b43f",
+        "sample": "Nagkakaisang pinagtibay ng 11 indpendiyenteng mambabatas ang isang resolusyon para sa reeleksiyon ni"
+      }
+    ]
+  },
+  {
+    "char": "– | U+2013 | EN DASH",
+    "count": 10,
+    "examples": [
+      {
+        "record_id": "6eb87c9f-18a9-439b-aa35-a7061e3d09c2",
+        "sample": "Ayon kay G. Antonio S. Verano, nagsilbi sa edukasyon sa loob ng 42 taon, ang buwanang pensiyon sa ha"
+      },
+      {
+        "record_id": "6eb87c9f-18a9-439b-aa35-a7061e3d09c2",
+        "sample": "Ayon kay G. Antonio S. Verano, nagsilbi sa edukasyon sa loob ng 42 taon, ang buwanang pensiyon sa ha"
+      }
+    ]
+  },
+  {
+    "char": "¢ | U+00A2 | CENT SIGN",
+    "count": 5,
+    "examples": [
+      {
+        "record_id": "47f7ad09-7c77-448a-b42a-e6f782f49872",
+        "sample": "Ngunit ayon sa mga manggagawa, \"hindi pa rin makatarungan ang 5¢ na bawas\". Kayat ipinagpatuloy nila"
+      },
+      {
+        "record_id": "d3a67e60-8eab-458a-b310-2b3b71fe99c9",
+        "sample": "Matagal nang humihingi ng pagtaas ng presyo ang mga dayuhang kompanya ng langis. Pinayagan silang ma"
+      }
+    ]
+  },
+  {
+    "char": "… | U+2026 | HORIZONTAL ELLIPSIS",
+    "count": 4,
+    "examples": [
+      {
+        "record_id": "cb7ceaa4-60d9-4128-9a89-48da6e0c1fe0",
+        "sample": "2. Seksyon 2, \"…ang sistema ng pagmamay-ari ng lupa ay pag-aaring may limitasyon o freehold with res"
+      },
+      {
+        "record_id": "cb7ceaa4-60d9-4128-9a89-48da6e0c1fe0",
+        "sample": "2. Seksyon 2, \"…ang sistema ng pagmamay-ari ng lupa ay pag-aaring may limitasyon o freehold with res"
+      }
+    ]
+  },
+  {
+    "char": "­ | U+00AD | SOFT HYPHEN",
+    "count": 1,
+    "examples": [
+      {
+        "record_id": "43d7729e-d3ba-412d-93b0-8239ab93cf3d",
+        "sample": "Ang pangalawa ay ang pambihirang bilis — at pagsasayang — ng hangad nating maging industriyalisado. "
+      }
+    ]
+  },
+  {
+    "char": "² | U+00B2 | SUPERSCRIPT TWO",
+    "count": 1,
+    "examples": [
+      {
+        "record_id": "3720d188-db28-4df3-97b1-caeaa8cb76a0",
+        "sample": "Batay sa mga datos na nalikom ng NCSO at iba pang ahensya ng gobyerno, dalawang magkahiwalay na pana"
+      }
+    ]
+  },
+  {
+    "char": "³ | U+00B3 | SUPERSCRIPT THREE",
+    "count": 1,
+    "examples": [
+      {
+        "record_id": "3720d188-db28-4df3-97b1-caeaa8cb76a0",
+        "sample": "Batay sa mga datos na nalikom ng NCSO at iba pang ahensya ng gobyerno, dalawang magkahiwalay na pana"
+      }
+    ]
+  },
+  {
+    "char": "í | U+00ED | LATIN SMALL LETTER I WITH ACUTE",
+    "count": 1,
+    "examples": [
+      {
+        "record_id": "18972bba-864c-47cb-a4b4-331c73aadf68",
+        "sample": "Ang balanseng pagpapaunlad ng ekonomya, kasabay ng pagbubuo ng bagong sistemang pang-ekonomya, ay ma"
+      }
+    ]
+  },
+  {
+    "char": "¹ | U+00B9 | SUPERSCRIPT ONE",
+    "count": 1,
+    "examples": [
+      {
+        "record_id": "c6a9885f-70b1-44b7-8b43-43530b8ffb55",
+        "sample": "Sa Metro Manila (apat na syudad at 13 munisipalidad na may anim na milyong populasyon)¹ nakakonsentr"
+      }
+    ]
+  }
+]

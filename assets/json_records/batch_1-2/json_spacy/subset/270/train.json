@@ -1,0 +1,6066 @@
+[
+  {
+    "text": "Binibili ang mga ito ng mga negosyante, na ang ginagamit sa pamimili ay mga dolyar, mula sa mga tinatawag na post exchange (PX) shop na matatagpuan.sa_loob ng mga base.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "188"
+  },
+  {
+    "text": "Hindi pa kasama rito ang 60 araw bago mag-expire ang lumang CBA, kung kailan puede na sanang umpisahan ang negosasyon.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7615"
+  },
+  {
+    "text": "Ihambing natin ang mga presyo ng pangunahing pagkain noong 1970 at 1975:\n Pagkain 1970 1972 1975\n Bigas (1 salop) P2.20 2.80 4.50\n Galunggong (1 kilo) P1.30 3.00 4.00\n Bangus (1 kilo) P3.30 5.90 7.00\n Itlog (1 dosena) P2.40 3.70 4.70\n Asukal (1. kilo) P0.90 1.00 1.80\n Mantika P1.15 1.20 2.20\n Gatas P0.70 125 1.20",
+    "entities": [
+      [
+        59,
+        63,
+        "Time"
+      ],
+      [
+        67,
+        71,
+        "Time"
+      ],
+      [
+        82,
+        86,
+        "Time"
+      ],
+      [
+        87,
+        91,
+        "Time"
+      ],
+      [
+        92,
+        96,
+        "Time"
+      ],
+      [
+        105,
+        112,
+        "Numerical Statistics"
+      ],
+      [
+        114,
+        119,
+        "Numerical Statistics"
+      ],
+      [
+        120,
+        124,
+        "Numerical Statistics"
+      ],
+      [
+        125,
+        129,
+        "Numerical Statistics"
+      ],
+      [
+        143,
+        149,
+        "Numerical Statistics"
+      ],
+      [
+        151,
+        156,
+        "Numerical Statistics"
+      ],
+      [
+        157,
+        161,
+        "Numerical Statistics"
+      ],
+      [
+        162,
+        166,
+        "Numerical Statistics"
+      ],
+      [
+        176,
+        182,
+        "Numerical Statistics"
+      ],
+      [
+        184,
+        189,
+        "Numerical Statistics"
+      ],
+      [
+        190,
+        194,
+        "Numerical Statistics"
+      ],
+      [
+        195,
+        199,
+        "Numerical Statistics"
+      ],
+      [
+        208,
+        216,
+        "Numerical Statistics"
+      ],
+      [
+        218,
+        223,
+        "Numerical Statistics"
+      ],
+      [
+        224,
+        228,
+        "Numerical Statistics"
+      ],
+      [
+        229,
+        233,
+        "Numerical Statistics"
+      ],
+      [
+        243,
+        250,
+        "Numerical Statistics"
+      ],
+      [
+        252,
+        257,
+        "Numerical Statistics"
+      ],
+      [
+        258,
+        262,
+        "Numerical Statistics"
+      ],
+      [
+        263,
+        267,
+        "Numerical Statistics"
+      ],
+      [
+        277,
+        282,
+        "Numerical Statistics"
+      ],
+      [
+        283,
+        287,
+        "Numerical Statistics"
+      ],
+      [
+        288,
+        292,
+        "Numerical Statistics"
+      ],
+      [
+        300,
+        305,
+        "Numerical Statistics"
+      ],
+      [
+        306,
+        309,
+        "Numerical Statistics"
+      ],
+      [
+        310,
+        314,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Bukluran",
+    "Year": "1976",
+    "Row_Index": "3296"
+  },
+  {
+    "text": "Datapuwa, ayon kay Berino, pinagbawalan sila ng mga pulis na ang isa umano’y nagbanta pa na “Kung sino ang kumuha sa mga patay ay mamamatay rin.”",
+    "entities": [
+      [
+        19,
+        25,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1199"
+  },
+  {
+    "text": "Binobomba at minamasinggan ng mga eroplanong jet at helikopter ng US ang malalaking pormasyon ng mga gerilya at mga bayang kontrolado nito. Sa lupa, humugos naman ang mga piling yunit ng AFP sa mga baseng militar ng US para tulungan ang mga sundalong Amerikano sa pagdedepensa ng mga ito.... ",
+    "entities": [
+      [
+        187,
+        190,
+        "Organization-Military"
+      ],
+      [
+        66,
+        68,
+        "Organization-Government"
+      ],
+      [
+        251,
+        260,
+        "Person-Collective"
+      ],
+      [
+        216,
+        218,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "5028"
+  },
+  {
+    "text": "Hagkis naman ni Direktor Ponciano Pineda ng Surian ng Wikang Pambansa: Sa patakarang bilingguwal, ang Filipino ay napabayaan ng pamahalaan, isang patakarang nasa papel, ngunit hindi naipatupad.",
+    "entities": [
+      [
+        16,
+        40,
+        "Person-Individual"
+      ],
+      [
+        44,
+        69,
+        "Organization-Other"
+      ],
+      [
+        102,
+        110,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1536"
+  },
+  {
+    "text": "“Ang military dictatorship ay lalong malubha kaysa sa kasalukuyang autokratikong rehimen ni G. Marcos,” ani Fernandez.",
+    "entities": [
+      [
+        108,
+        117,
+        "Person-Individual"
+      ],
+      [
+        92,
+        101,
+        "Person-Individual"
+      ],
+      [
+        67,
+        80,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1349"
+  },
+  {
+    "text": "Green Revolution. Alay-Tanim. Kilusang Kabuhayan at Kaunlaran. Sariling Sikap. Totoong napakahaba ang listahan ng mga proyektong pampasiklab. Subalit nagtagumpay ba ang mga ito?",
+    "entities": [
+      [
+        0,
+        16,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1546"
+  },
+  {
+    "text": "HUNYO 21, HUWEBES Sinabi ni Atty Bienvenido Tan, deputy counsel ng Samantala, muling ipinatawag sa Board si Hermilo “Boy” Gosuico, isang negosyante sa Nueva Ecija na sinasabing kasama sa mga lalaking sumundo kay Galman noong Agosto 17, apat na araw bago naganap ang krimen sa MIA. Ayon sa isang opisyal ng Board, ipinakikita umano ni Gosuico sa Board na siya’y mayaman upang ipahiwatig na “ang isang mayaman ay hindi makagagawa ng krimen.” Subalit ipinatawag namin siya upang ipakitang siya’y isang ‘crook’ at siya’y hindi tapat sa pagbabayad ng buwis,” dagdag pa ng opisyal ng probe panel. Ipinatawag ding muli si Reynaldo Galman, 11, anak ng pinagbibintangang asasin. Itinuro ni Reynaldo si Gosuico sabay sabing: \"Siya po. Isa po siya sa sumundo sa tatay ko noon.\" Hindi nakakibo si Gosuico sapagkat positibo siyang naituro ng bata dahil sa kanyang \"birthmark\" sa kanang braso. Samantala, tatlong sundalo ang muling ipinatawag ng Board upang malaman kung sinu-sino ang tatlong mahiwagang lalaki na nakuhanan sa litratong ipinadala ng American Broadcasting Corporation (ABC) sa Agrava Board noong nakaraang linggo. Subalit hindi nakapagbigay ng liwanag sa Board sina Capt. Juan Amorsolo, pinuno ang augmentation team ng Aviation Security Command (Avsecom), Lt. Jesus Castro, pinuno ng mga sundalong sumundo kay Aquino, at Sgt. Pepito Torio, isang ramp guard. Nanatiling isang misteryo sa Board ang katauhan ng tatlong lalaking nasa tabi ng pintuan ng hagdan na binabaan ni Aquino. Nangangahulugan ito sa hindi totoo ang sabi ng maraming sundalo na \"well-secured\" ang airport. Sino ang tatlong mahiwagang lalaking ito?",
+    "entities": [
+      [
+        33,
+        47,
+        "Person-Individual"
+      ],
+      [
+        108,
+        129,
+        "Person-Individual"
+      ],
+      [
+        151,
+        162,
+        "Location"
+      ],
+      [
+        212,
+        218,
+        "Person-Individual"
+      ],
+      [
+        276,
+        279,
+        "Location"
+      ],
+      [
+        334,
+        341,
+        "Person-Individual"
+      ],
+      [
+        615,
+        630,
+        "Person-Individual"
+      ],
+      [
+        681,
+        689,
+        "Person-Individual"
+      ],
+      [
+        693,
+        700,
+        "Person-Individual"
+      ],
+      [
+        785,
+        792,
+        "Person-Individual"
+      ],
+      [
+        1036,
+        1069,
+        "Production-Media"
+      ],
+      [
+        1071,
+        1074,
+        "Production-Media"
+      ],
+      [
+        1221,
+        1246,
+        "Organization-Military"
+      ],
+      [
+        1248,
+        1255,
+        "Organization-Military"
+      ],
+      [
+        1312,
+        1318,
+        "Person-Individual"
+      ],
+      [
+        1474,
+        1480,
+        "Person-Individual"
+      ],
+      [
+        0,
+        8,
+        "Time"
+      ],
+      [
+        10,
+        17,
+        "Time"
+      ],
+      [
+        225,
+        234,
+        "Time"
+      ],
+      [
+        1168,
+        1187,
+        "Person-Individual"
+      ],
+      [
+        1323,
+        1340,
+        "Person-Individual"
+      ],
+      [
+        1258,
+        1274,
+        "Person-Individual"
+      ],
+      [
+        306,
+        311,
+        "Organization-Government"
+      ],
+      [
+        345,
+        350,
+        "Organization-Government"
+      ],
+      [
+        932,
+        937,
+        "Organization-Government"
+      ],
+      [
+        1079,
+        1091,
+        "Organization-Government"
+      ],
+      [
+        1157,
+        1162,
+        "Organization-Government"
+      ],
+      [
+        1389,
+        1394,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1433"
+  },
+  {
+    "text": "Nang itaas ng referee ang kamay ni Penalosa, wala ni isa mang Koreano ang pumalakpak, maliban sa ilang Pilipino kabilang na si Ambassador Nicanor Jimenez.",
+    "entities": [
+      [
+        35,
+        43,
+        "Person-Individual"
+      ],
+      [
+        62,
+        69,
+        "Person-Collective"
+      ],
+      [
+        127,
+        153,
+        "Person-Individual"
+      ],
+      [
+        103,
+        111,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1996"
+  },
+  {
+    "text": "Mainam sana kung ang pagpawi ng depisit, o maski pagliit nito, ay bunga ng paglaki ng aktwal na kita ng bansa kung ihahambing sa gastos. Subalit ang ipinagyayabang ni Marcos na pagliit ng depisit ay resulta pa ng pagliit ng gastos at patuloy na pangungutang nang di rin naman lumalaki ang kita ng bansa. Sa gayon, parang ipinagmamalaki ni Marcos ang pagliit ng gastos ng isang patay-gutom dahil hindi makabili ng pagkain at nabubuhay lang sa pangungutang.",
+    "entities": [
+      [
+        167,
+        173,
+        "Person-Individual"
+      ],
+      [
+        339,
+        345,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3986"
+  },
+  {
+    "text": "Sa nasabing lathalain, nakasulat na sumigaw si Wakamiya: 'Pinatay ng pamahalaan si Aquino.' \"Totoo ba ito?\" tanong sa kanya ng Agrava Fact-Finding Board. \"Ganyan ang naisigaw ko sapagkat iyan ang pakiramdam ko dahilan na rin sa mga pangyayaring naganap bago at pagkatapos kong makita ang pangyayari (krimen).\"",
+    "entities": [
+      [
+        47,
+        55,
+        "Person-Individual"
+      ],
+      [
+        83,
+        89,
+        "Person-Individual"
+      ],
+      [
+        127,
+        152,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1873"
+  },
+  {
+    "text": "Nang sabihin niya sa mga reporter na ibig siyang ma-interview na puwede na siyang kausapin, si Gary naman ang inisnab ng mga reporter. Ang sabi ng mga manunulat sa kanya, \"Sorry nahula ka ng dating, pauwi na kami.\"",
+    "entities": [
+      [
+        95,
+        99,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "625"
+  },
+  {
+    "text": "Ngunit kung tutuusin, ang pagyurak sa prosesong elektoral ay bahagi na ng sistemang pulitikal na nagsilang ng mga eleksiyon. Sa katotohanan, bagama’t ang sistema ng pamahalaan ay republikano, maraming paraang nagagawa na ang bayan ay laging kinakatawan ng mga lider na hindi naman interes ng lipunan ang pangunahing layuning ipinaglalaban. Ito ang sentral na isyu ng moralidad na isinasaad ni Cardinal Sin. Ito rin ang ubod ng moralidad sa tinatawag nating demokrasya. Sa simulain ay malinaw na bayan ang nagpapasiya. Ngunit sa katotohanan, ang pasiya ng bayan ay sinisikil at dinudusta.",
+    "entities": [
+      [
+        393,
+        405,
+        "Person-Individual"
+      ],
+      [
+        179,
+        190,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2556"
+  },
+  {
+    "text": "Ang hayag na mga pakikibaka't pagkilos sa kalunsuran ay lubhang mahalaga para pabweluhin ang malawak na kilusang rebolusyonaryo na paulit-ulit at patindi nang patinding bibigwas sa rehimen sa mismong sentro ng paghahari nito.",
+    "entities": [],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4825"
+  },
+  {
+    "text": "Ang KDP ay organisasyong pangmasa na binubuo ng \"mga aktibistang matatag na lumalaban sa imperyalismong Amerikano at nakikiisa sa pakikibaka ng sambayanan tungo sa rebolusyonaryong pagbabago.\"  Ito'y nakaugnay sa National Committee for the Restoration of Civil Liberties in the Philippines (NCRCLP).",
+    "entities": [
+      [
+        4,
+        7,
+        "Organization-Other"
+      ],
+      [
+        104,
+        113,
+        "Person-Collective"
+      ],
+      [
+        213,
+        289,
+        "Organization-Political"
+      ],
+      [
+        291,
+        297,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6966"
+  },
+  {
+    "text": "Sa Lunsod Baguio, ang mga drayber sa mga rutang Rock Quarry-City Camp, Plaza-Mines View Park, at Kilometers 7 at 8 ay hindi pumasada nang ilang araw matapos ang unang pagtaas ng presyo ng gasolina.",
+    "entities": [
+      [
+        3,
+        16,
+        "Location"
+      ],
+      [
+        48,
+        69,
+        "Location"
+      ],
+      [
+        71,
+        92,
+        "Location"
+      ],
+      [
+        97,
+        114,
+        "Location"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6990"
+  },
+  {
+    "text": "Totoo, marami ang naniniwala na ang eleksiyon ay parsyal at walang kabuluhan. Naging dahilan ito upang ilunsad at palaganapin ang kilusang boycott.",
+    "entities": [
+      [
+        36,
+        45,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1912"
+  },
+  {
+    "text": "Ang arina ng tinapay ay gawa sa trigo, na inaangkat pa mula sa ibang bansa. Ang problema, noong 1974-75 ay napakataas ng presyo ng trigo.",
+    "entities": [
+      [
+        96,
+        103,
+        "Time"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7499"
+  },
+  {
+    "text": "Bukod sa tumigil sa pagtatrabaho, nagmartsa ang mga manggagawa sa loob ng pagawaan.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6943"
+  },
+  {
+    "text": "Pagkaraan ng \"reperendum\", lumala ang sitwasyon. Marami sa mga pumila nang maghapon ang umuwing walang dalang bigas.",
+    "entities": [
+      [
+        14,
+        24,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6579"
+  },
+  {
+    "text": "Sa naipamalas na tagumpay ng Oposisyon sa nakaraang halalan para sa Batasang Pambansa, hindi iilan ang nagsabi na may panghihinayang, na kung ang mga nagboycott daw ay sumali sa eleksiyon, marahil, higit na malakas ang panalo, higit na malawak ang magiging saklaw ng tagumpay.",
+    "entities": [
+      [
+        68,
+        85,
+        "Organization-Government"
+      ],
+      [
+        29,
+        38,
+        "Organization-Political"
+      ],
+      [
+        178,
+        187,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1891"
+  },
+  {
+    "text": "Si Nolasco, na pinunong tagapangasiwa ng St. Joseph’s College Extension Services at kagawad sa pang-edukasyong grupo ng Task Force of Major Religious Superiors of the Philippines, ay nawawala hanggang ngayon.",
+    "entities": [
+      [
+        3,
+        10,
+        "Person-Individual"
+      ],
+      [
+        41,
+        80,
+        "Organization-Other"
+      ],
+      [
+        120,
+        178,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "696"
+  },
+  {
+    "text": "Isa sa mga ipinagmamalaki kong pagkakaiba ng ating magkapatid na pahayagang Malaya at People’s Voice (Tinig ng Masa) sa ibang dambuhalang peryodiko — at kahit na sa mga kasamahan nating miyembro ng tinatawag na \"alternative press\" — ay ang pakikipag-ugnay ng ating masusugid na mambabasa sa inyong abang lingkod.",
+    "entities": [
+      [
+        102,
+        115,
+        "Production-Media"
+      ],
+      [
+        86,
+        100,
+        "Production-Media"
+      ],
+      [
+        76,
+        82,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "137"
+  },
+  {
+    "text": "Itinanong ni Dadap kung talagang si Kasilag ay para sa interes, kagalingan at kaunlarang pang-artistiko ng mga artistang Pilipino, ng mga musician sa partikular.",
+    "entities": [
+      [
+        13,
+        18,
+        "Person-Individual"
+      ],
+      [
+        36,
+        43,
+        "Person-Individual"
+      ],
+      [
+        121,
+        129,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "115"
+  },
+  {
+    "text": "Kabulastugan",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6608"
+  },
+  {
+    "text": "Ito ang naging sanhi ng pagbaba ng halaga ng piso, na nagpataas ng implasyon, na nagbitin sa isinasaayos na pag-utang sa IMF.",
+    "entities": [
+      [
+        121,
+        124,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "410"
+  },
+  {
+    "text": "Noong 1981, ang kabuuang pambansang produkto (GNP) ay lumaki lamang nang 4.7 porsyento, ang pinakamababang tantos mula 1972. Noong 1982, lalo nang bumaba ang GNP—naging 2.6 porsyento, ang pinakamababang tantos mula 1963—, indikasyon ng malalang panghihina ng ekonomya. Isa pang indikasyon ang depisit sa balanse ng bayaran o kakulangan ng dolyar para mahayaran ang mga import at utang, at makapag-uwi ng ganansya ang mga dayuhang korporasyon; ibig sabihin, hindi pumapasok ang sapat na dolyar sa Pilipinas. Noong 1981, malaking-malaki na ang $560 milyong depisit sa balanse ng bayaran. ",
+    "entities": [
+      [
+        496,
+        505,
+        "Location"
+      ],
+      [
+        6,
+        10,
+        "Time"
+      ],
+      [
+        73,
+        86,
+        "Numerical Statistics"
+      ],
+      [
+        169,
+        182,
+        "Numerical Statistics"
+      ],
+      [
+        119,
+        123,
+        "Time"
+      ],
+      [
+        131,
+        135,
+        "Time"
+      ],
+      [
+        215,
+        219,
+        "Time"
+      ],
+      [
+        513,
+        517,
+        "Time"
+      ],
+      [
+        542,
+        562,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4720"
+  },
+  {
+    "text": "Sinabi ni Calonzo na sa kabila ng pagtatatwa ‘ng pulisya na‘ hinuli nila ang mga estudyante ay may mga grupo ng mag-aaral na kumompirma magkakahiwalay na pag-aresto ng mga estudyante nang magpasabog ang mga naka-gas mask na awtoridad ng tear gas sa Recto Avenue.",
+    "entities": [
+      [
+        10,
+        17,
+        "Person-Individual"
+      ],
+      [
+        249,
+        261,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "995"
+  },
+  {
+    "text": "Tatlong daang Pilipino at Amerikano ang nagmartsa sa San Francisco, California, Estados Unidos, Set. 22, upang tutulan ang \"pagkamatay ng kalayaang sibil sa Pilipinas\".",
+    "entities": [
+      [
+        53,
+        94,
+        "Location"
+      ],
+      [
+        157,
+        166,
+        "Location"
+      ],
+      [
+        14,
+        22,
+        "Person-Collective"
+      ],
+      [
+        26,
+        35,
+        "Person-Collective"
+      ],
+      [
+        96,
+        103,
+        "Time"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6871"
+  },
+  {
+    "text": "Laban sa CHDF. Mahigit 500 madre at pari ang nagmartsa patungong Kampo Crame sa Quezon City at nagpiket doon nitong Abril 17, para igiit ang paglalansag sa pasistang Civilian Home Defense Forces (CHDF). Tinuligsa nila ang paggamit ng militar sa mga yunit ng CHDF para manligalig at mandahas sa mamamayan.",
+    "entities": [
+      [
+        9,
+        13,
+        "Organization-Military"
+      ],
+      [
+        65,
+        76,
+        "Location"
+      ],
+      [
+        80,
+        91,
+        "Location"
+      ],
+      [
+        116,
+        124,
+        "Time"
+      ],
+      [
+        166,
+        194,
+        "Organization-Military"
+      ],
+      [
+        196,
+        200,
+        "Organization-Military"
+      ],
+      [
+        258,
+        262,
+        "Organization-Military"
+      ],
+      [
+        156,
+        165,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4244"
+  },
+  {
+    "text": "Noong mga nakaraan, iniwasan ni Tatad ang personal na pagtuligsa sa Pangulo bilang pagkilala sa kanilang matagal na pagsasama.",
+    "entities": [
+      [
+        32,
+        37,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2618"
+  },
+  {
+    "text": "Kilala ko si Tom bilang isang kaibigan at source ng mga balita noong ako'y police reporter pa lamang ng Manila Times-Daily-Mirror-Taliba chain of newspapers. Tuwing ako’y nagiging biktima ng mga masasamang loob (at ito’y madalas dahil tatlong beses na pinasok ang aking dating tinitirhan sa Lunsod Quezon at limang beses na rin akong ninakawan ng mga kasangkapan sa loob ng kotse), wala akong ibang hinihingan ng tulong kundi si Tom. At madalas din naman na tumutugon siya sa’ akin sa pamamagitan ng pagbibigay-pansin sa aking mga karaingan tungkol sa mga nakawan.",
+    "entities": [
+      [
+        13,
+        16,
+        "Person-Individual"
+      ],
+      [
+        104,
+        136,
+        "Production-Media"
+      ],
+      [
+        291,
+        304,
+        "Location"
+      ],
+      [
+        429,
+        432,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1673"
+  },
+  {
+    "text": "Problema sa IMF",
+    "entities": [
+      [
+        12,
+        15,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1810"
+  },
+  {
+    "text": "Nang lumaon'y napilitang mangako ang pasistang militar na pawawalan ang mga detenido at haharapin ang iba pang hinihingi ng mga nagrali.",
+    "entities": [
+      [
+        37,
+        46,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4507"
+  },
+  {
+    "text": "Namatay kahapon ang asawa ng direktor sa musika, Domingo Valdez, dahil sa maraming saksak na natamo mula sa dalawang houseboy na pumatay rin sa direktor at sa kanyang anak na lalaki.",
+    "entities": [
+      [
+        49,
+        63,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "759"
+  },
+  {
+    "text": "Para mapagtakpan ang mga kabiguang ito, marami pang taumbaryo ang pinagpapatay ng AFP upang mapataas ang \"bilang ng napatay\" nila. Nagpapalabas sila ng mga kunwa-kunwaring pagsurender ng mga \"BHB,\" na katunaya'y mga taumbaryong pinipilit dumalo sa mga \"rali para sa kapayapaan\" at sumumpa ng katapatan sa rehimen.",
+    "entities": [
+      [
+        82,
+        85,
+        "Organization-Military"
+      ],
+      [
+        192,
+        195,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4705"
+  },
+  {
+    "text": "Ayon kay Thuan, 84 na porsiyento ng 3.7 milyong manggagawang kumiikita ay kasapi ng unyon.",
+    "entities": [
+      [
+        9,
+        14,
+        "Person-Individual"
+      ],
+      [
+        16,
+        32,
+        "Numerical Statistics"
+      ],
+      [
+        36,
+        60,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "782"
+  },
+  {
+    "text": "Bunga nito, mula noong unang araw ng 1984 hanggang sa kasalukuyan ay hindi pa sumusuweldo ang mga gurong nagha-hunger strike. Samantala, nabatid ng People’s Voice (Tinig ng Masa) salig sa mga panayam at pag-aaral, na ang ginagawang hunger strike ng mga guro sa Camarines Norte ay kauna-unahan sa kasaysayan ng edukasyon sa Pilipinas. Simula pa noong dakong hulihan ng dekada '60, Marami nang idinaos na malawakang pagpoprotesta ang mga guro laban sa pagpapabaya ng pamahalaan sa kanilang kalagayan.",
+    "entities": [
+      [
+        261,
+        276,
+        "Location"
+      ],
+      [
+        323,
+        332,
+        "Location"
+      ],
+      [
+        37,
+        41,
+        "Time"
+      ],
+      [
+        164,
+        177,
+        "Production-Media"
+      ],
+      [
+        148,
+        162,
+        "Production-Media"
+      ],
+      [
+        368,
+        378,
+        "Time"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "167"
+  },
+  {
+    "text": "Ang amyendang ito sa Konstitusyon, na nagbibigay ng kapangyarihan sa Pangulo na mag-isyu ng dekreto, ay isa sa mga isyung humahati sa bansa ngayon. Ibig ng Pangulo at ng mga lider ng KBL na ito’y manatili. Sa kabilang dako, nais naman ng isang sektor ng mamamayan, na isinasatinig ng Oposisyon sa Batasan, na ito’y pawalang-saysay. Ang katwiran ng Pangulo’y kailangan ito ga mabilisang desisyon sa mga bagay na panseguridad at pangkabuhayan; ang argumento naman ng pangalawa’y parang nasa ilalim na rin ng martial law ang bansa dahil sa Amyenda 6.",
+    "entities": [
+      [
+        183,
+        186,
+        "Organization-Political"
+      ],
+      [
+        297,
+        304,
+        "Location"
+      ],
+      [
+        284,
+        293,
+        "Organization-Political"
+      ],
+      [
+        506,
+        517,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "586"
+  },
+  {
+    "text": "Alas-3 na ng hapon noong Enero 12, o humigit-kumulang limang oras pagkaraang umalis ang mga Pulang Mandirigma, nang dumating para mag-imbestiga ang mga opisyal at sundalo ng PC na pinamumunuan ni Lt. Col. Fernandez, komander ng PC sa probinsyang Kanlurang Samar. Sinarhan nila agad ang buong sakop ng minahan, itinigil ang daloy ng sasakyan sa kalsada, at binantaan ang lahat na huwag ipagsabi ang reyd ng BHB.",
+    "entities": [
+      [
+        25,
+        33,
+        "Time"
+      ],
+      [
+        228,
+        230,
+        "Organization-Military"
+      ],
+      [
+        246,
+        261,
+        "Location"
+      ],
+      [
+        406,
+        409,
+        "Organization-Military"
+      ],
+      [
+        0,
+        18,
+        "Time"
+      ],
+      [
+        174,
+        176,
+        "Organization-Military"
+      ],
+      [
+        196,
+        214,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4477"
+  },
+  {
+    "text": "Ang bagay na iyan ay inamin mismo ng NGA sa publiko sa isang ulat sa Bulletin Today (Nob. 11, 1977).",
+    "entities": [
+      [
+        37,
+        40,
+        "Organization-Other"
+      ],
+      [
+        69,
+        83,
+        "Production-Media"
+      ],
+      [
+        85,
+        98,
+        "Time"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7503"
+  },
+  {
+    "text": "• RALLY NG KMU SA NEGROS",
+    "entities": [
+      [
+        18,
+        24,
+        "Location"
+      ],
+      [
+        11,
+        14,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2634"
+  },
+  {
+    "text": "Ang ganitong katayuan ng English at Filipino ay maghapong tinalakay ng mga edukador sa wika.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1450"
+  },
+  {
+    "text": "Tinalakay sa forum, mga isyu sa halalan. — Marlon A. Vaiconcha",
+    "entities": [
+      [
+        43,
+        62,
+        "Person-Individual"
+      ],
+      [
+        32,
+        39,
+        "Event-Local"
+      ],
+      [
+        13,
+        18,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "58"
+  },
+  {
+    "text": "Mas mataas ang tantos ng disempleyo sa syudad kaysa kanayunan, pero doon pa rin may dagdag na pagkakataong maghanapbuhay. Ayon sa isang sarbey noong 1980, ang karaniwang sahod sa isang buwan ng isang pinuno ng pamilya sa Metro Manila ay P765--halagang kulang pa para buhayin ang tipikal na pamilyang anim na tao. Pero sa Gitnang Luson, ang karaniwang sahod na ito ay P519 lang at sa Timog Katagalugan ay P472. Parehong mga rehiyon pa nga ito na humahabol sa kaunlaran ng Metro Manila. (Sa Bikol, ang karaniwang sahod ng pinuno ng pamilya ay P239; sa Kanlurang Bisayas, P294; at sa Hilagang Mindanaw, P306.)",
+    "entities": [
+      [
+        221,
+        233,
+        "Location"
+      ],
+      [
+        321,
+        334,
+        "Location"
+      ],
+      [
+        383,
+        400,
+        "Location"
+      ],
+      [
+        471,
+        483,
+        "Location"
+      ],
+      [
+        489,
+        494,
+        "Location"
+      ],
+      [
+        550,
+        567,
+        "Location"
+      ],
+      [
+        581,
+        598,
+        "Location"
+      ],
+      [
+        149,
+        153,
+        "Time"
+      ],
+      [
+        237,
+        241,
+        "Numerical Statistics"
+      ],
+      [
+        367,
+        371,
+        "Numerical Statistics"
+      ],
+      [
+        404,
+        408,
+        "Numerical Statistics"
+      ],
+      [
+        541,
+        545,
+        "Numerical Statistics"
+      ],
+      [
+        569,
+        573,
+        "Numerical Statistics"
+      ],
+      [
+        600,
+        604,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4874"
+  },
+  {
+    "text": "Sinabi pa niya na dapat patawan ng mabigat na parusa ang mga bangkerong gumagawa ng masama upang itakas ang pera ng mga depositor.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "642"
+  },
+  {
+    "text": "Sa tulong ng administrasyon ni Reagan na di lang nagsusuplay ng lohistika kundi pati mga plano sa operasyon, naglunsad ng mga operasyon ang rehimen, tulad ng \"Oplan Katatagan,\" at \"Oplan Cadena de Amor.\" Pinaganda pa ang mga pangalan, ang ibig sabihin lamang ng mga oplan ay pagpapasinsin ng tropa at terorismo, malakihan at matagalang operasyong militar, pagpapalikas at pagkontrol sa taumbayan, kaunting \"pagpapakabait\" ng AFP, walang batayang pagpatay sa mga sibilyan para maparami ang iulat na \"napatay sa labanan,\" pamimilit sa mga lokal na upisyal at organisasyong sibiko na sumali sa programang \"kontra-insureksyon,\" kunwari'y pagsurender ng mga pinalalabas na \"BHB\" at mabangis na \"psychological warfare\" (\"psywar\") at pagtatangkang magpakalat ng mga kasinungalingan.",
+    "entities": [
+      [
+        31,
+        37,
+        "Person-Individual"
+      ],
+      [
+        425,
+        428,
+        "Organization-Military"
+      ],
+      [
+        669,
+        672,
+        "Production-Doctrine"
+      ],
+      [
+        159,
+        174,
+        "Event-Local"
+      ],
+      [
+        181,
+        201,
+        "Event-Local"
+      ],
+      [
+        301,
+        310,
+        "Production-Doctrine"
+      ],
+      [
+        690,
+        711,
+        "Production-Doctrine"
+      ],
+      [
+        715,
+        721,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4693"
+  },
+  {
+    "text": "Sa tulong ng isang boluntaryong ahensya, unti-unting namumulat ang isang tribo ng mga Mangyan sa Puerto Galera, Mindoro.",
+    "entities": [
+      [
+        97,
+        119,
+        "Location"
+      ],
+      [
+        86,
+        93,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1053"
+  },
+  {
+    "text": "Parehong naniniwala sina Ongpin at Paterno na ang paglahok sa eleksiyon ay isang istratehiya para pilitin si Pangulong Marcos na bitiwan ang kapangyarihan nito.",
+    "entities": [
+      [
+        25,
+        31,
+        "Person-Individual"
+      ],
+      [
+        35,
+        42,
+        "Person-Individual"
+      ],
+      [
+        109,
+        125,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "65"
+  },
+  {
+    "text": "Ang tiyak lang na mananalo sa ganitong sistema ay yoong may mga malalaking baluarte o yoong kahit maliit lang ang sakop basta sapat ang makinarya para makapangampanya sa ibang lugar ng rehiyon.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7407"
+  },
+  {
+    "text": "Happy Birthday, Mr. President!",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "421"
+  },
+  {
+    "text": "Sa anumang anggulo, ang Sister Stella L ay isang komersiyal na pelikula, nilikha sa isang makasining na paraan, at naglalayong maghain ng isang uri ng tradisyon sa paggawa ng pelikulang sarili.",
+    "entities": [
+      [
+        24,
+        39,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1708"
+  },
+  {
+    "text": "Iniharap noong Agosto 16, 1984, hiniling ng natutang memorandum sa Lupon na “sundan, kompirmahan at sang-ayunan” ang bersiyon ng militar sa pagpaslang kay Aquino.",
+    "entities": [
+      [
+        15,
+        30,
+        "Time"
+      ],
+      [
+        155,
+        161,
+        "Person-Individual"
+      ],
+      [
+        67,
+        72,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "466"
+  },
+  {
+    "text": "Karamihan sa iba pang pangunahing pahayagan ay maaaring magsimula na rin ng kanilang publikasyon simula Miyerkoles.",
+    "entities": [
+      [
+        104,
+        114,
+        "Time"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "548"
+  },
+  {
+    "text": "Serbisyo Publiko: Hinaing ng Isang Retiradong Guro",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1684"
+  },
+  {
+    "text": "Mahusay ang Ingles na natutuhan ng Pangulo sa kanyang alma mater. Bilang guro sa UP, natitiyak naming hanggang ngayon nama’y pinaghuhusay ng mga titser dito ang pagtuturo ng Ingles.",
+    "entities": [
+      [
+        81,
+        83,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1025"
+  },
+  {
+    "text": "Malaking dislokasyon ang daranasin ng libu-libo pang mamamayan sa pagtatayo ng mga bagong idroelekrtikang dam sa mga probinsyang Kalinga-Apayao at Isabela, kapwa nasa hilagang bahagi ng Luson.",
+    "entities": [
+      [
+        129,
+        143,
+        "Location"
+      ],
+      [
+        147,
+        154,
+        "Location"
+      ],
+      [
+        186,
+        191,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4520"
+  },
+  {
+    "text": "Napag-alaman na muling nagreport si Col. Elpidio Clemente, deputy superintendent ng NPD para sa mga operasyon, sa kanyang tanggapan noong nakaraang linggo sa “order ng nakatataas na headquarter.”",
+    "entities": [
+      [
+        84,
+        87,
+        "Organization-Military"
+      ],
+      [
+        36,
+        57,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2586"
+  },
+  {
+    "text": "ISANG BUWANG KILOS PROTESTA SA NEGROS OCCIDENTAL",
+    "entities": [
+      [
+        31,
+        48,
+        "Location"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7777"
+  },
+  {
+    "text": "Umaabot ng 2.9-milyon ang bagong biktima na naulat sa mauunlad na bansa bawat taon, ngunit ang mga bansa sa Ikatlong Daigdig ay umaabot ang bagong biktima nang mahigit na tatlong milyon",
+    "entities": [
+      [
+        11,
+        40,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1369"
+  },
+  {
+    "text": "Sa isyung ito ng Taliba ng Bayan, ay tampok ang isang artikulo hinggil sa mga korporasyong multinasyonal, na naglalantad sa operasyon at pagkontrol ng imperyalismong Kano sa ekonomia ng bansa. Isang artikulo naman ang tumatalakay sa katawa-tawang \"pagbatikos\" ni Marcos sa panghihimasok ng New York Police sa Philcenter, upang mag-posturang siya'y makabayan. Ipinakikita pa rin sa iba pang sulatin ang himaymay ng pagkadusta ng sambayanang Pilipino sa kamay ng mga imperyalistang Kano. Ang mensahe sa kabuuan, ay nilagom sa dibuho ng pabalat.",
+    "entities": [
+      [
+        263,
+        269,
+        "Person-Individual"
+      ],
+      [
+        309,
+        319,
+        "Location"
+      ],
+      [
+        17,
+        32,
+        "Production-Media"
+      ],
+      [
+        166,
+        170,
+        "Person-Collective"
+      ],
+      [
+        290,
+        305,
+        "Organization-Military"
+      ],
+      [
+        440,
+        448,
+        "Person-Collective"
+      ],
+      [
+        480,
+        484,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7743"
+  },
+  {
+    "text": "Sa kasalukuyan, dalawa na sa mga atletang ito ang nasa Amerika, sina Billy Wilson at Christine Jacob, parehong manlalangoy. Sa buwanang pulong ng POC, nanumpa rin sa kanilang tungkulin ang mga bagong halal na pangulo ng golf, si Benny Armena, at ng sepak takraw, si Gov. Ali Dimaporo.",
+    "entities": [
+      [
+        55,
+        62,
+        "Location"
+      ],
+      [
+        69,
+        81,
+        "Person-Individual"
+      ],
+      [
+        85,
+        100,
+        "Person-Individual"
+      ],
+      [
+        229,
+        241,
+        "Person-Individual"
+      ],
+      [
+        266,
+        283,
+        "Person-Individual"
+      ],
+      [
+        146,
+        149,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1615"
+  },
+  {
+    "text": "Bilang reaksyon, agad nagkaila si Marcos at ngayo'y nananakot ang pangkatin sa nabunyag ng mga personahe at pahayagan sa bansa. Si Floirendo, halimbawa, ay tahasan nang nanakot sa Malaya at Mr. & Mrs. na kabilang sa naglathala nito. Kunwa'y magsasagawa rin ng imbestigasyon ang diktadura, at ito ay iniatas nito. Nauna rito, naibalitang nakapagdala na ng mga tauhan si Marcos sa Hongkong para doktorin ang papeles ng kanilang mga ari-arian at ihanda sa \"whitewash\" na kalalabasan ng imbestigasyon.",
+    "entities": [
+      [
+        34,
+        40,
+        "Person-Individual"
+      ],
+      [
+        131,
+        140,
+        "Person-Individual"
+      ],
+      [
+        180,
+        186,
+        "Production-Media"
+      ],
+      [
+        190,
+        200,
+        "Production-Media"
+      ],
+      [
+        369,
+        375,
+        "Person-Individual"
+      ],
+      [
+        379,
+        387,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3618"
+  },
+  {
+    "text": "Sinabing ang kapasiyahang ito ng Pangulo ay bilang taguyod sa pambansang programa sa produksiyon.",
+    "entities": [
+      [
+        33,
+        40,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "700"
+  },
+  {
+    "text": "Hindi kailangan ang gamot o karayom sa reflexology. Isa itong pamamaraan ng paggamot na kapag natutunan ay maaaring isagawa kahit walang tulong mula sa isang propesyunal.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1278"
+  },
+  {
+    "text": "Sa ilang bansang Asyano tulad ng Thailand, Pilipinas at Malaysia, pinakamataas ang pertilidad kapag ang lalaki ay hanggang primarya lamang ang naabot na pag-aaral.",
+    "entities": [
+      [
+        33,
+        41,
+        "Location"
+      ],
+      [
+        43,
+        52,
+        "Location"
+      ],
+      [
+        56,
+        64,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1306"
+  },
+  {
+    "text": "Ang opensiba sa Parang at Bilaan ay inilunsad ng Bangsa Moro Army, sandatahang lakas ng Moro National Liberation Front.",
+    "entities": [
+      [
+        16,
+        22,
+        "Location"
+      ],
+      [
+        26,
+        32,
+        "Location"
+      ],
+      [
+        49,
+        65,
+        "Organization-Military"
+      ],
+      [
+        88,
+        118,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7049"
+  },
+  {
+    "text": "Gayundin, inulit ng Pangulo ang kanyang naunang utos na dapat na opaalam ng MPWH sa mga Mambabatas Pambansa at iba pang opisyal na lokal ang lahat ng proyekto sa imprastruktura sa kani-kanilang lalawigan at lokalidad.",
+    "entities": [
+      [
+        76,
+        80,
+        "Organization-Government"
+      ],
+      [
+        88,
+        107,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "921"
+  },
+  {
+    "text": "Noong 1974 kung kailan ang presyo ng asukal ay pumapaimbulog tumangging magluwas ito at sa halip ay iniimbak.",
+    "entities": [
+      [
+        6,
+        10,
+        "Time"
+      ]
+    ],
+    "Publication": "Sulong",
+    "Year": "1986",
+    "Row_Index": "5659"
+  },
+  {
+    "text": "K. Mabilis na lumalawak ang pambansang nagkakaisang prente laban sa pasismo, imperyalismong US at pyudalismo, kasabay at katugon ng armadong pakikibaka. Ang pambansang nagkakaisang prente laban sa pasismo, imperyalismong US at pyudalismo ay ang alyansa ng lahat ng demokratikong uri, sektor at organisasyong nakikibaka sa pasistang diktadurang US-Marcos. Mabilis itong lumalawak mula 1981. Ang malalaking protesta na kasalukuyang dumadagundong sa buong bayan ay lalo pang nagpapalawak sa hanay ng nagkakaisang prente.j",
+    "entities": [
+      [
+        384,
+        388,
+        "Time"
+      ],
+      [
+        344,
+        353,
+        "Production-Doctrine"
+      ],
+      [
+        77,
+        91,
+        "Production-Doctrine"
+      ],
+      [
+        206,
+        220,
+        "Production-Doctrine"
+      ],
+      [
+        227,
+        237,
+        "Production-Doctrine"
+      ],
+      [
+        98,
+        108,
+        "Production-Doctrine"
+      ],
+      [
+        68,
+        75,
+        "Production-Doctrine"
+      ],
+      [
+        197,
+        204,
+        "Production-Doctrine"
+      ],
+      [
+        157,
+        187,
+        "Organization-Political"
+      ],
+      [
+        28,
+        58,
+        "Organization-Political"
+      ],
+      [
+        221,
+        223,
+        "Organization-Political"
+      ],
+      [
+        92,
+        94,
+        "Organization-Political"
+      ],
+      [
+        265,
+        278,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4708"
+  },
+  {
+    "text": "Sa kabiglaanan, hindi nakaganti ni nakahabol ang tropa ng gobyerno.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7082"
+  },
+  {
+    "text": "Sa Plaza Ferguson, sinabi ni dating Sen. Jose W. Diokno na \"hangga't ang bansa ay nadodomina ng mga imperyalista, walang kabutihang mangyayari sa bayan.\"",
+    "entities": [
+      [
+        3,
+        17,
+        "Location"
+      ],
+      [
+        36,
+        55,
+        "Person-Individual"
+      ],
+      [
+        100,
+        112,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2406"
+  },
+  {
+    "text": "Kasama ni Alkalde Pizarro si Engr. Eddie Lagui, imbestigador ng Ministry of Public Works and Highways, sa pagsasagawa ng pagsisiyasat. Napag-alaman na ang paghuhukay sa inereklamong lugar ay sadyang mapanganib para sa mga naninirahan doon, na nagpatibay sa desisyong ipatigil ang operasyon.",
+    "entities": [
+      [
+        64,
+        101,
+        "Organization-Government"
+      ],
+      [
+        10,
+        25,
+        "Person-Individual"
+      ],
+      [
+        29,
+        46,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2239"
+  },
+  {
+    "text": "Paano naging artista sina Rio, Pepsi, Coke, at iba pa? Ni EDNA DOMINGO",
+    "entities": [
+      [
+        58,
+        70,
+        "Person-Individual"
+      ],
+      [
+        26,
+        29,
+        "Person-Individual"
+      ],
+      [
+        31,
+        36,
+        "Person-Individual"
+      ],
+      [
+        38,
+        42,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2156"
+  },
+  {
+    "text": "Noon pa mang 1977 ay malakas na ang loob nilang hamunin si Marcos ng eleksyon dito sa Maynila.",
+    "entities": [
+      [
+        59,
+        65,
+        "Person-Individual"
+      ],
+      [
+        86,
+        93,
+        "Location"
+      ],
+      [
+        13,
+        17,
+        "Time"
+      ],
+      [
+        69,
+        77,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7436"
+  },
+  {
+    "text": "Tanaw mula rito: Di punto ng Ingles Ni ROGELIO SICAT",
+    "entities": [
+      [
+        39,
+        52,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1018"
+  },
+  {
+    "text": "Nang umalis si Tiyo Dencio sa U.S. Navy, inakala niyang naalpasan na niya ang sakit ng katawan at kalooban. Subalit taliwas ang kanyang naranasan.",
+    "entities": [
+      [
+        15,
+        26,
+        "Person-Individual"
+      ],
+      [
+        30,
+        39,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7976"
+  },
+  {
+    "text": "Makalipas ang ilang taon sa Tate ay ngayon lang sila nakauwi sa ating bansa, upang dito na tuluyang manirahan.",
+    "entities": [
+      [
+        28,
+        32,
+        "Location"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7958"
+  },
+  {
+    "text": "Inihayag din ng Malakanyang na pinagtibay na rin ng Pangulo ang P30 milyon pa para sa pamasahe o transportation allowance ng mga extension workers ng Ministry of Agriculture. Ang pamasahe o transportation allowance na napagtibay ay mulang P30 hanggang P175 isang buwan.",
+    "entities": [
+      [
+        16,
+        27,
+        "Organization-Government"
+      ],
+      [
+        150,
+        173,
+        "Organization-Government"
+      ],
+      [
+        64,
+        74,
+        "Numerical Statistics"
+      ],
+      [
+        239,
+        242,
+        "Numerical Statistics"
+      ],
+      [
+        252,
+        256,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "702"
+  },
+  {
+    "text": "Napasukan namin ang bahagi ng musical jamboree. Malakas ang tugtog ng orkestra, at nakikipaglaksanaan naman ang tinig ng umaawit. Dalawang ulit na kumakanta ang bawat mang-aawit. May isa pang batang babae na umawit. Inisip-isip ko, napakamura pa ng batang iyon para sa ganoong lugar.",
+    "entities": [
+      [
+        183,
+        204,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2535"
+  },
+  {
+    "text": "Ipinagdiriwang ng pamahalaan ang Setyembre 21, petsang idineklara ang martial law, bilang Araw ng Pasasalamat smantalang tinatagurian naman ito ng Oposisyon na ‘“‘Araw ng Pagdadalamhati.”",
+    "entities": [
+      [
+        33,
+        45,
+        "Time"
+      ],
+      [
+        163,
+        185,
+        "Event-Local"
+      ],
+      [
+        147,
+        156,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "487"
+  },
+  {
+    "text": "Tatlong lider — isa sa pribadong sektor at dalawa sa pamahalaan — ang magkakahiwalay na okasyon nang nagdaang linggo’y nagkomentaryo sa kahalagahan ng kalayaan sa pamamahayag.",
+    "entities": [
+      [
+        0,
+        13,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "811"
+  },
+  {
+    "text": "Tampok sa welgang ito ang pagbuo ng pagsasama ng mga manggagawa para talakayin ang anti-manggagawang batas ng diktadura, ang kontrol ng imperyalismong E.U. sa ekonomia ng bansa, at ang mga ugat ng patuloy na krisis sa ekonomia.",
+    "entities": [
+      [
+        151,
+        154,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4360"
+  },
+  {
+    "text": "Idinagdag pa ng mga naninirahan dito na ayaw nilang manatili ang militar sa kanilang lugar dahil ayaw nilang mapagsamantalahan pa ang mga babae rito, at muling manganib ang kanilang buhay dahil sa walang pakundangang pamamaril ng mga sundalo.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "381"
+  },
+  {
+    "text": "Hindi umano nasugpo ng reporma sa lupa ng administrasyong Marcos ang pang-aapi sa mga magbubukid dahil \"ang napakalaking partihan sa ani ay napupunta- sa mga may-ari ng malalawak na lupain.\" Ayon sa alyansa, marami sa mga magsasaka ang nagsisilipat mula sa kanayunan tungo sa lunsod upang mamasukan sa mga pagawaan. Subalit kahit umano sa mga lunsod ay hindi nakatagpo ng biyaya at katarungan ang mga dukhang magsasaka. Wala ring ipinagbago ang kanilang kalagayan dahil sa napakababang sahod at benepisyo samantalang napakataas ng presyo ng mga bilihin.” pahayag ng alyansa. Sinabi pa ng alyansa na ang kalagayan ng mga mamamayan sa Katimugang Tagalog ay nasasalamin din sa kalagayan ng mga Pilipino sa iba’t ibang panig ng bansa.\"",
+    "entities": [
+      [
+        633,
+        651,
+        "Location"
+      ],
+      [
+        58,
+        64,
+        "Organization-Government"
+      ],
+      [
+        691,
+        699,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "178"
+  },
+  {
+    "text": "Pagkaraang maisantabi ang sapat na pondo para sa ospital ng kompanya, nakuha ng mga Pulang mandirigma ang pagsang-ayon ng mga manggagawa para kumpiskahin ala sa rebolusyonaryong kilusan ang malaking halaga. Nakuha din ng BHB ang pangako ng iba pang opisyal ng kompanya na pasasahurin na sa oras ang mga manggagawa sa hinaharap.",
+    "entities": [
+      [
+        221,
+        224,
+        "Organization-Military"
+      ],
+      [
+        84,
+        101,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4470"
+  },
+  {
+    "text": "Malapit sa aking puso ang mga pulis. Ang dahilan nito ay sapagkat halos maituturing nang lumaki ako sa headquarters ng Western Police District (noon ay Manila Police). Nakuha ko ang mga karanasan bilang peryodista sa pamamagitan ng 12 taong pagkakaddestino beling reporter sa pulisya — mula 1960 hanggang 1972 nang ideklara ang batas militar.",
+    "entities": [
+      [
+        119,
+        142,
+        "Organization-Military"
+      ],
+      [
+        152,
+        165,
+        "Organization-Military"
+      ],
+      [
+        305,
+        309,
+        "Time"
+      ],
+      [
+        291,
+        295,
+        "Time"
+      ],
+      [
+        328,
+        341,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1011"
+  },
+  {
+    "text": "Ginamit nang husto ang AFP at mga yunit paramilitar nito para gipitin, takutin, itortyur, arestuhin, ibilanggo at isalbeyds ang mga taong itinuturing ng pangkating Marcos na kaaway, o banta, totoo man o nasa isip lamang, sa walang taning nitong paghahari. Ilang ulit na pinalaki ang AFP sa loob ng batas militar, hindi para lumaban sa dayuhang kaaway kundi para supilin ang sambayanang Pilipino.",
+    "entities": [
+      [
+        23,
+        26,
+        "Organization-Military"
+      ],
+      [
+        164,
+        170,
+        "Person-Individual"
+      ],
+      [
+        283,
+        286,
+        "Organization-Military"
+      ],
+      [
+        386,
+        394,
+        "Person-Collective"
+      ],
+      [
+        298,
+        311,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4758"
+  },
+  {
+    "text": "Isa pang nakayayanig na insidente ang naganap sa Kanlurang Visayas habang nakatuon ang pansin ng daigdig sa magiging resulta ng kaso ng Negros Nine — ang maramihang pagpatay noong araw ng halalan sa 9 na kabataang lalaki na katatapos lamang bumoto.",
+    "entities": [
+      [
+        49,
+        66,
+        "Location"
+      ],
+      [
+        136,
+        147,
+        "Person-Collective"
+      ],
+      [
+        199,
+        220,
+        "Numerical Statistics"
+      ],
+      [
+        188,
+        195,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2249"
+  },
+  {
+    "text": "Sinabi ng mga obispo: \"Bakit nangyayari ang lahat na ito? Ang ilang grupo ba ay naghihinakit sa Simbahan ng Antique, dahil sa pagpanig nito sa mahihirap na magsasaka at karaniwang mangingisda, sa hangad na bigyan sila ng mas malaking bahagi ng kayamanan sa ating lupain at karagatan?\"",
+    "entities": [
+      [
+        108,
+        115,
+        "Location"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6652"
+  },
+  {
+    "text": "Kami ni Dr. Constantino ay nagkakaisa ng pananaw. Ang patakarang bilingguwal ay isang transisyunal na patakarang pangwika. Ayon sa kanya, ang pagkakatali sa dalawang wika sa pagtuturo ay isang uri ng pagpapakamatay sa edukasyon. Mula pa sa panahong kolonyal ay itinaguyod na ang English, at kung ito ay bigo pa rin sa ngayon, isang kabaliwan na ang ipagpatuloy pang gawing midyum ito ng pagtuturo. Sa kanya, kailangang tanggapin na ang English ay isang dayuhang wika, at ito ay dapat pag-aralan bilang isang dayuhang wika.",
+    "entities": [
+      [
+        8,
+        23,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1537"
+  },
+  {
+    "text": "Sinabi ng mga nakasaksi sa pagparada ng mga biktima, nakatali ang kanilang kamay sa harapan nila, na natitiyak nilang ang mga lalaking ito ay mga sibilyan na naninirahan sa Langoni, at karamihan ay mga manggagawa sa asyenda.",
+    "entities": [
+      [
+        173,
+        180,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2254"
+  },
+  {
+    "text": "Sinabi ni Salandanan na sa Laguna, sinira pa ng mga nananawagan ng boycott ang mga poster ng Unido, at nag-iikot upang sabihin sa mga tao na ang mga kandidato ng Oposisyon ay mga kasabwat ni Marcos.",
+    "entities": [
+      [
+        27,
+        33,
+        "Location"
+      ],
+      [
+        93,
+        98,
+        "Organization-Political"
+      ],
+      [
+        191,
+        197,
+        "Person-Individual"
+      ],
+      [
+        10,
+        20,
+        "Person-Individual"
+      ],
+      [
+        162,
+        171,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2299"
+  },
+  {
+    "text": "Samantala, patuloy ang mga reklamo hinggil sa mga anomalya at iregularidad kaugnay ng nakaraang eleksiyon.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2036"
+  },
+  {
+    "text": "Lumubha ang kalagayan sa lalawigang ito pagkatapos iliban ng panlalawigang lupon ng mga canvasser ang pagbibilang ng mga boto dahil sa magkahiwalay na petisyong isinampa ng Nacionalista Party-Roy Wing at Kilusang Bagong Lipunan (KBL).",
+    "entities": [
+      [
+        173,
+        200,
+        "Organization-Political"
+      ],
+      [
+        204,
+        227,
+        "Organization-Political"
+      ],
+      [
+        229,
+        232,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2043"
+  },
+  {
+    "text": "Ikatlong bahagi ang dramang pampamilya na may pamagat ng \"Candy.\" Dito'y gaganap sina Carmi Martin, Alicia Alonzo, Ricky Davao, Johny Wilson, Princess and Janice De Belen.",
+    "entities": [
+      [
+        58,
+        63,
+        "Production-Media"
+      ],
+      [
+        86,
+        98,
+        "Person-Individual"
+      ],
+      [
+        100,
+        113,
+        "Person-Individual"
+      ],
+      [
+        115,
+        126,
+        "Person-Individual"
+      ],
+      [
+        128,
+        140,
+        "Person-Individual"
+      ],
+      [
+        142,
+        150,
+        "Person-Individual"
+      ],
+      [
+        155,
+        170,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1039"
+  },
+  {
+    "text": "Bago nito, ipinapatay din ng diktadura ang paring Italyano na si Fr. Tullio Pavali sa Tulunan, Cotabato, noong Abril 11. Ang pagpaslang ay isinagawa ng isang yunit ng Civilian Home Defense Forces (CHDF) na pinamumunuan ng magkakapatid na Manero. Noong una'y ipinagkaila ng diktadura ang anumang ugnay sa mga Manero. Pero paglao'y nabunyag na kaya nakakalibre ang mga Manero sa marami pang kaso ng pagpatay ay dahil sa mahigpit nilang ugnay sa matataas na upisyal ng AFP noon pa mang bago magbatas militar.",
+    "entities": [
+      [
+        86,
+        103,
+        "Location"
+      ],
+      [
+        167,
+        195,
+        "Organization-Military"
+      ],
+      [
+        197,
+        201,
+        "Organization-Military"
+      ],
+      [
+        466,
+        469,
+        "Organization-Military"
+      ],
+      [
+        65,
+        82,
+        "Person-Individual"
+      ],
+      [
+        111,
+        119,
+        "Time"
+      ],
+      [
+        367,
+        373,
+        "Person-Collective"
+      ],
+      [
+        308,
+        314,
+        "Person-Collective"
+      ],
+      [
+        238,
+        244,
+        "Person-Collective"
+      ],
+      [
+        50,
+        58,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4019"
+  },
+  {
+    "text": "Lumiit nang husto ang kita ng mga drayber ng dyipni mula nang magkahirapan sa gasolina. \"Bukod sa mas malaki ngayon ang hinihinging boundary ng mga operaytor,\" daing ng isang drayber, \"mas matagal pa ang pagpila namin sa gasolina kaysa mismong pagpasada.\"",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6832"
+  },
+  {
+    "text": "Sa Crame, nangako ang Metrocom na kokonsultahin muna ang mga taga-Tundo bago gumawa ng anumang aksiyon, at walang gigibaing bahay hanggat wala pang nakahandang lugar na mapaglilipatan sa mga apektadong pamilya.",
+    "entities": [
+      [
+        3,
+        8,
+        "Location"
+      ],
+      [
+        22,
+        30,
+        "Organization-Military"
+      ],
+      [
+        61,
+        71,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6846"
+  },
+  {
+    "text": "Malawakang propaganda para sa armadong pakikibaka. Bilang mga sentro ng masmidya’t komunikasyon, at ng populasyon, ang mga kalunsuran ay dapat magsilbing mga sentro ng propaganda para sa armadong pakikibaka at BHB. Ang magiting, malalaki at sustenadong mga pagsulong ng armadong pakikibaka ay dapat sabayan ng malawakang propaganda upang malubos ang tagumpay sa pulitika. Ang larangang digma ay napakayamang pagmumulan ng materyal sa propaganda. Nararapat lamang magkaroon ng ispesyal na atensyon, kaukulang pagbabalak at pangmasang inisiyatiba para sa linyang ito ng propaganda sa kalunsuran.",
+    "entities": [
+      [
+        210,
+        213,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3816"
+  },
+  {
+    "text": "BOP at kalakang panlabas--- Ipinagmamalaki ni Marcos na naging positibo nang $243 milyon ang BOP noong 1984, na malaking pag-unlad sa depisit na $2,000 milyon noong 1983. Ang depisit sa current accounts naman daw ay lumiit din noong 1984 kung ihahambing sa naunang taon, at positibo na ang $165 milyon nitong unang tatlong buwan ng 1985.  Samantala, ang depisit sa kalakalang panlabas (isang sangkap ng current accounts) ay $220 milyon lang nitong unang limang buwan, mas maliit nang 22 persyento sa depisit na $283 milyon sa kahambing na panahon noong 1984.",
+    "entities": [
+      [
+        46,
+        52,
+        "Person-Individual"
+      ],
+      [
+        77,
+        88,
+        "Numerical Statistics"
+      ],
+      [
+        145,
+        158,
+        "Numerical Statistics"
+      ],
+      [
+        290,
+        301,
+        "Numerical Statistics"
+      ],
+      [
+        424,
+        435,
+        "Numerical Statistics"
+      ],
+      [
+        511,
+        522,
+        "Numerical Statistics"
+      ],
+      [
+        103,
+        107,
+        "Time"
+      ],
+      [
+        165,
+        169,
+        "Time"
+      ],
+      [
+        233,
+        237,
+        "Time"
+      ],
+      [
+        553,
+        557,
+        "Time"
+      ],
+      [
+        484,
+        496,
+        "Numerical Statistics"
+      ],
+      [
+        332,
+        336,
+        "Time"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3984"
+  },
+  {
+    "text": "Dagdag pa ng delegasyon: \"Ang kahirapang dulot ng kawalang-katarungan...ang nagtutulak sa mga Muslim upang humawak ng armas. Lalo pa itong pinagsiklab ng pamamaslang ng mga 'Ilagas' at ng AFP...",
+    "entities": [
+      [
+        174,
+        180,
+        "Organization-Military"
+      ],
+      [
+        188,
+        191,
+        "Organization-Military"
+      ],
+      [
+        94,
+        100,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7279"
+  },
+  {
+    "text": "Naito ang kabuuan ng liham: Ginoong Burgos: Sana’y mabigyan ninyo ng kahit na maliit na espasyo sa inyong malaganap na pahayagan ang sulat na ito.",
+    "entities": [
+      [
+        28,
+        42,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "144"
+  },
+  {
+    "text": "Habang parami nang paraming mamamayan sa mga kalunsuran ang napapanday sa ganitong mga kolektibong pakikibaka at habang naitataas ang antas ng kanilang kamalayang pampulitika, parami rin nang parami sa kanila ang nagbibigay ng tuwirang suporta sa armadong pakikibaka. Mas maraming militanteng aksyong masa ang naidadaos, mas napupukaw at nahihikayat lumahok ang mga seksyon ng populasyon na kimi at di aktibo sa pulitika. Epektibo ring napabubulaanan ng mga aksyong masa ang pambobola ng rehimeng Marcos na tinatamasa raw nito ang suporta ng mamamayan at hawak raw nito ang kanilang basbas para manatili sa poder.",
+    "entities": [
+      [
+        497,
+        503,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4799"
+  },
+  {
+    "text": "May dalawang pangunahing rali sa Metro Manila--isa sa Liwasang Bonifacio sa Maynila na pinamunuan ng BAYAN, at ang isa pa sa Ugarte Field sa Makati na pinamunuan naman ng Bansang Nagkakaisa sa Diwa at Layunin (BANDILA). Bago ng mga rali'y nagmartsa ang mga mamamayan mula sa iba't ibang lugar sa Metro Manila. Ang mga taga-BAYAN ay muling nagmartsa tungo sa tulay ng Mendiola at doo'y nagdaos din ng programa. Kanilang hinarap ang armadong pasistang tropa na nagbabantay sa Malakanyang.",
+    "entities": [
+      [
+        33,
+        45,
+        "Location"
+      ],
+      [
+        54,
+        72,
+        "Location"
+      ],
+      [
+        76,
+        83,
+        "Location"
+      ],
+      [
+        125,
+        137,
+        "Location"
+      ],
+      [
+        141,
+        147,
+        "Location"
+      ],
+      [
+        296,
+        308,
+        "Location"
+      ],
+      [
+        367,
+        375,
+        "Location"
+      ],
+      [
+        474,
+        485,
+        "Location"
+      ],
+      [
+        318,
+        328,
+        "Person-Collective"
+      ],
+      [
+        171,
+        208,
+        "Organization-Political"
+      ],
+      [
+        210,
+        217,
+        "Organization-Political"
+      ],
+      [
+        101,
+        106,
+        "Organization-Political"
+      ],
+      [
+        440,
+        449,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3940"
+  },
+  {
+    "text": "Bumaba nang 3.7 porsyento ang GNP at mumaba nang 5.3 porsyento ang GDP nitong unang tatlong buwan kung ihahambing ang GNP at GDP sa ganitong panahon noong 1984. Dahil sa mas tunay na palatandaan ng katayuan ng ekonomya ang kabuuang paglabas ng GDP, mas mali nang pagbagsak nito nitong unang buwan kung ihahambing sa 4.3 porsyentong bagsak nito noong 1984 ay magpapakita lang ng patuloy na pagbaba ng pangkalahatang produksyon sa loob ng bayan mula noon.",
+    "entities": [
+      [
+        155,
+        159,
+        "Time"
+      ],
+      [
+        316,
+        331,
+        "Numerical Statistics"
+      ],
+      [
+        350,
+        354,
+        "Time"
+      ],
+      [
+        12,
+        33,
+        "Numerical Statistics"
+      ],
+      [
+        49,
+        70,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3979"
+  },
+  {
+    "text": "Hinagkis ni William Claver abugado ng Free Legal Assistance Group (FLAG), ang umano’y militarisasyon sa Kalinga-Apayao, Bontoc at mga karatig pook sa bundok ng Cordillera kaugnay ng kampanya laban sa mga rebelde ng New People’s Army.",
+    "entities": [
+      [
+        12,
+        26,
+        "Person-Individual"
+      ],
+      [
+        38,
+        65,
+        "Organization-Other"
+      ],
+      [
+        67,
+        71,
+        "Organization-Other"
+      ],
+      [
+        104,
+        118,
+        "Location"
+      ],
+      [
+        120,
+        126,
+        "Location"
+      ],
+      [
+        160,
+        170,
+        "Location"
+      ],
+      [
+        215,
+        232,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "986"
+  },
+  {
+    "text": "Mga magsasaka sa kiluang boycott",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2573"
+  },
+  {
+    "text": "Idinagdag pa ni Mitra na 'nagkamali si Pena ng pasok dahil sawa na ang tao sa pamamahala at namulat na ang mga tao sa kanyang lalawigan sa katotohanan kung kaya't alam na nila kung sino ang dapat ihalal.",
+    "entities": [
+      [
+        16,
+        21,
+        "Person-Individual"
+      ],
+      [
+        39,
+        43,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2093"
+  },
+  {
+    "text": "Bukod dito, mainam pa sa katawan ang pamimiskleta. Ito ay isang uri ng ehersisyo. Bakit hindi natin subukan ang plano ni Assemblyman-elect Mathay?",
+    "entities": [
+      [
+        121,
+        145,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1471"
+  },
+  {
+    "text": "Isang pagkakataon na rin ito upang ipangako ko sa inyo, bilang publisher-editor, na ipagpapatuloy namin ang layunin ng isang maka-bansa at maka-masang pahayagan na walang kinikilala kundi ang katotohanan, kalayaan, at karapatan ng bawat Pilipino. At itataguyod din namin ang pag-alingawngaw ng Tinig ng Masa sa buong kapuluan.",
+    "entities": [
+      [
+        294,
+        307,
+        "Production-Media"
+      ],
+      [
+        237,
+        245,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2723"
+  },
+  {
+    "text": "SAGUPAAN — Gumamit ng tear gas ang riot police para itaboy ang may 10,000 estudyanteng tatawid sana ng tulay ng Mendiola patungong Malakanyang upang magharap ng karaingan sa Pangulo. Kuha ang larawan sa Recto Avenue matapos maghagis ang mga pulis ng tear gas.",
+    "entities": [
+      [
+        112,
+        120,
+        "Location"
+      ],
+      [
+        131,
+        142,
+        "Location"
+      ],
+      [
+        203,
+        215,
+        "Location"
+      ],
+      [
+        67,
+        86,
+        "Numerical Statistics"
+      ],
+      [
+        250,
+        258,
+        "Object"
+      ],
+      [
+        22,
+        30,
+        "Object"
+      ],
+      [
+        35,
+        46,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "944"
+  },
+  {
+    "text": "Binibigyang-karapatan ng resolusyong ito na magmina at magtayo ng mga watershed ang Lepanto Consolidated Mining Company (LCMC) sa dalawang baryong nabanggit.",
+    "entities": [
+      [
+        84,
+        119,
+        "Organization-Other"
+      ],
+      [
+        121,
+        125,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7309"
+  },
+  {
+    "text": "Ang gubyerno ng US ang pinakamalakas na pwersang nagtataguyod sa paghahari ng monopolyong kapital ng US sa mga bayang karibal at sa mga bayang hinuhuthot. Ginagamit nito ang mga pribadong bangko at ang mga kontrolado nitong mga pandaigdigang institusyong gaya ng Internasyonal na Pondo sa Pananalapi (IMF) at Bangkong Mundyal (WB) para sa pagbablakmeyl sa mga bayang may utang, para magkaroon sa mga ito ng pinakapaborableng klima para sa tuwirang pamumuhunan ng US.",
+    "entities": [
+      [
+        309,
+        325,
+        "Organization-Other"
+      ],
+      [
+        327,
+        329,
+        "Organization-Other"
+      ],
+      [
+        263,
+        299,
+        "Organization-Other"
+      ],
+      [
+        301,
+        304,
+        "Organization-Other"
+      ],
+      [
+        101,
+        103,
+        "Location"
+      ],
+      [
+        463,
+        465,
+        "Location"
+      ],
+      [
+        16,
+        18,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3738"
+  },
+  {
+    "text": "Simula nang maglingkod sa bayan si Barbers hanggang marating niya ang pagka-superintendente ng Western Police District at ang pagka-Vice Mayor ng Maynila, kailanman (inuulit ko: kailanman) ay hindi nabahiran ng anumang batik ng alingasngas o anomalya ang pangalan ni Barbers.",
+    "entities": [
+      [
+        35,
+        42,
+        "Person-Individual"
+      ],
+      [
+        146,
+        153,
+        "Location"
+      ],
+      [
+        267,
+        274,
+        "Person-Individual"
+      ],
+      [
+        95,
+        118,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2507"
+  },
+  {
+    "text": "“Natitiyak ko,” sagot ng minister. “Ang pagpili sa likas na pamamaraan sa pagpaplano ng pamilya ay nakabatay sa ating mga paniniwalang ispirituwal at pananagutang moral. Ang karamihan sa mga Pilipino ay Katoliko. Malaki ang impluwensiya ng kanilang relihiyon sa pagpili nila ng wastong paraan upang mapigil ang pagbubuntis.”",
+    "entities": [
+      [
+        191,
+        199,
+        "Person-Collective"
+      ],
+      [
+        203,
+        212,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1083"
+  },
+  {
+    "text": "Ang pakikipag-ugnay sa ating mga mambabasa ay itinuturing ko na diwa at puso ng isang pahayagan sapagkat kung walang mambabasa ang isang peryodiko, hindi ito tatagal at bagkus ay madaling pumanaw.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "141"
+  },
+  {
+    "text": "Ang ikalawang anibersaryo ng asasinasyon kay Aquino ay okasyon upang gunitain ang napakapamihirang epekto ng pangyaring ito sa kasaysayan ng antidiktadurang pakikibaka. Basahin sa pahina 3.",
+    "entities": [
+      [
+        45,
+        51,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3906"
+  },
+  {
+    "text": "Mahigpit na tinitiktikan ng mga ahente ng gobyerno ang mga artistang hinihinalang kasangkot sa mga kaso ng ismagling ng mga bawal na gamot sa Pilipinas!",
+    "entities": [
+      [
+        142,
+        151,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "731"
+  },
+  {
+    "text": "Kabilang sa mga areas na wala pang kinabibilangang pederasyon ay ang San Juan, Malibay, Pasay, Balic-Balic, Escopa, atbp.",
+    "entities": [
+      [
+        69,
+        77,
+        "Location"
+      ],
+      [
+        79,
+        86,
+        "Location"
+      ],
+      [
+        88,
+        93,
+        "Location"
+      ],
+      [
+        95,
+        106,
+        "Location"
+      ],
+      [
+        108,
+        114,
+        "Location"
+      ]
+    ],
+    "Publication": "Ugnayan",
+    "Year": "1978",
+    "Row_Index": "6086"
+  },
+  {
+    "text": "Naura rito, binalaan noong nakaraang linggo ni Senador Tanada ang Japan na \"anumang suporta upang patatagin ang diktadura ng rehimeng Marcos ay ituturing nga mga Pilipino na isang di-mabuting gawi\" ng naging kalaban ng Pilipinas noong nakaraang digmaan.",
+    "entities": [
+      [
+        55,
+        61,
+        "Person-Individual"
+      ],
+      [
+        66,
+        71,
+        "Location"
+      ],
+      [
+        134,
+        140,
+        "Person-Individual"
+      ],
+      [
+        162,
+        170,
+        "Person-Individual"
+      ],
+      [
+        219,
+        228,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2757"
+  },
+  {
+    "text": "Wika ng mga ilang kawani ng MMC: \"Pinagtibay noon pang nakaraang taon ang mga proyektong nangangailangan ng semento, bakit ngayon lamang isinasagawa ang ganitong mga proyekto? Dahil ba ibig ng mga taga-KBL na makatiyak ng tagumpay sa darating na eleksiyon sa Batasang Pambansa?\"",
+    "entities": [
+      [
+        28,
+        31,
+        "Organization-Political"
+      ],
+      [
+        197,
+        205,
+        "Person-Collective"
+      ],
+      [
+        259,
+        276,
+        "Organization-Government"
+      ],
+      [
+        246,
+        255,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "196"
+  },
+  {
+    "text": "Gasolinang premium, mula 73 hanggang 74.50 bawat litro (50 porsiento ang itinaas); gasolinang regular, mula ₱2.80 hanggang ₱4.10 (54 porsiento); gaas, mula ₱1.66 hanggang ₱2.40 (45 porsyento); langis na diesel, mula ₱1.69 hanggang ₱2.40 (42 porsiento); langis pang-industria na ngayo’y ₱1.52 ha bawat litro (36 porsiento); napalto na ngayo’y ₱2 na bawat litro (45 porsiento); panghalo sa pinture at iba pa (thinner at solvent) na ngayo’y P3.40 na bawat litro (45 porsiento); langis para sa eroplano o aviation turbo fuel na ngayo’y ₱3.85 na bawat litro (45 porsiento).",
+    "entities": [
+      [
+        56,
+        68,
+        "Numerical Statistics"
+      ],
+      [
+        108,
+        113,
+        "Numerical Statistics"
+      ],
+      [
+        123,
+        128,
+        "Numerical Statistics"
+      ],
+      [
+        130,
+        142,
+        "Numerical Statistics"
+      ],
+      [
+        156,
+        161,
+        "Numerical Statistics"
+      ],
+      [
+        171,
+        176,
+        "Numerical Statistics"
+      ],
+      [
+        178,
+        190,
+        "Numerical Statistics"
+      ],
+      [
+        231,
+        236,
+        "Numerical Statistics"
+      ],
+      [
+        238,
+        250,
+        "Numerical Statistics"
+      ],
+      [
+        286,
+        291,
+        "Numerical Statistics"
+      ],
+      [
+        308,
+        320,
+        "Numerical Statistics"
+      ],
+      [
+        342,
+        344,
+        "Numerical Statistics"
+      ],
+      [
+        361,
+        373,
+        "Numerical Statistics"
+      ],
+      [
+        438,
+        443,
+        "Numerical Statistics"
+      ],
+      [
+        460,
+        472,
+        "Numerical Statistics"
+      ],
+      [
+        532,
+        537,
+        "Numerical Statistics"
+      ],
+      [
+        554,
+        566,
+        "Numerical Statistics"
+      ],
+      [
+        216,
+        221,
+        "Numerical Statistics"
+      ],
+      [
+        203,
+        209,
+        "Object"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4430"
+  },
+  {
+    "text": "Karamihan sa kanila’y may mga sakit na ulcer. Nalilipasan sila ng gutom dahil napakahigpit ng may-ari. Alas-onse ng umaga ang break nila, 15 minuto lang ang kain, tapos balik-trabaho uli. Alas-kuwarto na ang tanghalian nila’t wala nang break hanggang alas-nuwebe ng gabi. Hindi rin pwedeng kumain habang nagtatrabaho dahil wa-warningan sila kapag nahuli.\t",
+    "entities": [
+      [
+        251,
+        270,
+        "Time"
+      ],
+      [
+        103,
+        121,
+        "Time"
+      ]
+    ],
+    "Publication": "Ugnayan",
+    "Year": "1978",
+    "Row_Index": "6233"
+  },
+  {
+    "text": "Sinabi pa niya na hindi rin ipinapaliwanag ni Marcos kung saan napupunta ang mga buwis mula sa dating halaga ng langis at iba pa.",
+    "entities": [
+      [
+        46,
+        52,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2288"
+  },
+  {
+    "text": "Idinugtong ni Cabigon na ang grabeng pagbaba ng pagtaya sa mortalidad ay taliwas sa mga estadistikang iniulat noong dakong huli ng dekada 60 at mga unang taon ng dekada 70.",
+    "entities": [
+      [
+        14,
+        21,
+        "Person-Individual"
+      ],
+      [
+        131,
+        140,
+        "Time"
+      ],
+      [
+        162,
+        171,
+        "Time"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1335"
+  },
+  {
+    "text": "Pasismo: estilo ng pangkating US-Aquino \n\nTunay ngang pinipino ng pangkating US-Aquino ang paggamit ng dalawang kontrarebolusyonaryong taktika ng panlilinlang at dahas. Mula sa batayang masa ang karaniwang mga biktima ng karahasan ng estado. Ipinakikita nito ng makauring batayan ng gera ng gubyernong Aquino.",
+    "entities": [
+      [
+        302,
+        308,
+        "Person-Individual"
+      ],
+      [
+        77,
+        86,
+        "Production-Doctrine"
+      ],
+      [
+        30,
+        39,
+        "Production-Doctrine"
+      ],
+      [
+        0,
+        7,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1987",
+    "Row_Index": "4562"
+  },
+  {
+    "text": "Tinutulan ang pananakot\nSa Bongabon, isa pang bayan ng Nueva Ecija, nagmartsa patungo sa poblasyon ang mga mamamayan ng sityo Dibulo, Calasnan, noong Setyembre 14, upang tutulan ang pagbabanta ng mga pasistang tropa na palayasin sila sa kanilang lugar.",
+    "entities": [
+      [
+        27,
+        35,
+        "Location"
+      ],
+      [
+        55,
+        66,
+        "Location"
+      ],
+      [
+        150,
+        162,
+        "Time"
+      ],
+      [
+        126,
+        142,
+        "Location"
+      ],
+      [
+        200,
+        209,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4342"
+  },
+  {
+    "text": "“Ito ay immoral at walang konsensiya,” pahayag ni Tatad hinggil sa umano’y alok ng Unang Ginang Imelda R. Marcos, hepe de kampanya ng KBL.",
+    "entities": [
+      [
+        50,
+        55,
+        "Person-Individual"
+      ],
+      [
+        134,
+        137,
+        "Organization-Political"
+      ],
+      [
+        83,
+        130,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2450"
+  },
+  {
+    "text": "Sa takdang araw, nagpunta sa Modiit si Barbero, ang anak nitong si Arturo Barbero, dating delegado sa Kumbensiyon Konstitusyonal, at si Alkalde Zapata. Isang dyip ng mga hindi nakilalang tauhan ang kasama nila.",
+    "entities": [
+      [
+        29,
+        35,
+        "Location"
+      ],
+      [
+        39,
+        46,
+        "Person-Individual"
+      ],
+      [
+        67,
+        81,
+        "Person-Individual"
+      ],
+      [
+        136,
+        150,
+        "Person-Individual"
+      ],
+      [
+        102,
+        128,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7187"
+  },
+  {
+    "text": "Kapag nababasa natin ang mga demonstrasyon at welga sa ibang bansa — maging sa bansang komunista na tulad ng Poland — hindi natin maiiwasang di mapuna na gaano man karami o kasaya ang namamahayag ay bihirang may namamatay. Kung may mamatay, sapat na iyon upang maging balitang pupukaw sa konsiyensiya ng bayan.",
+    "entities": [
+      [
+        109,
+        115,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1224"
+  },
+  {
+    "text": "Ipinahayag noong nakaraang linggo ni Prime Minister Cesar E.A. Virata sa isang press conference na dahil sa pagkabigo ng pamahalaan na bawasan ang sobrang salapi sa sirkulasyon, naaantala ang pagsang-ayon ng International Monetary Fund (IMF) sa hinihiling ng pamahalaan na $650-million standby credit.",
+    "entities": [
+      [
+        208,
+        235,
+        "Organization-Other"
+      ],
+      [
+        237,
+        240,
+        "Organization-Other"
+      ],
+      [
+        37,
+        69,
+        "Person-Individual"
+      ],
+      [
+        273,
+        300,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1811"
+  },
+  {
+    "text": "Ang lahat ng nakatala nitong puhunan ay inutang lang sa atin.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7929"
+  },
+  {
+    "text": "Ang mga pangyayaring ito ay naghasik ng takot at pangamba na baka muling ipataw ang batas militar. Dalawang kilalang komentarista sa radyo ang nagpahayag ng ganitong babala. Iniulat na marami ring organisasyon ang nagsabing baka ang sitwasyong ito ay mag-udyok kay Marcos na muling magdeklara ng batas militar.",
+    "entities": [
+      [
+        265,
+        271,
+        "Person-Individual"
+      ],
+      [
+        296,
+        309,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2032"
+  },
+  {
+    "text": "Pananaw: Sikolohiya ng taga konsumo Ni DOMINGO G. LANDICHO",
+    "entities": [
+      [
+        39,
+        58,
+        "Person-Individual"
+      ],
+      [
+        9,
+        19,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1238"
+  },
+  {
+    "text": "Sinabi ni Francisco ‘Kit’ Tatad, nagsilbi kay Marcos ng 10 taon at tumayong tagapagsalita niya sa loob ng 8 taon ng batas militar, na nararapat na ihabla ng graft at corruption ang maraming kandidato ng Kilusang Bagong Lipunan (KBL) sa Batasang Pambansa at ang kalahati ng gabinete ni Marcos.",
+    "entities": [
+      [
+        10,
+        31,
+        "Person-Individual"
+      ],
+      [
+        46,
+        52,
+        "Person-Individual"
+      ],
+      [
+        203,
+        226,
+        "Organization-Political"
+      ],
+      [
+        228,
+        231,
+        "Organization-Political"
+      ],
+      [
+        285,
+        291,
+        "Person-Individual"
+      ],
+      [
+        236,
+        253,
+        "Location"
+      ],
+      [
+        116,
+        129,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2613"
+  },
+  {
+    "text": "Sinasabi ni Atienza at sinasaksi niya ang nakaraang halalan na ang mga baranggay ay kinasangkapan lamang ng KBL.",
+    "entities": [
+      [
+        12,
+        19,
+        "Person-Individual"
+      ],
+      [
+        108,
+        111,
+        "Organization-Political"
+      ],
+      [
+        52,
+        59,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "405"
+  },
+  {
+    "text": "Ang tatlong dulang ito'y sinulat nina Chris Millado at Nick Pichay at gagampanan nina Nanding Josef, Connie Chua, Sharmaine Cetenera at Tito Quesada.",
+    "entities": [
+      [
+        38,
+        51,
+        "Person-Individual"
+      ],
+      [
+        55,
+        66,
+        "Person-Individual"
+      ],
+      [
+        86,
+        99,
+        "Person-Individual"
+      ],
+      [
+        101,
+        112,
+        "Person-Individual"
+      ],
+      [
+        114,
+        132,
+        "Person-Individual"
+      ],
+      [
+        136,
+        148,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "631"
+  },
+  {
+    "text": "Tinatawagan sa kasong ito, at iba pang mga kaso sa iba’t ibang pook, ang mga kinauukulang awtoridad, lalung-lalo na ang mga pinuno ng Board of Transportation at Bureau of Land Transportation. Tulungan sana ang mga kawawang pasahero. Baka pagmulan pa ng away at kagalitan kung hindi malulutas agad ang ganitong problema.",
+    "entities": [
+      [
+        134,
+        157,
+        "Organization-Government"
+      ],
+      [
+        161,
+        190,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1691"
+  },
+  {
+    "text": "Magugunita noong nakaraang linggo nagsipagboykot ang mga mag-aaral sa BCAT, Meycauayan College High School & College Department, Regina Carmeli College, subalit hindi tinugunan ng mga Administrador ang kanilang kahilingan tulad ng pagrorollback ng tuition fee, pagbabalik ng sangguniang mag-aaral at pahayagan, pagtataas ng sahod ng mga guro, pagpapahusay ng mga pasilidad at iba pa.",
+    "entities": [
+      [
+        70,
+        74,
+        "Organization-Other"
+      ],
+      [
+        76,
+        127,
+        "Organization-Other"
+      ],
+      [
+        129,
+        151,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "575"
+  },
+  {
+    "text": "Idinagdag ni Fernandez na “ito na ang magiging wakas ng demokrasya sa Pilipinas kung ang militar ang hahawak sa pamahalaan.”",
+    "entities": [
+      [
+        13,
+        22,
+        "Person-Individual"
+      ],
+      [
+        70,
+        79,
+        "Location"
+      ],
+      [
+        56,
+        66,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1351"
+  },
+  {
+    "text": "Pinuna rin ng obispo ang paninindigan ng CBC tungkol sa batas militar: \"Kumikilos lamang tayo kung inaakala nating nanganganib ang interes ng Simbahan.\"",
+    "entities": [
+      [
+        41,
+        44,
+        "Organization-Other"
+      ],
+      [
+        56,
+        69,
+        "Production-Government"
+      ],
+      [
+        142,
+        150,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6900"
+  },
+  {
+    "text": "Sa ibang salita, ibig ng pangkat ng mga abugado — ang Integrated Bar of the Philippines — na magdaos ng plebisito upang mabigyan ng pagkakataon ang mga mamamayan na humatol sa kapalaran ng Amyenda Big. 6.",
+    "entities": [
+      [
+        54,
+        87,
+        "Organization-Other"
+      ],
+      [
+        189,
+        203,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "604"
+  },
+  {
+    "text": "Nasa ganitong kalagayan si Nora Aunor sa kanyang pagdiriwang ng kanyang ikatatlumpu’t isang kaarawan.",
+    "entities": [
+      [
+        27,
+        37,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2015"
+  },
+  {
+    "text": "Hinalughog ng mga sundalo ang buong kumbento, pati na ang mga personal na kagamitan ng mga madre at iba pang nakatira doon. Gayundin, pinagbawalan silang magsimba nang umagang iyon.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7315"
+  },
+  {
+    "text": "Kalagayan ni FM, inaalam ng publiko",
+    "entities": [
+      [
+        13,
+        15,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "331"
+  },
+  {
+    "text": "Nagsimula noong nakaraang linggo, maraming record ang binura at pinantayan na nagdagdag ng kulay sa Palaro.",
+    "entities": [
+      [
+        26,
+        32,
+        "Time"
+      ],
+      [
+        100,
+        106,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1780"
+  },
+  {
+    "text": "BUKAS NA BUKAS sa rebolusyon: napakalaking bilang ng manggagawang bukid sa Negros ang matinding nagugutom, at handang makibaka.",
+    "entities": [
+      [
+        75,
+        81,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4127"
+  },
+  {
+    "text": "Ibinagsak ng mga Kampucheano ang pasistang diktadurang US-Lon Nol sa kanilang bayan, at ng mamamayan ng Vietnam ang pasistang diktadurang US-Nguyen Van Thieu sa sariling bayan.",
+    "entities": [
+      [
+        104,
+        111,
+        "Location"
+      ],
+      [
+        17,
+        28,
+        "Person-Collective"
+      ],
+      [
+        55,
+        65,
+        "Production-Doctrine"
+      ],
+      [
+        138,
+        157,
+        "Production-Doctrine"
+      ],
+      [
+        33,
+        42,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4215"
+  },
+  {
+    "text": "Noong panahon ng kampanyahan, itinaya ni Alkalde Joseph \"Erap\" Ejercio Estrada ng San Juan, Metro Manila ang kanyang liderato bilang pangunahing campaign manager ng reeleksiyonistang assemblyman na si Ronaldo Zamora. Subali't talo ang kandidato ni Erap! Tinambakan siya ng kanyang kalabang si Dean Neptali Gonzales, dating konggresista na kandidato opistal ng Unido-Laban. Inireport na lubhang napahiya si Erap na humantong sa matinding pagkainis, at dahil dito ay nambugbog pa umano ang artistang alkalde dahil sa init ng ulo sanhi ng pagkatalo ni Zamora. Kaunting lamig, Mayor!",
+    "entities": [
+      [
+        82,
+        104,
+        "Location"
+      ],
+      [
+        201,
+        215,
+        "Person-Individual"
+      ],
+      [
+        248,
+        253,
+        "Person-Individual"
+      ],
+      [
+        293,
+        314,
+        "Person-Individual"
+      ],
+      [
+        360,
+        371,
+        "Organization-Political"
+      ],
+      [
+        406,
+        410,
+        "Person-Individual"
+      ],
+      [
+        549,
+        555,
+        "Person-Individual"
+      ],
+      [
+        41,
+        78,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2318"
+  },
+  {
+    "text": "Isang trilohiya — tatlong maikling dula — na pawang tumatalakay sa kababaihan ang ihinahandog ng UP Persyante, isang samahan sa dula sa Unibersidad sa Pilipinas sa semestreng ito.",
+    "entities": [
+      [
+        97,
+        109,
+        "Organization-Other"
+      ],
+      [
+        136,
+        160,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "627"
+  },
+  {
+    "text": "Kinansela kahapon ni Bise Gobernador Ismael A. Mathay, Jr. ng Metro Manila ang rally para sa pagdiriwang ng kaarawan ng Pangulong Marcos dahil sa maraming iniulat na karaingan mula sa mga mag-aaral at sa kanilang mga magulang. Ideya mismo ni Mathay, gaganapin sana ngayon ang rally sa Luneta grandstand.",
+    "entities": [
+      [
+        62,
+        74,
+        "Location"
+      ],
+      [
+        242,
+        248,
+        "Person-Individual"
+      ],
+      [
+        285,
+        302,
+        "Location"
+      ],
+      [
+        21,
+        58,
+        "Person-Individual"
+      ],
+      [
+        120,
+        136,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "327"
+  },
+  {
+    "text": "Makahulugan ang pagyayabang kamakailan ni Marcos na pinakamalaking bahagi ang makukuha ng kanyang rehimen sa kabuuang tulong militar ng E.U. para sa mga bayang kasapi sa Asean. Dinagdagan ang dating $500 milyong ipinangako sa rehimeng Marcos para sa limang taon, ayon sa mga balita.",
+    "entities": [
+      [
+        42,
+        48,
+        "Person-Individual"
+      ],
+      [
+        235,
+        241,
+        "Person-Individual"
+      ],
+      [
+        199,
+        211,
+        "Numerical Statistics"
+      ],
+      [
+        170,
+        175,
+        "Organization-Other"
+      ],
+      [
+        136,
+        140,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4387"
+  },
+  {
+    "text": "Nagbabala si Sin laban sa pagdakip",
+    "entities": [
+      [
+        13,
+        16,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2758"
+  },
+  {
+    "text": "Ilan sa kanyang mga dahilan:\n1. Kailangan daw natin ang dolyar na ipinapasok dito ng mga dayuhang mamumuhunan;\n2. Sa kaso ng mga KMN, kailangan daw natin ang kanilang teknolohiya (makinarya, kasangkapan, at iba pang kagamitan sa produksyon) at kaalamang teknikal;\n3. Lilikha daw ang mga ito ng maraming trabaho para sa mga Pilipino; at\n4. Magagamit daw natin ang malawak na kontak ng mga KMN sa pandaigdigang pamilihan para sa ating mga lokal na produkto.",
+    "entities": [
+      [
+        388,
+        391,
+        "Organization-Other"
+      ],
+      [
+        323,
+        331,
+        "Person-Collective"
+      ],
+      [
+        129,
+        132,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7916"
+  },
+  {
+    "text": "Mariveles, Bataan — Naiwasan ang posibleng welga sa Pasig Textile Industries, Inc., isang kompanya sa Bataan Export Processing Zone (BEPZ) dahil sa maagang pagkakaayos ng gusot sa pagitan ng management at mga manggagawa.",
+    "entities": [
+      [
+        0,
+        17,
+        "Location"
+      ],
+      [
+        52,
+        82,
+        "Organization-Other"
+      ],
+      [
+        102,
+        131,
+        "Organization-Government"
+      ],
+      [
+        133,
+        137,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1095"
+  },
+  {
+    "text": "Pinagkalooban ng mga gantimpala ang mga sumunod: Virgilio S. Almario, pangalawang gantimpala at Edgar B. Maranan, pangatlong gantimpala. Herminio S. Beltran, unang karangalan; Leodovico G. Lacsamana, pangalawang karangalan at Marra PL. Lanot, pangatlong karangalan.",
+    "entities": [
+      [
+        49,
+        68,
+        "Person-Individual"
+      ],
+      [
+        96,
+        112,
+        "Person-Individual"
+      ],
+      [
+        137,
+        156,
+        "Person-Individual"
+      ],
+      [
+        176,
+        198,
+        "Person-Individual"
+      ],
+      [
+        226,
+        241,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1427"
+  },
+  {
+    "text": "Kinondena ng manananggol ng mga pamilyang Galman at Oliva ang tinawag niyang “labag sa batas, di marapat at labis na pakikialam” ng Palasyo na aniya’y sumasalungat sa kalayaan ng Lupon na itinadhana ng Pampanguluhang Dekreto Blg. 1886.",
+    "entities": [
+      [
+        32,
+        48,
+        "Person-Collective"
+      ],
+      [
+        52,
+        57,
+        "Person-Individual"
+      ],
+      [
+        132,
+        139,
+        "Location"
+      ],
+      [
+        202,
+        234,
+        "Production-Doctrine"
+      ],
+      [
+        179,
+        184,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "463"
+  },
+  {
+    "text": "Nauna rito, ikinakatwiran ni Rono na:ayon sa Seksiyon 74 ng nasabing Code na ang lahat ng mega opisyal at empleado na ang mga suweldo ay binabayaran mula sa pondo ng probinsya, lunsod, o bayan ay dapat hirangin ng gobernador o alkalde ng lunsod o bayan.",
+    "entities": [
+      [
+        29,
+        33,
+        "Person-Individual"
+      ],
+      [
+        45,
+        56,
+        "Production-Government"
+      ],
+      [
+        69,
+        73,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "772"
+  },
+  {
+    "text": "\"Marangal na mandirigma\"—ito ang tawag ni Marcos sa istragler na si Hiro Onoda, isang tinyente sa hukbong imperyalista ng Hapon. Ang Onodang ito at ang pangkat na pinamunuan niya, mula nang mapadpad sila sa pulo ng Lubang, Mindoro, ay pumatay ng di-kukulangin sa 30 magbubukid na Pilipino, sumugat ng halos 100 iba pa, at nanunog ng maraming bahay at pananim. Para kay Marcos, ang ganitong kabuktutan ng mga katulad niyang pasista ay marangal!",
+    "entities": [
+      [
+        42,
+        48,
+        "Person-Individual"
+      ],
+      [
+        68,
+        78,
+        "Person-Individual"
+      ],
+      [
+        122,
+        127,
+        "Location"
+      ],
+      [
+        215,
+        230,
+        "Location"
+      ],
+      [
+        369,
+        375,
+        "Person-Individual"
+      ],
+      [
+        263,
+        276,
+        "Numerical Statistics"
+      ],
+      [
+        106,
+        118,
+        "Production-Doctrine"
+      ],
+      [
+        280,
+        288,
+        "Person-Collective"
+      ],
+      [
+        307,
+        310,
+        "Numerical Statistics"
+      ],
+      [
+        423,
+        430,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7256"
+  },
+  {
+    "text": "Sinabi niya na muling makikipag-usap sa grupo ng IMF na darating sa Maynila, subalit ang pag-aapruba ay gagawin ng lupon ng IMF na naka-base sa Estados Unidos.",
+    "entities": [
+      [
+        49,
+        52,
+        "Organization-Other"
+      ],
+      [
+        68,
+        75,
+        "Location"
+      ],
+      [
+        124,
+        127,
+        "Organization-Other"
+      ],
+      [
+        144,
+        158,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1812"
+  },
+  {
+    "text": "Nanawagan din siya sa mga kinauukulan na huwag gumawa ng anumang hakbang laban sa mga mamamayan pagkaraan ng halalan sa Batasang Pambansa.",
+    "entities": [
+      [
+        120,
+        137,
+        "Location"
+      ],
+      [
+        109,
+        116,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2760"
+  },
+  {
+    "text": "Taliwas sa mga naunang ulat, ang gasolinahang Caltex sa kabayanan ay hindi sinunog ng mga gerilya, kundi tinamaan ng panganganyon ng Navy.",
+    "entities": [
+      [
+        133,
+        137,
+        "Organization-Military"
+      ],
+      [
+        46,
+        52,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7037"
+  },
+  {
+    "text": "Ayon kay Matsumi Sato, siya’y technical consultant at pangulo ng Japan Acoustics Research Institute. Siya ay 43-taong gulang. Siya ay nagtapos ng electrical engineering sa Kinki University. Siya’y naging technical consultant ng Communication Section ng National Police Agency, Police Science Research Institute ng National Police Agency at ng Science Agency. Sa mga panahong iyon, siya’y nag-aral sa Federal Bureau of Investigation at sa Kay Elemetric Laboratory sa Amerika. Siya’y nagsaliksik tungkol sa voice-print. Siya ay nagsimulang mag-aral ukol sa Voiceprint simula nang siya’y nasa Police Agency pa lamang. Hindi ibinunyag sa pagdinig ang mga resulta ng pagsasaliksik ni Suzuki ukol sa mga boses na umano’y binigkas ng mga sundalo sa hagdanan ng eroplano bago mabaril si Aquino, subalit pinatunayan niya na kaya niyang ikaiba (differentiate) ang boses ng isang tao sa 45,000 na iba pa.",
+    "entities": [
+      [
+        9,
+        21,
+        "Person-Individual"
+      ],
+      [
+        65,
+        99,
+        "Organization-Other"
+      ],
+      [
+        172,
+        188,
+        "Location"
+      ],
+      [
+        228,
+        249,
+        "Organization-Other"
+      ],
+      [
+        438,
+        462,
+        "Organization-Other"
+      ],
+      [
+        466,
+        473,
+        "Location"
+      ],
+      [
+        679,
+        685,
+        "Person-Individual"
+      ],
+      [
+        779,
+        785,
+        "Person-Individual"
+      ],
+      [
+        253,
+        275,
+        "Organization-Military"
+      ],
+      [
+        314,
+        336,
+        "Organization-Military"
+      ],
+      [
+        343,
+        357,
+        "Organization-Other"
+      ],
+      [
+        277,
+        310,
+        "Organization-Other"
+      ],
+      [
+        400,
+        431,
+        "Organization-Military"
+      ],
+      [
+        590,
+        603,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2464"
+  },
+  {
+    "text": "Mula sa kanyang tinutungtungan, matiim na hinagod ni Dario de Rosas, 20, ng Siniloan, Laguna ang haba ng kanyang tatakbuhan — mga 145 talampakan hanggang sa takeoff board.",
+    "entities": [
+      [
+        53,
+        67,
+        "Person-Individual"
+      ],
+      [
+        76,
+        92,
+        "Location"
+      ],
+      [
+        130,
+        144,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1593"
+  },
+  {
+    "text": "Isang panukala ang iniharap ng mga abugado na humihiling na ipaubaya sa taongbayan ang pagpapasiya sa isyung nahihinggil sa pagbibigay ng kapangyarihan kay Ginoong Marcos na gumawa ng mga batas sa pamamagitan ng pag-iisyu ng mga dekreto.",
+    "entities": [
+      [
+        156,
+        170,
+        "Person-Individual"
+      ],
+      [
+        229,
+        236,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "603"
+  },
+  {
+    "text": "Welga\n\nMuling iniuumang ngayon ng rehimen ang isang pasistang opensiba laban sa kilusang manggagawa na ganap na magbabawal sa karapatang magwelga. Nakahapag ngayon sa Batasang Pambansa ang \"National Industrial Recovery Act of 1985\"  na naglalaman ng pagbabawal na ito. Para sa lakas ng mga pagtutol ng publiko, mismo ang \"Presidential Council for National Economic Recovery\" ay napilitang kunwa'y umatras sa panukalang ito at iwan sa Batasan ang pag-gigiit sa pakana.\n\nSamantala, patuloy ang welga ng mga manggagawa sa 54 na pabrika, at mayroon pang 254 na unyon na nagharap ng kani-kanilang \"notice of strike.\" Sa paghahanda ng pasistang opensiba, patuloy na pinaiigting ng rehimen ang marahas na panunupil sa mga piketlayn, gaya ng ginawa sa welga sa Stanford Microsystems, Inc. sa Pasig, Metro Manila. Sinabuyan ng asido, pinagbabaril at pinagbubugbog ng mga upahang maton at sikyuritigard ang mga welgista. Bunga nito, mahigit isang daang mga welgista at simpatisador ang nasaktan.",
+    "entities": [
+      [
+        167,
+        184,
+        "Location"
+      ],
+      [
+        434,
+        441,
+        "Location"
+      ],
+      [
+        753,
+        780,
+        "Organization-Other"
+      ],
+      [
+        784,
+        803,
+        "Location"
+      ],
+      [
+        190,
+        230,
+        "Production-Government"
+      ],
+      [
+        322,
+        373,
+        "Organization-Government"
+      ],
+      [
+        52,
+        61,
+        "Production-Doctrine"
+      ],
+      [
+        629,
+        638,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3759"
+  },
+  {
+    "text": "Bunga nito, ang mga sirang tulay, giba-gibang gusali ng paaralan at pamahalaan ay hindi maipagawa.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "807"
+  },
+  {
+    "text": "Sa isang paglilinaw na inilabas ni Padre de la Torre pagkaraang malathala ang panayam sa New York Times, binigyang-diin niya ang kahalagahan ng pagtutulungan ng iba't ibang organisasyon, grupo at indibidwal na nakikibaka para sa pambansang paglaya.",
+    "entities": [
+      [
+        35,
+        52,
+        "Person-Individual"
+      ],
+      [
+        89,
+        103,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "7004"
+  },
+  {
+    "text": "Ang mga pakanang ito ng kaaway, bagkus, ay nagturo lang sa manggagawa ng aral na hindi sapat ang kalabanin lang ang kapitalista sa loob ng pabrika at ang mga dilawang lider manggagawa na nagbibenta ng kaluluva ng kanilang kauri.",
+    "entities": [
+      [
+        116,
+        127,
+        "Person-Collective"
+      ],
+      [
+        158,
+        166,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Bukluran",
+    "Year": "1978",
+    "Row_Index": "3381"
+  },
+  {
+    "text": "Idiniin ng mga iskuwater na dapat iboycott pagkat hindi ito makakalutas sa krisis pang-ekonomiya, kundi lalong magpapalala sa kondisyon ng mahihirapan dahil sa malaking gastos na gagamitin ng pamahlaan at ng mga kandidato.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2653"
+  },
+  {
+    "text": "Sumusunod ang isang artikulong dapat sanang nailabas sa isyu ng Nobyembre 1983 kasabay ng artikulong \"Imperyalismong US: Nagwawala na naman\":",
+    "entities": [
+      [
+        64,
+        78,
+        "Time"
+      ],
+      [
+        102,
+        139,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "5054"
+  },
+  {
+    "text": "Una si Enrique Zobel, tagapangulo ng Bank of the Philippine Islands, na sa harap ng pambansang asosasyon ng mga accountant ay nagsabing kung marami lamang ang sumama sa mga pumupunang tinig nang nakaraan ay maaaring napigil natin ang pagbagsak sa ating kinalalagyan ngayon.",
+    "entities": [
+      [
+        7,
+        20,
+        "Person-Individual"
+      ],
+      [
+        37,
+        67,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "812"
+  },
+  {
+    "text": "Pinakamabilis na sa Ford Phil. (52 araw). Pinakamatagal sa Chrysler Phil. (362 araw).",
+    "entities": [
+      [
+        20,
+        30,
+        "Organization-Other"
+      ],
+      [
+        59,
+        73,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7614"
+  },
+  {
+    "text": "LUKSANG PARANGAL — Binigyan ng luksang parangal si Major Gen. Tomas B. Karingal, superintendente ng Northern Police District, nang siya ay ihatid sa huling hantungan noong nakaraang Huwebes. Pinaslang si Heneral Karingal sa isang restaurant sa Lunsod Quezon ng hindi pa nakikilalang mga lalaki noong Mayo 24. (Larawan ni Oscar Estabaya)",
+    "entities": [
+      [
+        100,
+        124,
+        "Organization-Military"
+      ],
+      [
+        204,
+        220,
+        "Person-Individual"
+      ],
+      [
+        244,
+        257,
+        "Location"
+      ],
+      [
+        321,
+        335,
+        "Person-Individual"
+      ],
+      [
+        182,
+        189,
+        "Time"
+      ],
+      [
+        300,
+        307,
+        "Time"
+      ],
+      [
+        51,
+        96,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1809"
+  },
+  {
+    "text": "Tunay na reporma rin sa lupa ang sagot sa problema ng mga maralitang tagalunsod ‘pagkat ito ang mahiipit na katuwang ng pambansang industrilisasyon.",
+    "entities": [],
+    "Publication": "Ugnayan",
+    "Year": "1978",
+    "Row_Index": "5924"
+  },
+  {
+    "text": "Ang paglakad ng mga 12 pangkati ay bahagi ng pagdiriwang ng Linggo ng International Solidarity (Pandaidig na Pagkakaisa).",
+    "entities": [
+      [
+        60,
+        94,
+        "Event-International"
+      ],
+      [
+        96,
+        119,
+        "Event-International"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "496"
+  },
+  {
+    "text": "Samantala, noong umpisa ng dekada 1960, halos walang umiiral na kolektibong buhay ang Partido Komunista bunga ng mga maling linyang itinaguyod ng lideratong Jesus Lava—mula pa noong huling bahagi ng naunang dekada. Sanhi ng mga pagkatalong militar, bumaling ang lideratong Jesus Lava sa empirisistang pag-iisip at dulot nito, pinagtibay ang linya ng parlamentaryong pakikibaka bilang pangunahing anyo ng pakikibaka at binuwag ang lakas-platun at lakas-kumpanyang mga sandatahang yunit na pinapatnubayan ng Partido.",
+    "entities": [
+      [
+        157,
+        167,
+        "Person-Individual"
+      ],
+      [
+        273,
+        283,
+        "Person-Individual"
+      ],
+      [
+        34,
+        38,
+        "Time"
+      ],
+      [
+        86,
+        103,
+        "Organization-Political"
+      ],
+      [
+        506,
+        513,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "5009"
+  },
+  {
+    "text": "Malayang nakaaalis sa bansa ang mga opisyal ng mga bangkong ito dala ang pera ng mga walang magawang depositor. Gayunman, wala umanong ginagawa ang pamahalaan upang pagbayarin sila sa kanilang mga ginawa, pahayag ng banker.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "648"
+  },
+  {
+    "text": "Samantala, mababa naman ang sweldo ng karaniwang mga sundalo. Madalas pang ang mga sweldo nila't alawans ay naaantala o kinakaltasan pa ng tiwaling mga upisyal. Masama ang loob nila, gaya rin ng mga di bulok na upisyal sa panggitna at mababang mga antas, na nakatatanto na ang \"paglilingkod sa bayan\" ay pilit ngayong ginawang paglilingkod sa maliit na pangkating Marcos at sa imperyalismong US. Mababa rin ang sweldo ng mga pulis, bumbero, tauhan ng CHDF at barangay tanod na, ayon sa dikreto ng diktador, ay bahagi ng reaksyonaryong sandatahang lakas.",
+    "entities": [
+      [
+        364,
+        370,
+        "Organization-Government"
+      ],
+      [
+        392,
+        394,
+        "Organization-Government"
+      ],
+      [
+        451,
+        455,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4811"
+  },
+  {
+    "text": "75 nagrarally sa Mendiola, nawawala pa Ni JOEL C. PAREDES",
+    "entities": [
+      [
+        17,
+        25,
+        "Location"
+      ],
+      [
+        42,
+        57,
+        "Person-Individual"
+      ],
+      [
+        0,
+        13,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "945"
+  },
+  {
+    "text": "Napag-alaman na kusang umurong ang mga puwersa ng BMA noong umaga ng Peb. 9. Tinamnan nila ng minang pampasabog ang mga kalsadang dinaanan nila.",
+    "entities": [
+      [
+        50,
+        53,
+        "Organization-Military"
+      ],
+      [
+        69,
+        76,
+        "Time"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7062"
+  },
+  {
+    "text": "Kakaiba sa masang anakpawis sa agrikultura sa ibang mga rehiyon na nagtatanim ng ibang mga produkto, nabubuhay ang mga manggagawang bukid tanging sa pagbebenta ng kanilang lakas-paggawa. At kadalsa'y mas matindi ang pagsasamantala sa kanila at mas mahirap ang kanilang buhay kaysa sa iba pang masang anakpawis.",
+    "entities": [],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4124"
+  },
+  {
+    "text": "Hanggang noong ilang plebisito, napag-alaman na hindi seryoso ang mamamayan ng Tawi-tawi sa mga nakaraang halalang idinaos mula nang ideklara ang batas militar.",
+    "entities": [
+      [
+        79,
+        88,
+        "Location"
+      ],
+      [
+        146,
+        159,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1645"
+  },
+  {
+    "text": "Subalit, hindi sinasabi ng batas na ang hindi pagpaparehistro, laluna kung may matwid na dahilan, ay magbubunga ng pagkawala ng karapatang makaboto pa,” anang CORD.",
+    "entities": [
+      [
+        159,
+        163,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "277"
+  },
+  {
+    "text": "KUALA LUMPUR (AFP) — Ipinagbawal kahapon ng pulisya ang lahat ng pagtitipong pulitikal sa hilagang estado ng Keda at Perlis ma ang mayorya’y Muslim.",
+    "entities": [
+      [
+        0,
+        12,
+        "Location"
+      ],
+      [
+        14,
+        17,
+        "Production-Media"
+      ],
+      [
+        109,
+        113,
+        "Location"
+      ],
+      [
+        117,
+        123,
+        "Location"
+      ],
+      [
+        141,
+        147,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "555"
+  },
+  {
+    "text": "Ang Tinig Ng Masa Taon 1 * BLG. 41 * MAYO 8-14, 1984 * P1.50 sa METRO MANILA",
+    "entities": [
+      [
+        37,
+        52,
+        "Time"
+      ],
+      [
+        64,
+        76,
+        "Location"
+      ],
+      [
+        55,
+        60,
+        "Numerical Statistics"
+      ],
+      [
+        0,
+        17,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2437"
+  },
+  {
+    "text": "Kailangang wakasan na ang paghahari ng papet-diktador na si Marcos. Ito'y bagay na hindi magagawa nang madalian o sa isang iglap. Subalit walang hindi natin magagawa kung tayo'y magbubuklud-buklod at sama-samang kikilos. Nasa pagkakaisa at pakikibaka ang ating lakas.",
+    "entities": [
+      [
+        60,
+        66,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6919"
+  },
+  {
+    "text": "Habang tumitindi ang paghihikahos ng nakararaming Pilipino, naliligo sa salapi at luho si Marcos at ang kanyang mga amo't alipures.",
+    "entities": [
+      [
+        90,
+        96,
+        "Person-Individual"
+      ],
+      [
+        50,
+        58,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6916"
+  },
+  {
+    "text": "Ayon sa sumbong ni Fiscal Kliatchko, ilan sa mga hukom pambayan ang tumatanggap ng mga testimonyo ng mga nagsasakdal at akusado gayung wala silang hurisdiksiyon. Ito ang dahilan, ani Kliatchko, kaya marami sa mga kaso ang napapaso.",
+    "entities": [
+      [
+        19,
+        35,
+        "Person-Individual"
+      ],
+      [
+        183,
+        192,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "201"
+  },
+  {
+    "text": "Nanawagan sa taumbayan ang paring nagmisa na magkaisa at tutulan ang terorismo ng militar.",
+    "entities": [],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7784"
+  },
+  {
+    "text": "Kabilang sa mga nadakip si Dr. Nemesio Prudente, dating pangulo ng Philippine College of Commerce at mahigpit na kaaway ng batas militar.",
+    "entities": [
+      [
+        67,
+        97,
+        "Organization-Other"
+      ],
+      [
+        27,
+        47,
+        "Person-Individual"
+      ],
+      [
+        123,
+        136,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6931"
+  },
+  {
+    "text": "Paano ang tamang landas? Pagkakaisa at matatag na pagkilos ng mamamayan—tulad ng ginawa ng mga taga-San Juan, Batangas, na nagpaurong sa diktadura sa plano nitong magtayo ng copper smelter sa lugar nila—ito ang tamang landas.",
+    "entities": [
+      [
+        95,
+        118,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7496"
+  },
+  {
+    "text": "Sumunod na ang mga sayaw ng mga modelo. Una, sama-samang ipinarada bilang overview sa maaaring asahan, at tunay na tunay. Mga babaing walang takip ang dibdib, at mga babaing halos walang takip ang ibaba. Isa-isa nang lumabas ang mga modelo; may payat, may mataba, at may mukhang mahiyain. Sigawan ang mga manonood, panay ang paswit ng mga naglilenting tanod sa mga tumatayo.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2537"
+  },
+  {
+    "text": "Ang pagsisikhay sa indibidwal na pagbabasa at ang masiglang pakikipagtalakayan sa mga paksang nababasa ay mahalagang mga sangkap ng ating pagpapaunlad at pagpapadalubhasa sa pinili nating rebolusyonaryong propesyon. Sa pagpapasigla ng Partido sa aktibidad na ito, naaarmasan ang masang kasapian na mas mabubungang makakalohok sa demokratikong mga talakayan sa pagbubuo at pagtatasa ng mga desisyon. Ibayo silang naihahanda para sa mas malalaking pananagutan sa pamumuno sa hinaharap.",
+    "entities": [
+      [
+        235,
+        242,
+        "Organization-Political"
+      ],
+      [
+        329,
+        342,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3952"
+  },
+  {
+    "text": "HUNYO 18, LUNES \"Kapag kausap niya ang mga reporter, ang sinasabi niya ay handi siya tumistigo kahit kailan pero ayaw diumano siyang anyayahan ni Justice (Corazaon) Agrava. Alam 'niyo ang totoo niyan, tatlong subpoena na ang ipinadala namin sa bahay niya pero pinagtaguan niya kami.\" Ganito ang hinanakit ng mga tauhan ng Agrava Fact-Finding Board kay Sen. Ernesto Maceda, dating abogado ni Sen. Benigno S. Aquino, Jr. Nakatakdang tumestigo si Macedo subalit iniulat ng mga pahayagan na siya ay lumipad patungong Los Angeles upang makipag-usap sa mga lider-Oposisyon na nasa Amerika. Ayon sa ulat, nag-utos si Immigration Commisioner Edmundo Reyes na huwag payagang makalabas ng bansa si Maceda. Ang aksiyon umano ni Reyes ay naaayon sa kahilingan ni Agrva, ang pinuno ng lupong nag-iimbestiga sa pagkapaslang kay Senador Aquino. Lubhang nahula ang aksiyon ni Reyes sapagkat nakaalist na si Maceda. Samantala, sinabi ni Mario Ongkiko, deputy counsel ng Agrava Board, na maaring anyayahan muli upang tumestigo ang ilang sundalo na nagbigay ng salaysay na hindi naaayon sa mga ebidensyang hawak ng Board.",
+    "entities": [
+      [
+        444,
+        450,
+        "Person-Individual"
+      ],
+      [
+        513,
+        524,
+        "Location"
+      ],
+      [
+        575,
+        582,
+        "Location"
+      ],
+      [
+        688,
+        694,
+        "Person-Individual"
+      ],
+      [
+        717,
+        722,
+        "Person-Individual"
+      ],
+      [
+        860,
+        865,
+        "Person-Individual"
+      ],
+      [
+        891,
+        897,
+        "Person-Individual"
+      ],
+      [
+        920,
+        933,
+        "Person-Individual"
+      ],
+      [
+        352,
+        371,
+        "Person-Individual"
+      ],
+      [
+        953,
+        965,
+        "Organization-Government"
+      ],
+      [
+        322,
+        347,
+        "Organization-Government"
+      ],
+      [
+        146,
+        171,
+        "Person-Individual"
+      ],
+      [
+        814,
+        828,
+        "Person-Individual"
+      ],
+      [
+        391,
+        418,
+        "Person-Individual"
+      ],
+      [
+        610,
+        621,
+        "Organization-Government"
+      ],
+      [
+        622,
+        647,
+        "Person-Individual"
+      ],
+      [
+        0,
+        15,
+        "Time"
+      ],
+      [
+        1096,
+        1101,
+        "Organization-Government"
+      ],
+      [
+        751,
+        756,
+        "Organization-Government"
+      ],
+      [
+        551,
+        566,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1430"
+  },
+  {
+    "text": "Simple ring tao si Lincoln, ang 6’4” na taong pangit na ang habaang mukha’y pangit pang magdala ng damit, lalo na kung may suot na top hat o mataas na sombrero na siyang uso noong kanyang panahon. Ngunit kahit ganito, di birong tatag ang ipinakita niya upang mailigtas ang unyon ng Estados Unidos ng Amerika. Isa siya sa pinakadakilang naging presidente ng EU na ang simpleng depinisyon ng demokrasya (‘‘pamahalaang ukol sa tao, ng tao at para sa tao”) ay tinitingala ng sinupamang nagmamahal sa demokrasya sa buong daigdig.",
+    "entities": [
+      [
+        19,
+        26,
+        "Person-Individual"
+      ],
+      [
+        357,
+        359,
+        "Location"
+      ],
+      [
+        282,
+        307,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "430"
+  },
+  {
+    "text": "Sa isang — mainitang debate sa sesyon ng Batasan kamakalawa ng gabi, napilitang gawin ni Ginoong Virata ang pag-amin dahil sa tindi ng interpelasyon o pagtatanong ni Mambabatas Pambansa Neptali Gonzales (Unido-Mandaluyong at San Juan).",
+    "entities": [
+      [
+        89,
+        103,
+        "Person-Individual"
+      ],
+      [
+        41,
+        48,
+        "Organization-Government"
+      ],
+      [
+        204,
+        234,
+        "Organization-Political"
+      ],
+      [
+        166,
+        202,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "593"
+  },
+  {
+    "text": "Sa pagpapabasak ng imperyalismong US sa presyo ng asukal sa pandaigdigang pamilihan, at sa kawalan ng mautang, naghirap ang industriya sa asukal. Kahit na ang $0.14 na kailangan para iprodyus ang isang libra ng asukal, pero $0.04 lamang ang presyo nito sa pandaigdigang pamilihan. At ang kabuntutan ng mauutang ay napunta na lang sa mga kabig ng pangkating Marcos.",
+    "entities": [
+      [
+        357,
+        363,
+        "Person-Individual"
+      ],
+      [
+        159,
+        164,
+        "Numerical Statistics"
+      ],
+      [
+        224,
+        229,
+        "Numerical Statistics"
+      ],
+      [
+        19,
+        33,
+        "Production-Doctrine"
+      ],
+      [
+        34,
+        36,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4132"
+  },
+  {
+    "text": "Pinasinungalingan ng mga manggagawa ang ikinakalat ng DOL na ang mga manggagawang Pilipino sa Saudi Arabia at iba pang bansa ay mahusay ang kondisyon sa paggawa, at pinuprotektahan ng batas ng Pilipinas at ng Saudi Arabia.",
+    "entities": [
+      [
+        54,
+        57,
+        "Organization-Other"
+      ],
+      [
+        94,
+        106,
+        "Location"
+      ],
+      [
+        193,
+        202,
+        "Location"
+      ],
+      [
+        209,
+        221,
+        "Location"
+      ],
+      [
+        82,
+        90,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7689"
+  },
+  {
+    "text": "Sinabi ni Lamano na ang inireport na child prostitution sa Matabungkay Beach ay walang katotohanan. \"Hindi ganito ang gawain ng aming mga kabataan, at ang karamihan sa mga paupahang cottage sa lugar na ito ay pinamamahalaan ng mga konserbatibong mamamayan,\" wika ng alkalde. Bagama't pinabulaanan niya ang \"pagbibili ng laman\" ng mga taga-Lian tinanggap naman ni Lamano ang katotohan na may mga child prostitute sa kanilang lugar subalit binigyang-diin niya na ang mga ito ay hindi katutubong taga-Lian kundi galing sa tourist belt sa Maynila at dinadala sa Matabungkay ng mga dayuhang turista na nagsasagawa ng pangkasiyahang paglalakbay.",
+    "entities": [
+      [
+        10,
+        16,
+        "Person-Individual"
+      ],
+      [
+        59,
+        76,
+        "Location"
+      ],
+      [
+        363,
+        369,
+        "Person-Individual"
+      ],
+      [
+        535,
+        542,
+        "Location"
+      ],
+      [
+        558,
+        569,
+        "Location"
+      ],
+      [
+        334,
+        343,
+        "Person-Collective"
+      ],
+      [
+        493,
+        502,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "31"
+  },
+  {
+    "text": "Hindi maikakailang hinahati ng Amyenda 6 ang bansa sa panahong dapat pa naman itong magkaisa. Nanggaling muna ito sa labas, pumasok sa Batasan, at sa partidistang kalagayan doo’y nagkatigasan ng posisyon.",
+    "entities": [
+      [
+        135,
+        142,
+        "Location"
+      ],
+      [
+        31,
+        40,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "589"
+  },
+  {
+    "text": "PUPUTOK NA KAYA? - Nagsisimula nang magbuga ng makapal-kapal na usok ang Bulkang Mayon, ang itinuturing na pinakamaganda at pinakaperpektong kono (cone) sa buong daigdig.",
+    "entities": [
+      [
+        73,
+        86,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "315"
+  },
+  {
+    "text": "Ganap nang kontrolado ng mga mandirigmang Muslim \"ang mga munisipalidad ng Pata, Luuk, Maimbong, Indanan at lahat ng munisipalidad sa Sulu at sa bagong lalawigan ng Tawitawi, liban sa mga poblasyon\".",
+    "entities": [
+      [
+        75,
+        79,
+        "Location"
+      ],
+      [
+        81,
+        85,
+        "Location"
+      ],
+      [
+        87,
+        95,
+        "Location"
+      ],
+      [
+        97,
+        104,
+        "Location"
+      ],
+      [
+        134,
+        138,
+        "Location"
+      ],
+      [
+        165,
+        173,
+        "Location"
+      ],
+      [
+        42,
+        48,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6676"
+  },
+  {
+    "text": "At bilang pagpapalawak ng Proyect Mercury, muling naglunsad si Postmaster General J. Roilo Golez ng isang programa na ang mga sulat mula at patungo sa Metro Manila ay ihahatid sa araw ding yaon ay ihulog. Kasama sa progamang ito ang mga sulat mula sa mga piling lugar sa Kamaynilaan patungo sa Hongkong, Tokyo, at Singapore.",
+    "entities": [
+      [
+        151,
+        163,
+        "Location"
+      ],
+      [
+        294,
+        302,
+        "Location"
+      ],
+      [
+        304,
+        309,
+        "Location"
+      ],
+      [
+        314,
+        323,
+        "Location"
+      ],
+      [
+        63,
+        96,
+        "Person-Individual"
+      ],
+      [
+        26,
+        41,
+        "Production-Government"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2339"
+  },
+  {
+    "text": "Limpak-limpak na salapi ang nilustay sa proklamasyon pa lamang ng mga kandidato. Sa sinasabing \"Konsiyerto ng mga Bagsak sa Luneta\" (pansinin na KBL ang akronim nito), nakalulula na ang ginastos ng partidong nasa poder. At nasundan pa ito ng maraming manipestasyon ng walang habas na pagtatapon ng salapi sa hangaring makabingwit ng mga boto ng bayang mangmang at nahalal.",
+    "entities": [
+      [
+        145,
+        148,
+        "Organization-Political"
+      ],
+      [
+        96,
+        130,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1886"
+  },
+  {
+    "text": "Kasinghalaga rin ng selyong binibili at idinidikit sa kanang bahagi ng sobre ang paglalagay ng kumpletong return address.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2343"
+  },
+  {
+    "text": "Binanggit ni Lazaro ang umano’y iba’t ibang pahayag ng Pangulong Marcos na nagpapakita “ng kanyang opisyal at personal na paniniwala na pakanang komunista ang pagpaslang kay Aquino” at ang isang memorandum sa board na iniharap ni Justice Manuel Lazaro, puno ng tanggapang legal ng Malakanyang.",
+    "entities": [
+      [
+        13,
+        19,
+        "Person-Individual"
+      ],
+      [
+        174,
+        180,
+        "Person-Individual"
+      ],
+      [
+        281,
+        292,
+        "Location"
+      ],
+      [
+        55,
+        71,
+        "Person-Individual"
+      ],
+      [
+        230,
+        277,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "465"
+  },
+  {
+    "text": "Batay sa mga teoryang ito at sa mga natuklasan sa pananaliksik, sina Mary C. Hargrave (direktor ng isang programa ng Re-Ed West Center for Children sa Sacramento, California) at ang sikologong si George E. Hargrave ay nakatuklas ng isang pamamaraan sa paglutas sa mga problema sa pag-uugali ng mga batang edad 9 hanggang 12.",
+    "entities": [
+      [
+        69,
+        85,
+        "Person-Individual"
+      ],
+      [
+        117,
+        147,
+        "Organization-Other"
+      ],
+      [
+        151,
+        173,
+        "Location"
+      ],
+      [
+        196,
+        214,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1935"
+  },
+  {
+    "text": "Sino ang misteryosong asenderong ito na ayaw ibulgar ng BT? Ang asukarera ng CAREBI (Phil.) Inc., gayundin ang malalawak na tubuhan sa paligid nito, ay pag-aari ni Dr. Pacifico E. Marcos, kapatid ng diktador ng Pilipinas. Di kataka-taka!",
+    "entities": [
+      [
+        77,
+        96,
+        "Organization-Other"
+      ],
+      [
+        211,
+        220,
+        "Organization-Government"
+      ],
+      [
+        164,
+        186,
+        "Person-Individual"
+      ],
+      [
+        56,
+        58,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7517"
+  },
+  {
+    "text": "Ito ang inamin ng mga opisyal militar ng AFP sa isang komperensiya para sa mga peryodistang dayuhan, Enero 12.",
+    "entities": [
+      [
+        41,
+        44,
+        "Organization-Military"
+      ],
+      [
+        101,
+        109,
+        "Time"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7108"
+  },
+  {
+    "text": "Nakakatigatig ang pangyayaring ito, na kung maaapula’y maaaring dumating ang panahon na masyado na nating di pahahalagahan — hindi lamang ang karapatan kundi ang buhay mismo ng mga manggagawa o sinumang nagsasatinig ng sakdal sa pamamagitan ng welga o demonstrasyon. Kapag ipinagpatuloy natin ang ganitong kalakaran, ay pupurol nang pupurol ang ating pagpapakundangan sa kapwa.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1227"
+  },
+  {
+    "text": "Tayo ay isang lahing patuloy na nakasakay sa bagwis ng agila na magdadala sa atin sa pangil ng mga pating.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1380"
+  },
+  {
+    "text": "Kailangan ding pasiglahin pa ang pagsuporta ng mga kalunsuran sa kabuuang pagsisikap sa digma ",
+    "entities": [],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3770"
+  },
+  {
+    "text": "Samantala, lahat ng atletang Pilipino na wala nang laro ay pansamantalang nakatakdang umuwi sa Huwebes. Ang maiiwan lamang ay ang tatlong boksingero, gayundin ang kanilang assistant coach na si Ting Ariosa, upang katawanin ang bansa sa seremonya ng pagtatapos ng Olympics.",
+    "entities": [
+      [
+        95,
+        102,
+        "Time"
+      ],
+      [
+        263,
+        271,
+        "Event-International"
+      ],
+      [
+        29,
+        37,
+        "Person-Collective"
+      ],
+      [
+        130,
+        148,
+        "Numerical Statistics"
+      ],
+      [
+        194,
+        205,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "672"
+  },
+  {
+    "text": "Upang makagitaw sa kumpetisyon ang industriya ng asukal ng Pilipinas sa pamilihang pandaigdig, isinabansa ng pamahalaan ang pagluluwas ng asukal.",
+    "entities": [
+      [
+        59,
+        68,
+        "Location"
+      ]
+    ],
+    "Publication": "Sulong",
+    "Year": "1986",
+    "Row_Index": "5656"
+  },
+  {
+    "text": "AGRESYON. subersyon, pagsusuhay sa mga papet na diktadura: umaayon ang patakarang panlabas ng US sa sagligang katangian ng imperyalismo bilang pandaigdigang sistema.",
+    "entities": [
+      [
+        94,
+        96,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4173"
+  },
+  {
+    "text": "Ang iba pang pelikulang napanood namin na hinggil sa mga manggagawa ay ang Daluyong at Habagat ni Celso Ad. Castillo, ang Sakada ni Behn Cervantes, at ang Maynila: Sa mga Kuko ng Liwanag ni Lino Brocka.",
+    "entities": [
+      [
+        98,
+        116,
+        "Person-Individual"
+      ],
+      [
+        122,
+        128,
+        "Production-Media"
+      ],
+      [
+        132,
+        146,
+        "Person-Individual"
+      ],
+      [
+        155,
+        186,
+        "Production-Media"
+      ],
+      [
+        190,
+        201,
+        "Person-Individual"
+      ],
+      [
+        75,
+        94,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2704"
+  },
+  {
+    "text": "PLANTA NUKLEAR — Tinatayang magkakagastos lamang ng $700 milyon ang may lakas na 24 megawatt na planta nuklear na ito sa Morong, Bataan ay nakagugugol na ng $2 bilyon matapos magkabitin-bitin ang operation.",
+    "entities": [
+      [
+        121,
+        135,
+        "Location"
+      ],
+      [
+        52,
+        63,
+        "Numerical Statistics"
+      ],
+      [
+        81,
+        92,
+        "Numerical Statistics"
+      ],
+      [
+        157,
+        166,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1171"
+  },
+  {
+    "text": "At ngayong nahalal siya, hindi mawala sa isip ko ang huling gabi namin sa Lyceum. Parang may malaking tagumpay na nadama ako.",
+    "entities": [
+      [
+        74,
+        80,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1766"
+  },
+  {
+    "text": "Sa unang pakikipanayam mula nang simulan ang boksing dito, sinabi ni Coach Song-Eun Kim na ang dahilan nito ay ang “takot,” ang pangambang matatalo kung kaya’t pinagbubuti ng mga Koreano ang laban.",
+    "entities": [
+      [
+        69,
+        87,
+        "Person-Individual"
+      ],
+      [
+        179,
+        186,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "658"
+  },
+  {
+    "text": "Kapag ang isang beerhouse ay nagpapalabas ng malalaswa at ang isang sauna bath naman ay pinupugaran ng mga panandaliang kaligayahan, ito ay nire-raid at ipinapasara ng mga may kapangyarihan. Subalit paglipas lamang ng ilang araw, ito ay muling magbubukas dahil na rin sa pakikialam ng mga opisyal ng pulisya.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2753"
+  },
+  {
+    "text": "Nangingibabaw na tunguhin sa gubyerno ng US ang patuloy na pagbibigay sa rehimeng Marcos ng kinakailangang lohistika para mapanatili itong buhay bago ang sandaling pwede na itong mapalitan sa mapayapang paraan ng ibang papet na pangkatin. May kontra-agos naman mula sa mga seksyon ng sambayanang Amerikano at ng mga mambabatas ng oposisyon. Matagal nang nakapagpahayag ang mammanyang Pilipino ng tiyak na paninindigan laban sa mga base, ng matatag na paniniwalang ang mismong pag-iral ng mga ito sa lupang Pilipino ay paglabag sa ating soberanya at nakapaminsala sa kaligtasan at kapakanan ng ating bayan. Ang pananalig na ito ay hindi mababago ng kahit magkanong tulong o \"upa,\" kahit gavin pang rekisito sa mga ito ang iginigiit na mga \"reporma.\"",
+    "entities": [
+      [
+        82,
+        88,
+        "Person-Individual"
+      ],
+      [
+        41,
+        43,
+        "Organization-Government"
+      ],
+      [
+        384,
+        392,
+        "Person-Collective"
+      ],
+      [
+        506,
+        514,
+        "Person-Collective"
+      ],
+      [
+        330,
+        339,
+        "Organization-Political"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3913"
+  },
+  {
+    "text": "Noong nakaraang linggo, dalawang kandidato ng KBL sa Lunsod Quezon para sa Batasang Pambansa ang nagreklamo hinggil sa pananakot. Ang anak at asawa ng isang kandidato ay hinoldap umano at kinuha lamang ang mga leaflet, poster, at ibang kagamitan sa pagkampanya.",
+    "entities": [
+      [
+        46,
+        49,
+        "Organization-Political"
+      ],
+      [
+        53,
+        66,
+        "Location"
+      ],
+      [
+        75,
+        92,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2482"
+  },
+  {
+    "text": "Hanggang sa kasalukuyan, tatlong industriya pa lang ang naipailalim ng DOL at TUCP sa \"one-union, one-industry\".",
+    "entities": [
+      [
+        71,
+        74,
+        "Organization-Other"
+      ],
+      [
+        78,
+        82,
+        "Organization-Other"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7468"
+  },
+  {
+    "text": "Kaytamis manuyo ni Romulo kay Vance! Tatlo ang dahilan: Una, nag-uungot ang boss niyang si Marcos na tapusin na ang kasunduang militar, na titiyak sa mahigit $1-bilyong tulong ng militar ng E.U. sa rehimeng Marcos, sa anyong \"upa sa base militar\". Ikalawa, minamadali na rin niyang tiyakin na malaki ang pakinabang ng rehimeng Marcos sa pamumuhunan at kalakalan, na ipapaloob sa pinag-uusapan ngayong kasunduang pang-ekonomiya. At ikatlo, nais niyang \"makipag-ayusan\" sa administrasyong Carter kung ano ang gustong regalo ng E.U., kapalit ng pagpinid nito ng bunganga tungkol sa mga paglabag sa karapatang-tao sa Pilipinas.",
+    "entities": [
+      [
+        19,
+        25,
+        "Person-Individual"
+      ],
+      [
+        30,
+        35,
+        "Person-Individual"
+      ],
+      [
+        91,
+        97,
+        "Person-Individual"
+      ],
+      [
+        613,
+        622,
+        "Location"
+      ],
+      [
+        190,
+        194,
+        "Organization-Government"
+      ],
+      [
+        525,
+        529,
+        "Organization-Government"
+      ],
+      [
+        487,
+        493,
+        "Person-Individual"
+      ],
+      [
+        207,
+        213,
+        "Person-Individual"
+      ],
+      [
+        327,
+        333,
+        "Organization-Government"
+      ],
+      [
+        158,
+        175,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7825"
+  },
+  {
+    "text": "May partikular na papel ang mga syudad sa pagbubuo ng nagkakaisang prente. Doon nakasentro at mas maimpluwensya ang mga panggitnang na pwersa, at doon din nakabase ang mga pangunahing pwersa't grupong pampulitikang lumalaban sa diktadura (maliban sa Partido't hukbong Bayan at MNLF-BNA). Samantala, ang malakihang mga aksyong masa sa syudad ay mabisang behikulo para patampukin at ipaalam sa malawak na publiko ang pag-unlad ng rebolusyonaryong kilusan sa iba't ibang bahagi ng kapuluan.",
+    "entities": [
+      [
+        277,
+        285,
+        "Organization-Military"
+      ],
+      [
+        250,
+        257,
+        "Organization-Political"
+      ],
+      [
+        260,
+        273,
+        "Organization-Military"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1983",
+    "Row_Index": "4882"
+  },
+  {
+    "text": "Ganito naman ang datos ng Newsweek, isa pang magasing Amerikano, hinggil sa netong tubo ng malalaking kumpanya sa langis sa loob ng tatlong buwan lamang (Hulyo hanggang Setyembre 1979): Exxon---$1.145 bilyon; Texaco---$612.2 milyon; Mobil---$595 milyon; Amoco---$433.8 milyon; Gulf- $446 milyon; Shell--$393.3 milyon; Sohio---$366.2 milyon; Arco---$320.4 milyon; at Conoco---$247.1 milyon.",
+    "entities": [
+      [
+        186,
+        191,
+        "Organization-Other"
+      ],
+      [
+        209,
+        215,
+        "Organization-Other"
+      ],
+      [
+        233,
+        238,
+        "Organization-Other"
+      ],
+      [
+        254,
+        259,
+        "Organization-Other"
+      ],
+      [
+        277,
+        281,
+        "Organization-Other"
+      ],
+      [
+        296,
+        301,
+        "Organization-Other"
+      ],
+      [
+        318,
+        323,
+        "Organization-Other"
+      ],
+      [
+        341,
+        345,
+        "Organization-Other"
+      ],
+      [
+        366,
+        372,
+        "Organization-Other"
+      ],
+      [
+        194,
+        207,
+        "Numerical Statistics"
+      ],
+      [
+        218,
+        231,
+        "Numerical Statistics"
+      ],
+      [
+        241,
+        252,
+        "Numerical Statistics"
+      ],
+      [
+        262,
+        275,
+        "Numerical Statistics"
+      ],
+      [
+        283,
+        294,
+        "Numerical Statistics"
+      ],
+      [
+        303,
+        316,
+        "Numerical Statistics"
+      ],
+      [
+        326,
+        339,
+        "Numerical Statistics"
+      ],
+      [
+        348,
+        361,
+        "Numerical Statistics"
+      ],
+      [
+        375,
+        388,
+        "Numerical Statistics"
+      ],
+      [
+        54,
+        63,
+        "Person-Collective"
+      ],
+      [
+        132,
+        145,
+        "Numerical Statistics"
+      ],
+      [
+        154,
+        159,
+        "Time"
+      ],
+      [
+        169,
+        183,
+        "Time"
+      ],
+      [
+        26,
+        34,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1980",
+    "Row_Index": "4423"
+  },
+  {
+    "text": "Kabilang sa iba pang probinsya sa Hilagang Luson na nagtatagumpay ang BHB ay ang Quirino, Aurora, Cagayan at Nueva Vizcaya.",
+    "entities": [
+      [
+        34,
+        48,
+        "Location"
+      ],
+      [
+        70,
+        73,
+        "Organization-Military"
+      ],
+      [
+        81,
+        88,
+        "Location"
+      ],
+      [
+        90,
+        96,
+        "Location"
+      ],
+      [
+        98,
+        105,
+        "Location"
+      ],
+      [
+        109,
+        122,
+        "Location"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7166"
+  },
+  {
+    "text": "Idiniin ni Joe Castro, tagapangulo ng Justice for Jaycees, na ang kampanya ay naglalayong iangat ang kasalukuyang kalagayan ng mga taong ikinulong nang walang katarungan dahil sa kanilang pagtutol sa rehimeng Marcos.” — Noel R. Bartolome",
+    "entities": [
+      [
+        11,
+        21,
+        "Person-Individual"
+      ],
+      [
+        38,
+        57,
+        "Organization-Other"
+      ],
+      [
+        209,
+        215,
+        "Person-Individual"
+      ],
+      [
+        220,
+        237,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "351"
+  },
+  {
+    "text": "NAKALIGTAS — Bagamat hindi pa nakakabawi ng lakas, handa na si Hadji Abdulah Macalangun, 67, na labanan sa korte ang mga sundalong umano'y bumaril sa kanya nang hindi maabutan ang mga rebeldeng Muslim sa Lanao del Norte noong Hulyo 17.",
+    "entities": [
+      [
+        63,
+        87,
+        "Person-Individual"
+      ],
+      [
+        204,
+        219,
+        "Location"
+      ],
+      [
+        226,
+        234,
+        "Time"
+      ],
+      [
+        194,
+        200,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "721"
+  },
+  {
+    "text": "Pagpasok ng dekada ng 1970, bumaling ang patakarang panlabas ng US patungo sa tinaguriang detente. Mula sa gasgasang kumprontasyong antikomunista, pumustura itong bukas sa \"pakikipagnegosasyon\" sa mga sosyalistang bayan para kunwa'y bawasan ang tensyon sa daigdig. Sa katotohanan, pagtanggap ito sa kabiguan ng patakarang Cold War at pag-angkop sa mga bagong sirkumstansyang tinatayuan nito.",
+    "entities": [
+      [
+        322,
+        330,
+        "Event-International"
+      ],
+      [
+        22,
+        26,
+        "Time"
+      ],
+      [
+        132,
+        145,
+        "Production-Doctrine"
+      ],
+      [
+        64,
+        66,
+        "Organization-Government"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4177"
+  },
+  {
+    "text": "NEGROS: Napakainam ng sitwasyon, sumusulong ang rebolusyon",
+    "entities": [
+      [
+        0,
+        6,
+        "Location"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "4116"
+  },
+  {
+    "text": "Sa iyong napanood ay hindi mo naiwasang di magkumpare. May luha rin kayang iuukol sa Pangulo sa sandaling siya’y magpaalam? Kung ngayon siya magpapaalam, ngayong salanta ang republika, ang pamamaalam niya’y ibayong masahol pa kaysa ng kay Nixon. Pakinggan mo lamang ang mga tao.",
+    "entities": [
+      [
+        239,
+        244,
+        "Person-Individual"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1542"
+  },
+  {
+    "text": "Nang itaas ang pasahe—kasabay ng pagtaas ng presyo ng langis at gasolina—naging ₱500 ang karaniwang kita ng isang bus isang araw. Kaugnay nito, ibinaba ng may-ari sa 8% ang komisyon ng drayber at 6% sa konduktor.",
+    "entities": [
+      [
+        80,
+        84,
+        "Numerical Statistics"
+      ],
+      [
+        196,
+        198,
+        "Numerical Statistics"
+      ],
+      [
+        166,
+        168,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1974",
+    "Row_Index": "7074"
+  },
+  {
+    "text": "33 Marino, patay",
+    "entities": [
+      [
+        0,
+        9,
+        "Numerical Statistics"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6959"
+  },
+  {
+    "text": "Ang kayamanan sa ating mga bundok, gubat at dagat ay patuloy na ibinibenta ni Marcos sa mga imperyalistang dayuhan. Ang kayamanan ng lipunan, kayamanang likha at pinagpaguran ng manggagawa't magsasaka, ay dinadambong at kinakamkam ni Marcos at ng mga kakutsaba niyang mga asendero, komprador at burukratang kapitalista.",
+    "entities": [
+      [
+        78,
+        84,
+        "Person-Individual"
+      ],
+      [
+        234,
+        240,
+        "Person-Individual"
+      ],
+      [
+        307,
+        318,
+        "Person-Collective"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1973",
+    "Row_Index": "6917"
+  },
+  {
+    "text": "Ngunit hindi sang-ayon ang mga lalake sa pahayag na ito. Sa tingin ng mga lalake, hindi gayon kakontrolado ng mga babae ang kanilang sarili.",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "2212"
+  },
+  {
+    "text": "Lumalaking sigalot\n\nAng panganganatyaw ng pangkating Marcos sa oposisyon tungkol sa \"kawalan ng pagkakaisa,\" kung tutuusin, ay pagdura kontra sa hangin ng isang rehimeng sumisipol sa dilim. Tumatalsik ang dura sa sariling mukha, at ang pagsisipol ay pagpapalakas-loob lamang habang kabadong-kabado. Ang kumbensyon ng National Unification Committee (NUC-UNIDO) na pakulo ng mga repormistang burges at binoykot ng mga progresibo't demokratikong pwersa sa katunaya'y tanda ng pagkakawatak-watak ng mga naghaharing uri sa bansa, hindi ng prenteng antidiktadura.",
+    "entities": [
+      [
+        53,
+        59,
+        "Organization-Government"
+      ],
+      [
+        317,
+        347,
+        "Organization-Political"
+      ],
+      [
+        349,
+        358,
+        "Organization-Political"
+      ],
+      [
+        429,
+        442,
+        "Production-Doctrine"
+      ]
+    ],
+    "Publication": "Ang Bayan",
+    "Year": "1985",
+    "Row_Index": "3824"
+  },
+  {
+    "text": "“Dadanak ang dugo kapag sila’y nagtangkang palayasin kami!” Ang buong tapang na pinaninindigan ng mga maralita sa La Collina.",
+    "entities": [
+      [
+        114,
+        124,
+        "Location"
+      ]
+    ],
+    "Publication": "Ugnayan",
+    "Year": "1978",
+    "Row_Index": "5966"
+  },
+  {
+    "text": "Kaya't pinipilit ni Marcos na magmukhang \"makatotohanan\" ang inihahain niyang eleksyon. Nagbabakasakali siyang maniniwala ang taumbayan. At kailangan din niyang mapatunayan sa kanyang amo na may ipagyayabang pa siyang \"popularidad\".",
+    "entities": [
+      [
+        20,
+        26,
+        "Person-Individual"
+      ],
+      [
+        78,
+        86,
+        "Event-Local"
+      ]
+    ],
+    "Publication": "Taliba ng Bayan",
+    "Year": "1978",
+    "Row_Index": "7402"
+  },
+  {
+    "text": "Ang lingguhang Free Fort Mail sa Balanga, Battan ay nagpahayag na ang panlalawigang press sa bansa, na 95% umaasa sa judicial notices para sa patuloy na paglabas, ay lubhang naapektuhan ng mga regulasyon ng Bangko Sentral sa pagtataas sa sukdulang halaga ng foreclosure loans ng mga bangkong rural na maaaring ilathala sa pahayagang pampamayanan.",
+    "entities": [
+      [
+        33,
+        48,
+        "Location"
+      ],
+      [
+        103,
+        106,
+        "Numerical Statistics"
+      ],
+      [
+        207,
+        221,
+        "Organization-Government"
+      ],
+      [
+        15,
+        29,
+        "Production-Media"
+      ]
+    ],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "1214"
+  },
+  {
+    "text": "Maging matalino at alerto sana ang bayan. Huwag palilinlang. Huwag \"kakagatin\" ang mga pain ng magagandang pangako. Pag-aralan ang rekord ng bawat kandidatong humaharap at \"naghahain ng kanyang paglilingkod.\" Kung hindi mag-iingat ang mga botante, mauuto na naman sila. Halimbawa, ang mga ipinangangakong kaginhawahan at kaayusan ay baka mauwi sa \"kaginhawahan at kaayusan\" ng mga bulsa ng mga kandidato.                        ",
+    "entities": [],
+    "Publication": "Ang Tinig ng Masa",
+    "Year": "1984",
+    "Row_Index": "156"
+  }
+]

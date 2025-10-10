@@ -1,0 +1,258 @@
+[
+  {
+    "record_id": "62e6c5f6-d1ea-474b-ad6c-e45aa8c611dd",
+    "text": "Sa pagtatapos, inanyayahan ni Tanada ang mga delegado na sumali at saksihan ang Sakbayan (Sakay ng Bayan para sa Kalayaan), sinabi niyang “kauna-unahang pagkilos na sasaklaw sa halos kabuuan ng Luzon.”",
+    "span_text": "Sakbayan ",
+    "start": 80,
+    "end": 89,
+    "label": "Event-Local"
+  },
+  {
+    "record_id": "115bd696-ec00-4146-9704-7f499be1d651",
+    "text": "Nauna rito ipinahayag ng Lumadnong Alyansa-Alang sa Demokrasya sa Mindanao (LUMAD-Mindanao) na ang mga operasyong militar ay nagbunga ng malawakang paglabag sa mga pantaong karapatan.",
+    "span_text": "Mindanao ",
+    "start": 66,
+    "end": 75,
+    "label": "Location"
+  },
+  {
+    "record_id": "c6f41b27-8614-4cb7-85cc-571dd903f255",
+    "text": "Agad na kinamayan ng US ang sarili sa kanilang \"milagrong\" nagawa sa timog Korea, gayundin ang kanilang mga papet doon dahil sa \"pananagumpay\" ng \"demokratikong paniniwala,\" na siyang \"paniniwala rin namin sa loob ng dalawang daang taon o higit pa.\" Ang istorikal na pakikialam ng imperyalismong US sa timog Korea ay kadikit ng mga pangmilitar, pampulitika at pang-ekonomyang interes nito sa bansa at sa buong Asya-Pasipiko. Una na rito, gusto ng US ang istable at makapangyarihang timog Korea para diumano'y sagkaan ang anumang pagtatangkang sumalakay ng Demokratikong Republikang Bayan ng Korea (\"hilagang\" Korea), Republikang Bayan ng Tsina at Unyong Sobyet. Pero para sa US, mas importante ang timog Korea para depensahan ang Japan kung saan may gahiganteng interes ito.",
+    "span_text": "Demokratikong Republikang Bayan ng Korea ",
+    "start": 556,
+    "end": 597,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "c3ef279b-90f5-462a-b231-71153c5f4b4b",
+    "text": "MAYNILA (BMP)—Dalawang babaeng galing sa piyesta ang binastos ng tatlong sundalo ng PC sa loob ng isang bus noong Disyembre. Ang mga biktima ay napag-alamang mga 20 taong gulang.",
+    "span_text": "Dalawang babaeng",
+    "start": 14,
+    "end": 30,
+    "label": "Numerical Statistics"
+  },
+  {
+    "record_id": "4594c170-d126-4ceb-b400-2ed33b5157f1",
+    "text": "Ayon sa Dangadang (Sandatahang Pakikibaka), pahayagang masa sa rehiyon, sa isyu noong Nobyembre, una'y nagpetisyon ang mga taumbaryo sa meyor na pahintuin ang mga manggugubat (forester) ng BFD na magtanim sa kanilang mga lupaing sinasaka. Nang di ito pinakinggan, pinagbunot ng galit na mga mamamayang Igorot ang nakatanim na mga punong-kahoy.",
+    "span_text": "Dangadang ",
+    "start": 8,
+    "end": 18,
+    "label": "Production-Media"
+  },
+  {
+    "record_id": "cc9bc804-2610-48f2-879f-24fe2133a151",
+    "text": "Tampok sa welgang ito ang pagbuo ng pagsasama ng mga manggagawa para talakayin ang anti-manggagawang batas ng diktadura, ang kontrol ng imperyalismong E.U. sa ekonomia ng bansa, at ang mga ugat ng patuloy na krisis sa ekonomia.",
+    "span_text": "E.U",
+    "start": 151,
+    "end": 154,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "1dfa1d69-4a1b-4d1a-a312-118f8e8a1cbc",
+    "text": "Inilathala ng Komite Sentral ng Partido Komunista ng Pilipinas HULYO 1985 ",
+    "span_text": "HULYO 1985 ",
+    "start": 63,
+    "end": 74,
+    "label": "Time"
+  },
+  {
+    "record_id": "a6361828-c388-4363-a2a8-25edaf5ca669",
+    "text": "Pero ng maibulgar ang kaswitikang ito sa ilang diaryong internasyonal tulad ng New York Times, nagbawing salita ang NGA. Hindi raw naman ₱100 milyon—₱30 milyon lang. Ang sinungaling ay parang isda: sa bibig nahuhuli.",
+    "span_text": "₱100 milyon",
+    "start": 137,
+    "end": 148,
+    "label": "Numerical Statistics"
+  },
+  {
+    "record_id": "a6361828-c388-4363-a2a8-25edaf5ca669",
+    "text": "Pero ng maibulgar ang kaswitikang ito sa ilang diaryong internasyonal tulad ng New York Times, nagbawing salita ang NGA. Hindi raw naman ₱100 milyon—₱30 milyon lang. Ang sinungaling ay parang isda: sa bibig nahuhuli.",
+    "span_text": "₱30 milyon",
+    "start": 149,
+    "end": 159,
+    "label": "Numerical Statistics"
+  },
+  {
+    "record_id": "3a2df458-f7d6-42d1-aeca-f9e1e2c6bd35",
+    "text": "Dahil dito, napilitan tuloy kaming iusod ang aming plano na gawing pang-araw-araw na diyaryo ang Masa (Lunes hanggang Biyernes) magmula sa araw din ng pagtataas ng mga controlled media ng kani-kanilang presyo, o sa Hulyo 2.",
+    "span_text": "Masa ",
+    "start": 97,
+    "end": 102,
+    "label": "Production-Media"
+  },
+  {
+    "record_id": "e4a40d68-65c2-4e0e-ac41-41a3e1f2c6d7",
+    "text": "Sa sektor ng pagmamanupaktura, 78% ng mga yaring produkto ay gawa nila.",
+    "span_text": " 78%",
+    "start": 30,
+    "end": 34,
+    "label": "Numerical Statistics"
+  },
+  {
+    "record_id": "bb8266c5-4598-4961-8047-bbafb0123000",
+    "text": "\"Gusto mo bang mag-artista?\" ang may mahikang tanong na siyang nagbukas ng susi sa daigdig ng pantasya ng pinilakang tabing, ang siyang isinukli sa amin nang nakatawang si Rey/",
+    "span_text": "Rey",
+    "start": 172,
+    "end": 175,
+    "label": "Person-Individual"
+  },
+  {
+    "record_id": "9ccce39e-aed2-4ff0-9d67-9c6f3e69a557",
+    "text": "NAGKAKAISANG PROGRESIBONG ARTISTA-ARKITEKTO (NPA’ 72) SAMBUTANI (AWIT SA PAGTATAGUMPAY) SAMBAYANAN. BUMALIKWAS SA TANIKALA NG IMPERYALISMO",
+    "span_text": "SAMBUTANI ",
+    "start": 54,
+    "end": 64,
+    "label": "Organization-Political"
+  },
+  {
+    "record_id": "2bce79f6-8f38-4101-98ba-823d7bffcbc1",
+    "text": "SAMUT-SARI: Talaga yatang hindi mapapayapa ng kinauukulan na magkadalawa nang Assemblywoman Manotoc — isang Imee at isang Au-Au — sa Batasang Pambansa. Akalain ninyong sa mabilis at komputarisadong pagbilang ng Namfrel ay nakauungos si Gng. Aurora Pijuan-Manotoc sa kanyang kalabang si Arch. Ruperto Gaite, dating bise-gobernador ng Rizal at arkitekto ng kontrobersyal na Quezon City Hall, biglang-bigla na lamang na nalampasan siya ng kandidato ng KBL at mahigpit na suportado ni Alkalde Nemesio Yabut. Ang nakapagtataka pa nito, ang bilang ng botong sinabi ni Yabut na ilalamang ng kanyang kandidato kay Au-Au, tulad ng sinabi niya sa isang panayam ng Radio Veritas, ay halos katulad na katulad ng bilang ng botong iniulat ng Comelec. Nagkataon lamang?... Marami sa mga kandidatong gumamit ng islogang \"Ituloy ang Laban ni Ninoy!\" ang nagwagi. Kahit na patay na si Senator Aquino, lumilitaw na siya pa rin ang pinakamahigpit na kalaban ni Pangulong Marcos sa pulitika. Patuloy ang pamamayani ng ispiritu ni Ninoy.",
+    "span_text": "Assemblywoman Manotoc ",
+    "start": 78,
+    "end": 100,
+    "label": "Person-Individual"
+  },
+  {
+    "record_id": "2f6a0355-729b-4bd8-82fe-336b7bf1f19d",
+    "text": "Ang pinakahuling karahasan sa South Africa ay nag-umpisa noong Pebrero 25 nang tangkain ng puti't reaksyonaryong rehimeng Botha na wasakin ang buong komunidad ng mga itim na maralita ng lunsod sa Crossroads na malapit sa Cape Town, ang kabiserang pambatasan ng naturang bansa. Bato at baril ang isinagot ng mga itim nang pagbabarilin sila ng mga pulis. Ipinaaresto rin ng rehimeng Botha ang mga lider ng Nagkakaisang Demokratikong Prente (UDP), malaking organisasyong lumalaban sa apartheid (diskriminasyon laban sa mga itim).",
+    "span_text": "apartheid ",
+    "start": 481,
+    "end": 491,
+    "label": "Production-Doctrine"
+  },
+  {
+    "record_id": "5c765d47-6d49-44ee-83a1-a23693b52d0f",
+    "text": "Kilala rin ang mga KMN sa pangalang korporasyong transnasyonal (transnational corporations), korporasyong internasyonal (international corporations), pandaigdigang empresa (global enterprises), at halos isang dosena pang pangalan: Hubarin natin ang mga katawagang ito, at suriin ang kanilang operasyon, lilitaw ang kanilang natural: mga korporasyong pag-aari ng mga imperyalista.",
+    "span_text": "korporasyong transnasyonal ",
+    "start": 36,
+    "end": 63,
+    "label": "Organization-Other"
+  },
+  {
+    "record_id": "456e8295-713f-4f83-8608-1b34e3762eb8",
+    "text": "Ilan sa mga malawak na sakahang ito na nasa Mindanaw, Mindoro, Nueva Ecija, at iba pang lalawigan, ang sumusunod:\n  1. Meralco sa Umingan, Pangasinan, 1,500 ektarya;\n  2. Phil. National Bank, Mamburao, Mindoro Occ. (1,000);\n  3. Interfarms/FAC, Narra, Palawan, (2,500);\n  4. United Laboratories, Bansud; Mindoro Or., (1,300);\n  5. Lepanto Consolidated Mining, Kabakalan, Negros Occ., (2,600);\n  6. First National City Bank, Valencia, Bukidnon, (1,204);\n  7. Phil. Blooming Mills, Don Carlos, Bukidnon, (1,673);\n  8.General Rubber and Footwear Corp., Tago, Surigao del Sur, (4,185);\n  9. United Textile Mills, Manay, Davao Or., (1,194) \n  10. Seven-up Bottling Corp., Tantangan, Cotabato, (2,054);\n  11. Manila Banking Corp., Asuncion, Davao del Norte, (1,000);\n  12. Philex Mining Corp., Kapalong, Davao del Norte, (1,000).",
+    "span_text": "General Rubber and Footwear Corp.",
+    "start": 515,
+    "end": 548,
+    "label": "Organization-Other"
+  },
+  {
+    "record_id": "1de623ec-82c8-4384-8184-f56e3b3ac2f7",
+    "text": "Balisang-balisa si Marcos pagkat ang gobyernong E.U. ay patuloy na nakikipaglaro sa mga anti-Marcos na reaksyonaryo, at pasindak na \"nandidilat\" sa mga kontrobersyal niyang aksyon.",
+    "span_text": "E.U",
+    "start": 48,
+    "end": 51,
+    "label": "Location"
+  },
+  {
+    "record_id": "3a34b7fd-bbca-4a31-860b-4f3019396ff4",
+    "text": "SULAT\nAng AB sa Kalinga-Apayao\n\nDito sa aming distrito, pinakapopular syempre ang edisyong Ilokano ng AB, sunod ang Inggles (!!) at huli ang Pilipino (ito'y sa kasapian ng Partido at hukbo). Sa antas naman ng komite ng larangan, walang matingkad na preperensya ang mga kadre--Pilipino ang pinakamadalas na natutukoy, sunod ang Ilokano, pangatlo ang Kalinga, at huli (!!) ang Inggles. Sa nakikita ko, epektibo ang AB hanggang sa antas ng distrito (sa punto ng dami ng nakababasa at madaling makaunawa nito). Sa antas ng sangay, naroroon ang sigasig sa pagbabasa, pero duda ako kung malaki ang bisa nito sa indibidwai na bumabasa. (Marami sa antas ng sangay ang nahihirapang bumasa, isa itong dahilan.) Kaya kailangang paunlarin ang sistema ng grupong talakayan sa mahalaga't napapanahong mga artikulong napapabilis sa AB. Malaki ang papel ng giyang pampulitika (gayundin ng CO) sa grupong talakayan para mapalaganap ang mga nakasulat na propaganda natin. \n\nAng mga artikulong tulad ng kung paano kumikilos ang sangay ng Partido sa baryo, ang partisano sa mga sentrong bayan, ang kahalagahan ng isnayping bilang porma ng paglaban, ang mga iniunlad ng rebolusyong agraryo sa ating kanayunan, ay nakapupukaw sa interes ng mga kadre sa larangan at distrito, dahil angkop at napapanahon sa yugtong kinalalagyan ng larangan.\n\nKa Fiel\nKalinga-Apayao\n(Hilagang-kanlurang Luson)",
+    "span_text": "Pilipino ",
+    "start": 141,
+    "end": 150,
+    "label": "Person-Collective"
+  },
+  {
+    "record_id": "104eab12-820d-4661-85c8-c115fc7c2027",
+    "text": "Ang tawag ng lima sa kanilang grupo ay \"Papillon Squad\"—hango sa ngalan ng isang Prances na malimit na makatakas sa mga bilangguang mahigpit na natatanuran.",
+    "span_text": "Papillon Squad",
+    "start": 40,
+    "end": 54,
+    "label": "Organization-Military"
+  },
+  {
+    "record_id": "26bb0a35-9ebe-4be3-8010-6fcb51351ccb",
+    "text": "Sa buong kasaysayan ng BHB, ito ang pinakamalaking bilang ng armas na nakumpiska sa iisang operasyon. Ang dating rekord ay ang 84 na malalakas na armas na nakumpiska sa Zamboanga del Sur noong Enero [basahin sa ibaba]. Nauna pa rito, pinakamalalaki ang mga kumpiskasyon sa Mabini, Davao del Norte, noong 1982 (49 na riple), sa Malabacat, Pampanga noong 1976 (43), at sa Philippine Military Academy sa Baguio City noong 1971 (43 rin).",
+    "span_text": "Enero ",
+    "start": 193,
+    "end": 199,
+    "label": "Time"
+  },
+  {
+    "record_id": "51589af0-a02d-48c4-9a76-22dc3680a4aa",
+    "text": "Mga baseng E.U., panganib sa masa\n\nKailangan ding maging alerto ang mamamayan sa mga panganib na kinakaharap nila dahil sa patuloy na pananatili sa Pilipinas ng mga base militar at armadong hukbo ng E.U., at ang lubus-lubos na pagpapatuta at suporta ng diktadurang Marcos sa paghahanda ng imperyalismong E.U. para sa gera. \n\nTungkol sa mga base militar ng E.U., matagal nang ipinagbili ng rehimong Marcos ang soberanya, kasarinlan at integridad ng teritoryo ng Pilipinas, kapalit ng papalaking tulong sa ekonomia at militar, at para manatili ito sa kapangyarihan at protektahan ang mga interes ng imperyalismong E.U. \n\nHigit sa lahat, malinaw na ipinapakita ng diktadurang E.U.-Marcos ang kahandaan nitong ilagay ang buong bayan sa panganib ng nuklear na pagkawasak kung sumiklab ang puspusang gera sa pagitan ng imperyalismong E.U. at sosyal-imperyalismong Sobyet. \n\nKung gayon, kagyat na kailangan sa ngayon ang pagkakaisa ng lahat ng makabayang uri, sektor, organisasyon at indibidwal, at ang suporta nila sa armadong demokratikong rebolusyong bayan, para pabilisin ang pagbagsak ng diktadurang E.U.-Marcos. \n\nTanging sa pagbagsak ng diktadurang E.U.-Marcos at sa lubos na pag-alis sa imperyalistang dominasyon ng E.U. sa Pilipinas makakaligtas ang mamamayang Pilipino sa pagkawasak bunga ng nagbabantang gerang pandaigdig, at makakalaya sila para itatag ang nagsasarili at demokratikong lipunan.",
+    "span_text": "E.U",
+    "start": 199,
+    "end": 202,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "51589af0-a02d-48c4-9a76-22dc3680a4aa",
+    "text": "Mga baseng E.U., panganib sa masa\n\nKailangan ding maging alerto ang mamamayan sa mga panganib na kinakaharap nila dahil sa patuloy na pananatili sa Pilipinas ng mga base militar at armadong hukbo ng E.U., at ang lubus-lubos na pagpapatuta at suporta ng diktadurang Marcos sa paghahanda ng imperyalismong E.U. para sa gera. \n\nTungkol sa mga base militar ng E.U., matagal nang ipinagbili ng rehimong Marcos ang soberanya, kasarinlan at integridad ng teritoryo ng Pilipinas, kapalit ng papalaking tulong sa ekonomia at militar, at para manatili ito sa kapangyarihan at protektahan ang mga interes ng imperyalismong E.U. \n\nHigit sa lahat, malinaw na ipinapakita ng diktadurang E.U.-Marcos ang kahandaan nitong ilagay ang buong bayan sa panganib ng nuklear na pagkawasak kung sumiklab ang puspusang gera sa pagitan ng imperyalismong E.U. at sosyal-imperyalismong Sobyet. \n\nKung gayon, kagyat na kailangan sa ngayon ang pagkakaisa ng lahat ng makabayang uri, sektor, organisasyon at indibidwal, at ang suporta nila sa armadong demokratikong rebolusyong bayan, para pabilisin ang pagbagsak ng diktadurang E.U.-Marcos. \n\nTanging sa pagbagsak ng diktadurang E.U.-Marcos at sa lubos na pag-alis sa imperyalistang dominasyon ng E.U. sa Pilipinas makakaligtas ang mamamayang Pilipino sa pagkawasak bunga ng nagbabantang gerang pandaigdig, at makakalaya sila para itatag ang nagsasarili at demokratikong lipunan.",
+    "span_text": "E.U",
+    "start": 304,
+    "end": 307,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "51589af0-a02d-48c4-9a76-22dc3680a4aa",
+    "text": "Mga baseng E.U., panganib sa masa\n\nKailangan ding maging alerto ang mamamayan sa mga panganib na kinakaharap nila dahil sa patuloy na pananatili sa Pilipinas ng mga base militar at armadong hukbo ng E.U., at ang lubus-lubos na pagpapatuta at suporta ng diktadurang Marcos sa paghahanda ng imperyalismong E.U. para sa gera. \n\nTungkol sa mga base militar ng E.U., matagal nang ipinagbili ng rehimong Marcos ang soberanya, kasarinlan at integridad ng teritoryo ng Pilipinas, kapalit ng papalaking tulong sa ekonomia at militar, at para manatili ito sa kapangyarihan at protektahan ang mga interes ng imperyalismong E.U. \n\nHigit sa lahat, malinaw na ipinapakita ng diktadurang E.U.-Marcos ang kahandaan nitong ilagay ang buong bayan sa panganib ng nuklear na pagkawasak kung sumiklab ang puspusang gera sa pagitan ng imperyalismong E.U. at sosyal-imperyalismong Sobyet. \n\nKung gayon, kagyat na kailangan sa ngayon ang pagkakaisa ng lahat ng makabayang uri, sektor, organisasyon at indibidwal, at ang suporta nila sa armadong demokratikong rebolusyong bayan, para pabilisin ang pagbagsak ng diktadurang E.U.-Marcos. \n\nTanging sa pagbagsak ng diktadurang E.U.-Marcos at sa lubos na pag-alis sa imperyalistang dominasyon ng E.U. sa Pilipinas makakaligtas ang mamamayang Pilipino sa pagkawasak bunga ng nagbabantang gerang pandaigdig, at makakalaya sila para itatag ang nagsasarili at demokratikong lipunan.",
+    "span_text": "E.U",
+    "start": 356,
+    "end": 359,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "51589af0-a02d-48c4-9a76-22dc3680a4aa",
+    "text": "Mga baseng E.U., panganib sa masa\n\nKailangan ding maging alerto ang mamamayan sa mga panganib na kinakaharap nila dahil sa patuloy na pananatili sa Pilipinas ng mga base militar at armadong hukbo ng E.U., at ang lubus-lubos na pagpapatuta at suporta ng diktadurang Marcos sa paghahanda ng imperyalismong E.U. para sa gera. \n\nTungkol sa mga base militar ng E.U., matagal nang ipinagbili ng rehimong Marcos ang soberanya, kasarinlan at integridad ng teritoryo ng Pilipinas, kapalit ng papalaking tulong sa ekonomia at militar, at para manatili ito sa kapangyarihan at protektahan ang mga interes ng imperyalismong E.U. \n\nHigit sa lahat, malinaw na ipinapakita ng diktadurang E.U.-Marcos ang kahandaan nitong ilagay ang buong bayan sa panganib ng nuklear na pagkawasak kung sumiklab ang puspusang gera sa pagitan ng imperyalismong E.U. at sosyal-imperyalismong Sobyet. \n\nKung gayon, kagyat na kailangan sa ngayon ang pagkakaisa ng lahat ng makabayang uri, sektor, organisasyon at indibidwal, at ang suporta nila sa armadong demokratikong rebolusyong bayan, para pabilisin ang pagbagsak ng diktadurang E.U.-Marcos. \n\nTanging sa pagbagsak ng diktadurang E.U.-Marcos at sa lubos na pag-alis sa imperyalistang dominasyon ng E.U. sa Pilipinas makakaligtas ang mamamayang Pilipino sa pagkawasak bunga ng nagbabantang gerang pandaigdig, at makakalaya sila para itatag ang nagsasarili at demokratikong lipunan.",
+    "span_text": "E.U",
+    "start": 612,
+    "end": 615,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "51589af0-a02d-48c4-9a76-22dc3680a4aa",
+    "text": "Mga baseng E.U., panganib sa masa\n\nKailangan ding maging alerto ang mamamayan sa mga panganib na kinakaharap nila dahil sa patuloy na pananatili sa Pilipinas ng mga base militar at armadong hukbo ng E.U., at ang lubus-lubos na pagpapatuta at suporta ng diktadurang Marcos sa paghahanda ng imperyalismong E.U. para sa gera. \n\nTungkol sa mga base militar ng E.U., matagal nang ipinagbili ng rehimong Marcos ang soberanya, kasarinlan at integridad ng teritoryo ng Pilipinas, kapalit ng papalaking tulong sa ekonomia at militar, at para manatili ito sa kapangyarihan at protektahan ang mga interes ng imperyalismong E.U. \n\nHigit sa lahat, malinaw na ipinapakita ng diktadurang E.U.-Marcos ang kahandaan nitong ilagay ang buong bayan sa panganib ng nuklear na pagkawasak kung sumiklab ang puspusang gera sa pagitan ng imperyalismong E.U. at sosyal-imperyalismong Sobyet. \n\nKung gayon, kagyat na kailangan sa ngayon ang pagkakaisa ng lahat ng makabayang uri, sektor, organisasyon at indibidwal, at ang suporta nila sa armadong demokratikong rebolusyong bayan, para pabilisin ang pagbagsak ng diktadurang E.U.-Marcos. \n\nTanging sa pagbagsak ng diktadurang E.U.-Marcos at sa lubos na pag-alis sa imperyalistang dominasyon ng E.U. sa Pilipinas makakaligtas ang mamamayang Pilipino sa pagkawasak bunga ng nagbabantang gerang pandaigdig, at makakalaya sila para itatag ang nagsasarili at demokratikong lipunan.",
+    "span_text": "E.U",
+    "start": 828,
+    "end": 831,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "51589af0-a02d-48c4-9a76-22dc3680a4aa",
+    "text": "Mga baseng E.U., panganib sa masa\n\nKailangan ding maging alerto ang mamamayan sa mga panganib na kinakaharap nila dahil sa patuloy na pananatili sa Pilipinas ng mga base militar at armadong hukbo ng E.U., at ang lubus-lubos na pagpapatuta at suporta ng diktadurang Marcos sa paghahanda ng imperyalismong E.U. para sa gera. \n\nTungkol sa mga base militar ng E.U., matagal nang ipinagbili ng rehimong Marcos ang soberanya, kasarinlan at integridad ng teritoryo ng Pilipinas, kapalit ng papalaking tulong sa ekonomia at militar, at para manatili ito sa kapangyarihan at protektahan ang mga interes ng imperyalismong E.U. \n\nHigit sa lahat, malinaw na ipinapakita ng diktadurang E.U.-Marcos ang kahandaan nitong ilagay ang buong bayan sa panganib ng nuklear na pagkawasak kung sumiklab ang puspusang gera sa pagitan ng imperyalismong E.U. at sosyal-imperyalismong Sobyet. \n\nKung gayon, kagyat na kailangan sa ngayon ang pagkakaisa ng lahat ng makabayang uri, sektor, organisasyon at indibidwal, at ang suporta nila sa armadong demokratikong rebolusyong bayan, para pabilisin ang pagbagsak ng diktadurang E.U.-Marcos. \n\nTanging sa pagbagsak ng diktadurang E.U.-Marcos at sa lubos na pag-alis sa imperyalistang dominasyon ng E.U. sa Pilipinas makakaligtas ang mamamayang Pilipino sa pagkawasak bunga ng nagbabantang gerang pandaigdig, at makakalaya sila para itatag ang nagsasarili at demokratikong lipunan.",
+    "span_text": "E.U",
+    "start": 1217,
+    "end": 1220,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "46dd629f-4faf-44bc-bf71-d4fd528da860",
+    "text": "Sa saligan, kung gayon, ang mapagpasya sa pananatili ng ekonomya ng Pilipinas sa palagiang pagkikrisis ay ang dominasyon at kontrol ng imperyalismong US — at hindi ang \"natural\" na konsekwensya ng resesyon sa daigdig. Ang gayong dominasyon at kontrol ay nakatagpo ng pinakamaaasahang mga kakutsaba sa malalaking burges na kumprador, malalaking panginoong maylupa't malalaking burukratang kapitalistang bumubuo sa pangkating Marcos. Magkasapakat ang imperyalismong US at ang pangkatin sa pwersadong pananatili ng Pilipinas na isang paurong na ekonomyang agrikultural, isang pulubing nagpapalimos sa mga bangketa ng daigdig.",
+    "span_text": "US ",
+    "start": 150,
+    "end": 153,
+    "label": "Organization-Government"
+  },
+  {
+    "record_id": "bb8ce1dc-0b18-46cd-8cc1-3dfa1d927c6e",
+    "text": "Walumpu’t limang porsiyento ng 15,000 naninirahan sa Bagong Baryo.ay mga manggagawa o basurero (scavenger) na karaniwang kumikita ng P18 isang araw.",
+    "span_text": "Bagong Baryo",
+    "start": 53,
+    "end": 65,
+    "label": "Location"
+  },
+  {
+    "record_id": "19840fae-d695-46cc-a5e3-9d56f6d7ff24",
+    "text": "Ayon sa mga pinakahuling bilangan, maliwanag pa sa sikat ng araw na nagwagi ang mga kandidato ng Oposisyon sa Metro Manila at ang mga kandidato naman ng partido ng Administrasyon - ang Kilusang Bagong Lipunan - ay tumanggap ng mariin at masakit na dagok sa mga botante.",
+    "span_text": "Administrasyon ",
+    "start": 164,
+    "end": 179,
+    "label": "Organization-Political"
+  },
+  {
+    "record_id": "3f1a9fc6-8695-494e-a758-6cd9d3e49b0a",
+    "text": "Sa Lunsod Quezon, nireyd ng may 50-kataong tropa ng Metrocom ang St. Joseph's College, alas 4:30 ng umaga, Okt. 20.",
+    "span_text": " Okt. 20",
+    "start": 106,
+    "end": 114,
+    "label": "Time"
+  },
+  {
+    "record_id": "3b4931c3-7c0c-4f9d-8cc8-4f2223a5a893",
+    "text": "Matapos ito'y ipinamalita naman, kung totoo nga, na 2,081 detenido ang kanyang \"pinalaya\" makaraan ang \"eleksyon\" ng Abril 7 (BT, 6/26/78). Kabilang dito ang 588 demonstrador at walong lider ng LABAN, na nagmartsa-rali noong Abril 9.",
+    "span_text": " 6/26/78",
+    "start": 129,
+    "end": 137,
+    "label": "Time"
+  }
+]
